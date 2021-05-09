@@ -1,70 +1,70 @@
-Breakfast
-Chopped Walnuts 
-Craisins 
-Organic Hot Oatmeal 
-Biscuits and Gravy 
-Egg White Scramble (V) 
-French Toast Texas Style (V) 
-Fresh Spinach 
-Green Wheat Freekeh 
-Hard Cooked Eggs 
-Mild Yellow Shredded Cheddar 
-Sauteed Mushrooms 
-Sauteed Onions & Peppers 
-Scrambled Eggs (V) 
-Slow Roasted Tomatoes 
-Western Toppings 
-Apple Maple Chicken Sausage 
-Roasted Breakfast Potatoes 
-Assorted Bagels 
-Assorted Toast 
-Mini Butter Croissant w/Nuts 
-Fresh Kiwi Halves 
-Fresh Mixed Berries 
-Fresh Mixed Fruit Sections 
-Lunch
-Thai Curried Chicken 
-V Pasta Puttanesca 
-VG Basmati Rice 
-Eggplant Parmesan (V) 
-Fresh Pico De Gallo Salsa 
-Guacamole 
-VG Chik'n Fajita 
-VG Organic Black Beans 
-VG Organic Brown Basmati Rice 
-VG Red Beans & Rice 
-Whole Wheat Tortilla 
-Breaded Chicken Tenders 
-Cheeseburger w. Bun 
-Grilled Halal Chicken Sandwich 
-Grilled Honey Chipotle Jack Fruit Sandwich (V) 
-Grilled Pastrami Sandwich 
-Hamburger w. Bun 
-Hot Dog w. Bun 
-Steak Fries 
-VG Beet and Kale Burger 
-Fresh Spinach 
-Cheese Pizza 
-Garden Salad 
-Mexican Salad w/ Tortilla Strips 
-Spring Grain Bowl 
-Oatmeal Raisin Cookies 
-Dinner
-Smoked Seafood & Bacon Chowder 
-Chicken Adobo 
-Korean BBQ Pork 
-Rice Pilaf 
-VG Cajun Grilled Tofu 
-VG Moroccan Couscous & Tofu 
-VG Organic Brown Basmati Rice 
-Grilled Honey Chipotle Jack Fruit Sandwich (V) 
-Grilled Pastrami Sandwich 
-Alfredo Sauce (V) 
-BBQ Brisket Pizza 
-VG Marinara Sauce 
-Broccoli w/Garlic & Oil 
-Cheese Pizza 
-Garden Salad 
-Mexican Salad w/ Tortilla Strips 
-Spring Grain Bowl 
-Vegan Chocolate Cake w/Vanilla Frosting 
+breakfast 5/7/2021 :
+['Chopped Walnuts',
+ 'Craisins',
+ 'Organic Hot Oatmeal',
+ 'Biscuits and Gravy',
+ 'Egg White Scramble (V)',
+ 'French Toast Texas Style (V)',
+ 'Fresh Spinach',
+ 'Green Wheat Freekeh',
+ 'Hard Cooked Eggs',
+ 'Mild Yellow Shredded Cheddar',
+ 'Sauteed Mushrooms',
+ 'Sauteed Onions & Peppers',
+ 'Scrambled Eggs (V)',
+ 'Slow Roasted Tomatoes',
+ 'Western Toppings',
+ 'Apple Maple Chicken Sausage',
+ 'Roasted Breakfast Potatoes',
+ 'Assorted Bagels',
+ 'Assorted Toast',
+ 'Mini Butter Croissant w/Nuts',
+ 'Fresh Kiwi Halves',
+ 'Fresh Mixed Berries',
+ 'Fresh Mixed Fruit Sections']
+lunch 5/7/2021 :
+['Thai Curried Chicken',
+ 'V Pasta Puttanesca',
+ 'VG Basmati Rice',
+ 'Eggplant Parmesan (V)',
+ 'Fresh Pico De Gallo Salsa',
+ 'Guacamole',
+ "VG Chik'n Fajita",
+ 'VG Organic Black Beans',
+ 'VG Organic Brown Basmati Rice',
+ 'VG Red Beans & Rice',
+ 'Whole Wheat Tortilla',
+ 'Breaded Chicken Tenders',
+ 'Cheeseburger w. Bun',
+ 'Grilled Halal Chicken Sandwich',
+ 'Grilled Honey Chipotle Jack Fruit Sandwich (V)',
+ 'Grilled Pastrami Sandwich',
+ 'Hamburger w. Bun',
+ 'Hot Dog w. Bun',
+ 'Steak Fries',
+ 'VG Beet and Kale Burger',
+ 'Fresh Spinach',
+ 'Cheese Pizza',
+ 'Garden Salad',
+ 'Mexican Salad w/ Tortilla Strips',
+ 'Spring Grain Bowl',
+ 'Oatmeal Raisin Cookies']
+dinner 5/7/2021 :
+['Smoked Seafood & Bacon Chowder',
+ 'Chicken Adobo',
+ 'Korean BBQ Pork',
+ 'Rice Pilaf',
+ 'VG Cajun Grilled Tofu',
+ 'VG Moroccan Couscous & Tofu',
+ 'VG Organic Brown Basmati Rice',
+ 'Grilled Honey Chipotle Jack Fruit Sandwich (V)',
+ 'Grilled Pastrami Sandwich',
+ 'Alfredo Sauce (V)',
+ 'BBQ Brisket Pizza',
+ 'VG Marinara Sauce',
+ 'Broccoli w/Garlic & Oil',
+ 'Cheese Pizza',
+ 'Garden Salad',
+ 'Mexican Salad w/ Tortilla Strips',
+ 'Spring Grain Bowl',
+ 'Vegan Chocolate Cake w/Vanilla Frosting']
