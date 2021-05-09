@@ -1,11 +1,18 @@
 import requests
+import os
 from bs4 import BeautifulSoup
 from pprint import pprint
+import numpy as np
+import pandas as pd
 
 
-month = '5'
-day = '7'
-year = '2021'
+
+month = 5
+month = str(month)
+day = 8
+day = str(day)
+year = 2021
+year = str(year)
 url_date = month + '%2f' + day + '%2f' + year
 date = month + '/' + day + '/' + year
 # Get data from menu
@@ -46,9 +53,21 @@ breakfast = [el.replace('\xa0','') for el in breakfast]
 lunch = [el.replace('\xa0','') for el in lunch]
 dinner = [el.replace('\xa0','') for el in dinner]
 
-print("breakfast " + date + " :")
-pprint(breakfast)
-print("lunch " + date + " :")
-pprint(lunch)
-print("dinner " + date + " :")
-pprint(dinner)
+df_breakfast = pd.DataFrame()
+df_breakfast['Dish']  = breakfast
+df_breakfast = df_breakfast.assign(Meal='Breakfast')
+
+df_lunch = pd.DataFrame()
+df_lunch['Dish']  = lunch
+df_lunch = df_lunch.assign(Meal='Lunch')
+
+df_dinner = pd.DataFrame()
+df_dinner['Dish']  = dinner
+df_dinner = df_dinner.assign(Meal='Dinner')
+
+df1 = pd.concat([df_breakfast, df_lunch, df_dinner])
+df1 = df1.assign(Day=date)
+
+cwd = os.getcwd()
+path = cwd + "/menu.csv"
+df1.to_csv(path)
