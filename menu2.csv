@@ -1,0 +1,951 @@
+,brand_sort,match_sort,score_sort
+0,Chopped Walnuts,Thai Salmon w/Almonds,100
+1,Chopped Walnuts,Salmon Cakes,100
+2,Chopped Walnuts,Seared Salmon with Rice Noodles and Veg,100
+3,Chopped Walnuts,VG Vegetable Paella w/Almonds,83
+5,Organic Hot Oatmeal,Thai Salmon w/Almonds,100
+6,Organic Hot Oatmeal,Salmon Cakes,100
+7,Organic Hot Oatmeal,Seared Salmon with Rice Noodles and Veg,100
+8,Organic Hot Oatmeal,VG Vegetable Paella w/Almonds,83
+10,Raisins,Thai Salmon w/Almonds,100
+11,Raisins,Salmon Cakes,100
+12,Raisins,Seared Salmon with Rice Noodles and Veg,100
+13,Raisins,VG Vegetable Paella w/Almonds,83
+15,Biscuits and Gravy,Thai Salmon w/Almonds,100
+16,Biscuits and Gravy,Salmon Cakes,100
+17,Biscuits and Gravy,Seared Salmon with Rice Noodles and Veg,100
+18,Biscuits and Gravy,VG Vegetable Paella w/Almonds,83
+20,Egg White Scramble (V),Thai Salmon w/Almonds,100
+21,Egg White Scramble (V),Salmon Cakes,100
+22,Egg White Scramble (V),Seared Salmon with Rice Noodles and Veg,100
+23,Egg White Scramble (V),VG Vegetable Paella w/Almonds,83
+25,Fresh Spinach,Thai Salmon w/Almonds,100
+26,Fresh Spinach,Salmon Cakes,100
+27,Fresh Spinach,Seared Salmon with Rice Noodles and Veg,100
+28,Fresh Spinach,VG Vegetable Paella w/Almonds,83
+30,Green Wheat Freekeh,Thai Salmon w/Almonds,100
+31,Green Wheat Freekeh,Salmon Cakes,100
+32,Green Wheat Freekeh,Seared Salmon with Rice Noodles and Veg,100
+33,Green Wheat Freekeh,VG Vegetable Paella w/Almonds,83
+35,Hard Cooked Eggs,Thai Salmon w/Almonds,100
+36,Hard Cooked Eggs,Salmon Cakes,100
+37,Hard Cooked Eggs,Seared Salmon with Rice Noodles and Veg,100
+38,Hard Cooked Eggs,VG Vegetable Paella w/Almonds,83
+40,Mild Yellow Shredded Cheddar,Thai Salmon w/Almonds,100
+41,Mild Yellow Shredded Cheddar,Salmon Cakes,100
+42,Mild Yellow Shredded Cheddar,Seared Salmon with Rice Noodles and Veg,100
+43,Mild Yellow Shredded Cheddar,VG Vegetable Paella w/Almonds,83
+45,Sauteed Mushrooms,Thai Salmon w/Almonds,100
+47,Sauteed Mushrooms,Seared Salmon with Rice Noodles and Veg,100
+48,Sauteed Mushrooms,VG Vegetable Paella w/Almonds,83
+50,Sauteed Onions & Peppers,Thai Salmon w/Almonds,100
+52,Sauteed Onions & Peppers,Seared Salmon with Rice Noodles and Veg,100
+53,Sauteed Onions & Peppers,VG Vegetable Paella w/Almonds,83
+55,Scrambled Eggs (V),Thai Salmon w/Almonds,100
+57,Scrambled Eggs (V),Seared Salmon with Rice Noodles and Veg,100
+58,Scrambled Eggs (V),VG Vegetable Paella w/Almonds,83
+60,Silver Dollar Pancakes,Thai Salmon w/Almonds,100
+63,Silver Dollar Pancakes,VG Vegetable Paella w/Almonds,83
+65,Slow Roasted Tomatoes,Thai Salmon w/Almonds,100
+68,Slow Roasted Tomatoes,VG Vegetable Paella w/Almonds,83
+75,Chicken Sausage Patty,Thai Salmon w/Almonds,100
+76,Chicken Sausage Patty,Salmon Cakes,100
+77,Chicken Sausage Patty,Seared Salmon with Rice Noodles and Veg,100
+78,Chicken Sausage Patty,VG Vegetable Paella w/Almonds,83
+80,Roasted Breakfast Potatoes,Thai Salmon w/Almonds,100
+81,Roasted Breakfast Potatoes,Salmon Cakes,100
+82,Roasted Breakfast Potatoes,Seared Salmon with Rice Noodles and Veg,100
+83,Roasted Breakfast Potatoes,VG Vegetable Paella w/Almonds,83
+85,Assorted Bagels,Thai Salmon w/Almonds,100
+86,Assorted Bagels,Salmon Cakes,100
+87,Assorted Bagels,Seared Salmon with Rice Noodles and Veg,100
+88,Assorted Bagels,VG Vegetable Paella w/Almonds,83
+90,Assorted Toast,Thai Salmon w/Almonds,100
+91,Assorted Toast,Salmon Cakes,100
+92,Assorted Toast,Seared Salmon with Rice Noodles and Veg,100
+93,Assorted Toast,VG Vegetable Paella w/Almonds,83
+95,Mini Butter Croissant w/Nuts,Thai Salmon w/Almonds,100
+96,Mini Butter Croissant w/Nuts,Salmon Cakes,100
+97,Mini Butter Croissant w/Nuts,Seared Salmon with Rice Noodles and Veg,100
+98,Mini Butter Croissant w/Nuts,VG Vegetable Paella w/Almonds,83
+100,Fresh Mixed Berries,Thai Salmon w/Almonds,100
+101,Fresh Mixed Berries,Salmon Cakes,100
+102,Fresh Mixed Berries,Seared Salmon with Rice Noodles and Veg,100
+103,Fresh Mixed Berries,VG Vegetable Paella w/Almonds,83
+105,Grapefruit Sections,Thai Salmon w/Almonds,100
+106,Grapefruit Sections,Salmon Cakes,100
+107,Grapefruit Sections,Seared Salmon with Rice Noodles and Veg,100
+108,Grapefruit Sections,VG Vegetable Paella w/Almonds,83
+110,Sliced Pears,Thai Salmon w/Almonds,100
+113,Sliced Pears,VG Vegetable Paella w/Almonds,83
+115,Chicken Cacciatore,Thai Salmon w/Almonds,100
+116,Chicken Cacciatore,Salmon Cakes,100
+117,Chicken Cacciatore,Seared Salmon with Rice Noodles and Veg,100
+118,Chicken Cacciatore,VG Vegetable Paella w/Almonds,83
+120,Roasted Red Potato w/Rosemary,Thai Salmon w/Almonds,100
+121,Roasted Red Potato w/Rosemary,Salmon Cakes,100
+122,Roasted Red Potato w/Rosemary,Seared Salmon with Rice Noodles and Veg,100
+123,Roasted Red Potato w/Rosemary,VG Vegetable Paella w/Almonds,83
+125,Seafood Pasta w/SunDried Tomatoes & Artichokes,Thai Salmon w/Almonds,100
+127,Seafood Pasta w/SunDried Tomatoes & Artichokes,Seared Salmon with Rice Noodles and Veg,100
+128,Seafood Pasta w/SunDried Tomatoes & Artichokes,VG Vegetable Paella w/Almonds,83
+130,Guacamole,Thai Salmon w/Almonds,100
+131,Guacamole,Salmon Cakes,100
+132,Guacamole,Seared Salmon with Rice Noodles and Veg,100
+133,Guacamole,VG Vegetable Paella w/Almonds,83
+135,Spinach Artichoke Casserole (V),Thai Salmon w/Almonds,100
+138,Spinach Artichoke Casserole (V),VG Vegetable Paella w/Almonds,83
+143,VG Black Bean Hummus & Chipotle Quesadilla,VG Vegetable Paella w/Almonds,83
+148,VG Red Beans & Rice,VG Vegetable Paella w/Almonds,83
+150,Breaded Chicken Tenders,Thai Salmon w/Almonds,100
+151,Breaded Chicken Tenders,Salmon Cakes,100
+152,Breaded Chicken Tenders,Seared Salmon with Rice Noodles and Veg,100
+153,Breaded Chicken Tenders,VG Vegetable Paella w/Almonds,83
+155,Cheeseburger w. Bun,Thai Salmon w/Almonds,100
+156,Cheeseburger w. Bun,Salmon Cakes,100
+157,Cheeseburger w. Bun,Seared Salmon with Rice Noodles and Veg,100
+158,Cheeseburger w. Bun,VG Vegetable Paella w/Almonds,83
+160,Grilled Halal Chicken Sandwich,Thai Salmon w/Almonds,100
+161,Grilled Halal Chicken Sandwich,Salmon Cakes,100
+162,Grilled Halal Chicken Sandwich,Seared Salmon with Rice Noodles and Veg,100
+163,Grilled Halal Chicken Sandwich,VG Vegetable Paella w/Almonds,83
+165,Grilled Italian Vegetable Sandwich (V),Thai Salmon w/Almonds,100
+166,Grilled Italian Vegetable Sandwich (V),Salmon Cakes,100
+167,Grilled Italian Vegetable Sandwich (V),Seared Salmon with Rice Noodles and Veg,100
+168,Grilled Italian Vegetable Sandwich (V),VG Vegetable Paella w/Almonds,83
+170,Hamburger w. Bun,Thai Salmon w/Almonds,100
+171,Hamburger w. Bun,Salmon Cakes,100
+172,Hamburger w. Bun,Seared Salmon with Rice Noodles and Veg,100
+173,Hamburger w. Bun,VG Vegetable Paella w/Almonds,83
+175,Hot Dog w. Bun,Thai Salmon w/Almonds,100
+176,Hot Dog w. Bun,Salmon Cakes,100
+177,Hot Dog w. Bun,Seared Salmon with Rice Noodles and Veg,100
+178,Hot Dog w. Bun,VG Vegetable Paella w/Almonds,83
+180,Steak Fries,Thai Salmon w/Almonds,100
+183,Steak Fries,VG Vegetable Paella w/Almonds,83
+188,VG Mediterranean Burger,VG Vegetable Paella w/Almonds,83
+195,Basil & Tomato Pizza,Thai Salmon w/Almonds,100
+196,Basil & Tomato Pizza,Salmon Cakes,100
+197,Basil & Tomato Pizza,Seared Salmon with Rice Noodles and Veg,100
+198,Basil & Tomato Pizza,VG Vegetable Paella w/Almonds,83
+200,Cheese Pizza,Thai Salmon w/Almonds,100
+201,Cheese Pizza,Salmon Cakes,100
+202,Cheese Pizza,Seared Salmon with Rice Noodles and Veg,100
+203,Cheese Pizza,VG Vegetable Paella w/Almonds,83
+205,Garden Salad,Thai Salmon w/Almonds,100
+206,Garden Salad,Salmon Cakes,100
+207,Garden Salad,Seared Salmon with Rice Noodles and Veg,100
+208,Garden Salad,VG Vegetable Paella w/Almonds,83
+210,Butterscotch Rice Krispie Treat,Thai Salmon w/Almonds,100
+211,Butterscotch Rice Krispie Treat,Salmon Cakes,100
+212,Butterscotch Rice Krispie Treat,Seared Salmon with Rice Noodles and Veg,100
+213,Butterscotch Rice Krispie Treat,VG Vegetable Paella w/Almonds,83
+215,Carved Herb & Garlic Pork,Thai Salmon w/Almonds,100
+216,Carved Herb & Garlic Pork,Salmon Cakes,100
+217,Carved Herb & Garlic Pork,Seared Salmon with Rice Noodles and Veg,100
+218,Carved Herb & Garlic Pork,VG Vegetable Paella w/Almonds,83
+223,Thai Salmon w/Almonds,VG Vegetable Paella w/Almonds,83
+228,VG Basmati Rice,VG Vegetable Paella w/Almonds,83
+238,VG General Tso's Tofu,VG Vegetable Paella w/Almonds,83
+243,VG Organic Brown Basmati Rice,VG Vegetable Paella w/Almonds,83
+250,Alfredo Sauce (V),Thai Salmon w/Almonds,100
+251,Alfredo Sauce (V),Salmon Cakes,100
+252,Alfredo Sauce (V),Seared Salmon with Rice Noodles and Veg,100
+253,Alfredo Sauce (V),VG Vegetable Paella w/Almonds,83
+254,Alfredo Sauce (V),Apple Almond Danish Ring,83
+258,VG Fettuccini Pasta,VG Vegetable Paella w/Almonds,83
+260,Spicy Green Beans,Thai Salmon w/Almonds,100
+263,Spicy Green Beans,VG Vegetable Paella w/Almonds,83
+265,Pizza Antipasto,Thai Salmon w/Almonds,100
+266,Pizza Antipasto,Salmon Cakes,100
+267,Pizza Antipasto,Seared Salmon with Rice Noodles and Veg,100
+268,Pizza Antipasto,VG Vegetable Paella w/Almonds,83
+270,Peach & Raspberry Cobbler,Thai Salmon w/Almonds,100
+271,Peach & Raspberry Cobbler,Salmon Cakes,100
+272,Peach & Raspberry Cobbler,Seared Salmon with Rice Noodles and Veg,100
+273,Peach & Raspberry Cobbler,VG Vegetable Paella w/Almonds,83
+275,Craisins,Thai Salmon w/Almonds,100
+276,Craisins,Salmon Cakes,100
+277,Craisins,Seared Salmon with Rice Noodles and Veg,100
+278,Craisins,VG Vegetable Paella w/Almonds,83
+280,Apple Cinnamon Pancakes (V),Thai Salmon w/Almonds,100
+281,Apple Cinnamon Pancakes (V),Salmon Cakes,100
+282,Apple Cinnamon Pancakes (V),Seared Salmon with Rice Noodles and Veg,100
+283,Apple Cinnamon Pancakes (V),VG Vegetable Paella w/Almonds,83
+285,Sausage Links,Thai Salmon w/Almonds,100
+287,Sausage Links,Seared Salmon with Rice Noodles and Veg,100
+288,Sausage Links,VG Vegetable Paella w/Almonds,83
+293,VG Spicy Sweet Potato Homefries,VG Vegetable Paella w/Almonds,83
+295,Fresh Kiwi Halves,Thai Salmon w/Almonds,100
+296,Fresh Kiwi Halves,Salmon Cakes,100
+297,Fresh Kiwi Halves,Seared Salmon with Rice Noodles and Veg,100
+298,Fresh Kiwi Halves,VG Vegetable Paella w/Almonds,83
+300,Peach Halves,Thai Salmon w/Almonds,100
+301,Peach Halves,Salmon Cakes,100
+302,Peach Halves,Seared Salmon with Rice Noodles and Veg,100
+303,Peach Halves,VG Vegetable Paella w/Almonds,83
+305,Chicken Rice Soup,Thai Salmon w/Almonds,100
+306,Chicken Rice Soup,Salmon Cakes,100
+307,Chicken Rice Soup,Seared Salmon with Rice Noodles and Veg,100
+308,Chicken Rice Soup,VG Vegetable Paella w/Almonds,83
+310,Herb Crusted Cod,Thai Salmon w/Almonds,100
+311,Herb Crusted Cod,Salmon Cakes,100
+312,Herb Crusted Cod,Seared Salmon with Rice Noodles and Veg,100
+313,Herb Crusted Cod,VG Vegetable Paella w/Almonds,83
+315,Japanese Pork & Pasta,Thai Salmon w/Almonds,100
+316,Japanese Pork & Pasta,Salmon Cakes,100
+317,Japanese Pork & Pasta,Seared Salmon with Rice Noodles and Veg,100
+318,Japanese Pork & Pasta,VG Vegetable Paella w/Almonds,83
+323,VG Alu Chole,VG Vegetable Paella w/Almonds,83
+330,Beef Brisket Sandwich,Thai Salmon w/Almonds,100
+331,Beef Brisket Sandwich,Salmon Cakes,100
+332,Beef Brisket Sandwich,Seared Salmon with Rice Noodles and Veg,100
+333,Beef Brisket Sandwich,VG Vegetable Paella w/Almonds,83
+335,Chuckwagon Corn,Thai Salmon w/Almonds,100
+336,Chuckwagon Corn,Salmon Cakes,100
+337,Chuckwagon Corn,Seared Salmon with Rice Noodles and Veg,100
+338,Chuckwagon Corn,VG Vegetable Paella w/Almonds,83
+340,Mushroom Pizza,Thai Salmon w/Almonds,100
+341,Mushroom Pizza,Salmon Cakes,100
+342,Mushroom Pizza,Seared Salmon with Rice Noodles and Veg,100
+343,Mushroom Pizza,VG Vegetable Paella w/Almonds,83
+345,Pepperoni Pizza,Thai Salmon w/Almonds,100
+346,Pepperoni Pizza,Salmon Cakes,100
+347,Pepperoni Pizza,Seared Salmon with Rice Noodles and Veg,100
+348,Pepperoni Pizza,VG Vegetable Paella w/Almonds,83
+350,Double Chocolate Chip Cookie,Thai Salmon w/Almonds,100
+351,Double Chocolate Chip Cookie,Salmon Cakes,100
+352,Double Chocolate Chip Cookie,Seared Salmon with Rice Noodles and Veg,100
+353,Double Chocolate Chip Cookie,VG Vegetable Paella w/Almonds,83
+355,Baked Lasagna (V),Thai Salmon w/Almonds,100
+356,Baked Lasagna (V),Salmon Cakes,100
+357,Baked Lasagna (V),Seared Salmon with Rice Noodles and Veg,100
+358,Baked Lasagna (V),VG Vegetable Paella w/Almonds,83
+360,Steak Frites w/ Blackberry Compound Butter,Thai Salmon w/Almonds,100
+363,Steak Frites w/ Blackberry Compound Butter,VG Vegetable Paella w/Almonds,83
+368,VG Fishless Fish,VG Vegetable Paella w/Almonds,83
+373,VG Seared Moroccan Tofu w/Olives,VG Vegetable Paella w/Almonds,83
+378,VG Medium Shell Pasta,VG Vegetable Paella w/Almonds,83
+380,"Sauteed Greens w/Leeks, Garlic & Sesame",Thai Salmon w/Almonds,100
+382,"Sauteed Greens w/Leeks, Garlic & Sesame",Seared Salmon with Rice Noodles and Veg,100
+383,"Sauteed Greens w/Leeks, Garlic & Sesame",VG Vegetable Paella w/Almonds,83
+388,VG Blueberry Oat Bar,VG Vegetable Paella w/Almonds,83
+390,Pancakes,Thai Salmon w/Almonds,100
+391,Pancakes,Salmon Cakes,100
+392,Pancakes,Seared Salmon with Rice Noodles and Veg,100
+393,Pancakes,VG Vegetable Paella w/Almonds,83
+395,Crisp Bacon,Thai Salmon w/Almonds,100
+396,Crisp Bacon,Salmon Cakes,100
+397,Crisp Bacon,Seared Salmon with Rice Noodles and Veg,100
+398,Crisp Bacon,VG Vegetable Paella w/Almonds,83
+400,Fried Hash Browns,Thai Salmon w/Almonds,100
+401,Fried Hash Browns,Salmon Cakes,100
+402,Fried Hash Browns,Seared Salmon with Rice Noodles and Veg,100
+403,Fried Hash Browns,VG Vegetable Paella w/Almonds,83
+405,Apple Almond Danish Ring,Thai Salmon w/Almonds,100
+406,Apple Almond Danish Ring,Salmon Cakes,100
+407,Apple Almond Danish Ring,Seared Salmon with Rice Noodles and Veg,100
+408,Apple Almond Danish Ring,VG Vegetable Paella w/Almonds,83
+410,Orecchiette  Pasta w/ Sausage & Tomato,Thai Salmon w/Almonds,100
+411,Orecchiette  Pasta w/ Sausage & Tomato,Salmon Cakes,100
+412,Orecchiette  Pasta w/ Sausage & Tomato,Seared Salmon with Rice Noodles and Veg,100
+413,Orecchiette  Pasta w/ Sausage & Tomato,VG Vegetable Paella w/Almonds,83
+415,Salmon Cakes,Thai Salmon w/Almonds,100
+417,Salmon Cakes,Seared Salmon with Rice Noodles and Veg,100
+418,Salmon Cakes,VG Vegetable Paella w/Almonds,83
+420,Chickpeas & Vegetables (V),Thai Salmon w/Almonds,100
+421,Chickpeas & Vegetables (V),Salmon Cakes,100
+422,Chickpeas & Vegetables (V),Seared Salmon with Rice Noodles and Veg,100
+423,Chickpeas & Vegetables (V),VG Vegetable Paella w/Almonds,83
+428,VG Sweet Potato Shepherds Pie,VG Vegetable Paella w/Almonds,83
+430,Carrots with Fresh Dill,Thai Salmon w/Almonds,100
+431,Carrots with Fresh Dill,Salmon Cakes,100
+432,Carrots with Fresh Dill,Seared Salmon with Rice Noodles and Veg,100
+433,Carrots with Fresh Dill,VG Vegetable Paella w/Almonds,83
+435,Santa Fe Chicken Pizza,Thai Salmon w/Almonds,100
+437,Santa Fe Chicken Pizza,Seared Salmon with Rice Noodles and Veg,100
+438,Santa Fe Chicken Pizza,VG Vegetable Paella w/Almonds,83
+440,Oreo Brownie,Thai Salmon w/Almonds,100
+441,Oreo Brownie,Salmon Cakes,100
+442,Oreo Brownie,Seared Salmon with Rice Noodles and Veg,100
+443,Oreo Brownie,VG Vegetable Paella w/Almonds,83
+445,Braised Halal Lamb Leg,Thai Salmon w/Almonds,100
+446,Braised Halal Lamb Leg,Salmon Cakes,100
+447,Braised Halal Lamb Leg,Seared Salmon with Rice Noodles and Veg,100
+448,Braised Halal Lamb Leg,VG Vegetable Paella w/Almonds,83
+450,Pad See Yew w/Shrimp & Peanuts,Thai Salmon w/Almonds,100
+451,Pad See Yew w/Shrimp & Peanuts,Salmon Cakes,100
+452,Pad See Yew w/Shrimp & Peanuts,Seared Salmon with Rice Noodles and Veg,100
+453,Pad See Yew w/Shrimp & Peanuts,VG Vegetable Paella w/Almonds,83
+458,VG Chinese Sticky Rice,VG Vegetable Paella w/Almonds,83
+463,VG Kung Pao Lentils w/Cashews,VG Vegetable Paella w/Almonds,83
+468,VG Penne w/Garlicky Greens & Spicy Tomato,VG Vegetable Paella w/Almonds,83
+473,VG Linguini Pasta,VG Vegetable Paella w/Almonds,83
+475,Parslied Carrots,Thai Salmon w/Almonds,100
+476,Parslied Carrots,Salmon Cakes,100
+477,Parslied Carrots,Seared Salmon with Rice Noodles and Veg,100
+478,Parslied Carrots,VG Vegetable Paella w/Almonds,83
+483,VG Chocolate Brownie,VG Vegetable Paella w/Almonds,83
+485,Berry Blast Smoothie,Thai Salmon w/Almonds,100
+486,Berry Blast Smoothie,Salmon Cakes,100
+487,Berry Blast Smoothie,Seared Salmon with Rice Noodles and Veg,100
+488,Berry Blast Smoothie,VG Vegetable Paella w/Almonds,83
+490,French Toast Texas Style (V),Thai Salmon w/Almonds,100
+491,French Toast Texas Style (V),Salmon Cakes,100
+492,French Toast Texas Style (V),Seared Salmon with Rice Noodles and Veg,100
+493,French Toast Texas Style (V),VG Vegetable Paella w/Almonds,83
+495,Corned Beef Hash,Thai Salmon w/Almonds,100
+496,Corned Beef Hash,Salmon Cakes,100
+497,Corned Beef Hash,Seared Salmon with Rice Noodles and Veg,100
+498,Corned Beef Hash,VG Vegetable Paella w/Almonds,83
+500,Shredded Hash Browns,Thai Salmon w/Almonds,100
+503,Shredded Hash Browns,VG Vegetable Paella w/Almonds,83
+505,Asst Mini Croissant w/Nuts,Thai Salmon w/Almonds,100
+506,Asst Mini Croissant w/Nuts,Salmon Cakes,100
+507,Asst Mini Croissant w/Nuts,Seared Salmon with Rice Noodles and Veg,100
+508,Asst Mini Croissant w/Nuts,VG Vegetable Paella w/Almonds,83
+510,Fresh Mixed Fruit Sections,Thai Salmon w/Almonds,100
+511,Fresh Mixed Fruit Sections,Salmon Cakes,100
+512,Fresh Mixed Fruit Sections,Seared Salmon with Rice Noodles and Veg,100
+513,Fresh Mixed Fruit Sections,VG Vegetable Paella w/Almonds,83
+515,Grapefruit Halves,Thai Salmon w/Almonds,100
+516,Grapefruit Halves,Salmon Cakes,100
+517,Grapefruit Halves,Seared Salmon with Rice Noodles and Veg,100
+518,Grapefruit Halves,VG Vegetable Paella w/Almonds,83
+520,Chicken Pad Thai w/Peanuts,Thai Salmon w/Almonds,100
+521,Chicken Pad Thai w/Peanuts,Salmon Cakes,100
+522,Chicken Pad Thai w/Peanuts,Seared Salmon with Rice Noodles and Veg,100
+523,Chicken Pad Thai w/Peanuts,VG Vegetable Paella w/Almonds,83
+528,Tortellini Primavera w/Pesto Cream Sauce (V),VG Vegetable Paella w/Almonds,83
+533,VG Green Beans in Sesame & Peanut Masala,VG Vegetable Paella w/Almonds,83
+538,VG Organic Black Beans,VG Vegetable Paella w/Almonds,83
+543,VG Rajma Dal,VG Vegetable Paella w/Almonds,83
+545,Grilled Honey Chipotle Jack Fruit Sandwich (V),Thai Salmon w/Almonds,100
+546,Grilled Honey Chipotle Jack Fruit Sandwich (V),Salmon Cakes,100
+547,Grilled Honey Chipotle Jack Fruit Sandwich (V),Seared Salmon with Rice Noodles and Veg,100
+548,Grilled Honey Chipotle Jack Fruit Sandwich (V),VG Vegetable Paella w/Almonds,83
+550,Grilled Pastrami Sandwich,Thai Salmon w/Almonds,100
+551,Grilled Pastrami Sandwich,Salmon Cakes,100
+552,Grilled Pastrami Sandwich,Seared Salmon with Rice Noodles and Veg,100
+553,Grilled Pastrami Sandwich,VG Vegetable Paella w/Almonds,83
+558,VG Beet and Kale Burger,VG Vegetable Paella w/Almonds,83
+560,Cauliflower,Thai Salmon w/Almonds,100
+561,Cauliflower,Salmon Cakes,100
+562,Cauliflower,Seared Salmon with Rice Noodles and Veg,100
+563,Cauliflower,VG Vegetable Paella w/Almonds,83
+565,Mexican Salad w/ Tortilla Strips,Thai Salmon w/Almonds,100
+566,Mexican Salad w/ Tortilla Strips,Salmon Cakes,100
+567,Mexican Salad w/ Tortilla Strips,Seared Salmon with Rice Noodles and Veg,100
+568,Mexican Salad w/ Tortilla Strips,VG Vegetable Paella w/Almonds,83
+570,Spring Grain Bowl,Thai Salmon w/Almonds,100
+573,Spring Grain Bowl,VG Vegetable Paella w/Almonds,83
+575,Rainbow Blondie Brownie,Thai Salmon w/Almonds,100
+576,Rainbow Blondie Brownie,Salmon Cakes,100
+577,Rainbow Blondie Brownie,Seared Salmon with Rice Noodles and Veg,100
+578,Rainbow Blondie Brownie,VG Vegetable Paella w/Almonds,83
+580,Chicken Tikka Masala,Thai Salmon w/Almonds,100
+581,Chicken Tikka Masala,Salmon Cakes,100
+582,Chicken Tikka Masala,Seared Salmon with Rice Noodles and Veg,100
+583,Chicken Tikka Masala,VG Vegetable Paella w/Almonds,83
+585,Roasted Potatoes w/Lemon,Thai Salmon w/Almonds,100
+586,Roasted Potatoes w/Lemon,Salmon Cakes,100
+587,Roasted Potatoes w/Lemon,Seared Salmon with Rice Noodles and Veg,100
+588,Roasted Potatoes w/Lemon,VG Vegetable Paella w/Almonds,83
+593,VG Steamed Basmati Rice w/Cilantro,VG Vegetable Paella w/Almonds,83
+595,Roasted Butternut Squash& Red Onion Lasagna (V),Thai Salmon w/Almonds,100
+596,Roasted Butternut Squash& Red Onion Lasagna (V),Salmon Cakes,100
+597,Roasted Butternut Squash& Red Onion Lasagna (V),Seared Salmon with Rice Noodles and Veg,100
+598,Roasted Butternut Squash& Red Onion Lasagna (V),VG Vegetable Paella w/Almonds,83
+603,VG Seitan Stir Fry,VG Vegetable Paella w/Almonds,83
+605,Chicken & Noodle StirFry w/Thai Red Curry Sauce,Thai Salmon w/Almonds,100
+606,Chicken & Noodle StirFry w/Thai Red Curry Sauce,Salmon Cakes,100
+607,Chicken & Noodle StirFry w/Thai Red Curry Sauce,Seared Salmon with Rice Noodles and Veg,100
+608,Chicken & Noodle StirFry w/Thai Red Curry Sauce,VG Vegetable Paella w/Almonds,83
+613,Tofu & Vegetable Stir Fry w/Sesame Garlic Sauce,VG Vegetable Paella w/Almonds,83
+615,Green Beans w/Garlic & Tomato,Thai Salmon w/Almonds,100
+616,Green Beans w/Garlic & Tomato,Salmon Cakes,100
+617,Green Beans w/Garlic & Tomato,Seared Salmon with Rice Noodles and Veg,100
+618,Green Beans w/Garlic & Tomato,VG Vegetable Paella w/Almonds,83
+623,VG Apple Spice Cake w/Maple Buttercream,VG Vegetable Paella w/Almonds,83
+625,Multigrain Pancakes,Thai Salmon w/Almonds,100
+626,Multigrain Pancakes,Salmon Cakes,100
+627,Multigrain Pancakes,Seared Salmon with Rice Noodles and Veg,100
+628,Multigrain Pancakes,VG Vegetable Paella w/Almonds,83
+630,Pork Sausage Patties,Thai Salmon w/Almonds,100
+631,Pork Sausage Patties,Salmon Cakes,100
+632,Pork Sausage Patties,Seared Salmon with Rice Noodles and Veg,100
+633,Pork Sausage Patties,VG Vegetable Paella w/Almonds,83
+635,Country Fried Potatoes,Thai Salmon w/Almonds,100
+636,Country Fried Potatoes,Salmon Cakes,100
+637,Country Fried Potatoes,Seared Salmon with Rice Noodles and Veg,100
+638,Country Fried Potatoes,VG Vegetable Paella w/Almonds,83
+640,Assorted Mini Danish w/Nuts,Thai Salmon w/Almonds,100
+641,Assorted Mini Danish w/Nuts,Salmon Cakes,100
+642,Assorted Mini Danish w/Nuts,Seared Salmon with Rice Noodles and Veg,100
+643,Assorted Mini Danish w/Nuts,VG Vegetable Paella w/Almonds,83
+645,Italian Style Meatballs for Sub,Thai Salmon w/Almonds,100
+646,Italian Style Meatballs for Sub,Salmon Cakes,100
+647,Italian Style Meatballs for Sub,Seared Salmon with Rice Noodles and Veg,100
+648,Italian Style Meatballs for Sub,VG Vegetable Paella w/Almonds,83
+650,Meatball Sub w/Cheese,Thai Salmon w/Almonds,100
+651,Meatball Sub w/Cheese,Salmon Cakes,100
+652,Meatball Sub w/Cheese,Seared Salmon with Rice Noodles and Veg,100
+653,Meatball Sub w/Cheese,VG Vegetable Paella w/Almonds,83
+655,Parmesan Cheese,Thai Salmon w/Almonds,100
+656,Parmesan Cheese,Salmon Cakes,100
+657,Parmesan Cheese,Seared Salmon with Rice Noodles and Veg,100
+658,Parmesan Cheese,VG Vegetable Paella w/Almonds,83
+660,"Pasta w/Pesto, Asparagus & Shrimp",Thai Salmon w/Almonds,100
+661,"Pasta w/Pesto, Asparagus & Shrimp",Salmon Cakes,100
+662,"Pasta w/Pesto, Asparagus & Shrimp",Seared Salmon with Rice Noodles and Veg,100
+663,"Pasta w/Pesto, Asparagus & Shrimp",VG Vegetable Paella w/Almonds,83
+668,VG Marinara Sauce,VG Vegetable Paella w/Almonds,83
+673,VG Spaghetti,VG Vegetable Paella w/Almonds,83
+675,Pasta Frittata (V),Thai Salmon w/Almonds,100
+676,Pasta Frittata (V),Salmon Cakes,100
+677,Pasta Frittata (V),Seared Salmon with Rice Noodles and Veg,100
+678,Pasta Frittata (V),VG Vegetable Paella w/Almonds,83
+683,VG Caviar Medley Blend Rice,VG Vegetable Paella w/Almonds,83
+688,VG Mushroom Stroganoff,VG Vegetable Paella w/Almonds,83
+695,Sausage & Pepperoni Pizza,Thai Salmon w/Almonds,100
+697,Sausage & Pepperoni Pizza,Seared Salmon with Rice Noodles and Veg,100
+698,Sausage & Pepperoni Pizza,VG Vegetable Paella w/Almonds,83
+700,Butter Sugar Cookies,Thai Salmon w/Almonds,100
+701,Butter Sugar Cookies,Salmon Cakes,100
+702,Butter Sugar Cookies,Seared Salmon with Rice Noodles and Veg,100
+703,Butter Sugar Cookies,VG Vegetable Paella w/Almonds,83
+705,Fried Green Tomatoes,Thai Salmon w/Almonds,100
+706,Fried Green Tomatoes,Salmon Cakes,100
+707,Fried Green Tomatoes,Seared Salmon with Rice Noodles and Veg,100
+708,Fried Green Tomatoes,VG Vegetable Paella w/Almonds,83
+710,Remoulade Sauce,Thai Salmon w/Almonds,100
+711,Remoulade Sauce,Salmon Cakes,100
+712,Remoulade Sauce,Seared Salmon with Rice Noodles and Veg,100
+713,Remoulade Sauce,VG Vegetable Paella w/Almonds,83
+715,Artichoke and Spinach stuffed Roasted Peppers,Thai Salmon w/Almonds,100
+716,Artichoke and Spinach stuffed Roasted Peppers,Salmon Cakes,100
+717,Artichoke and Spinach stuffed Roasted Peppers,Seared Salmon with Rice Noodles and Veg,100
+718,Artichoke and Spinach stuffed Roasted Peppers,VG Vegetable Paella w/Almonds,83
+720,Eggplant Parmesan (V),Thai Salmon w/Almonds,100
+721,Eggplant Parmesan (V),Salmon Cakes,100
+722,Eggplant Parmesan (V),Seared Salmon with Rice Noodles and Veg,100
+723,Eggplant Parmesan (V),VG Vegetable Paella w/Almonds,83
+728,VG Chickpea Vindaloo,VG Vegetable Paella w/Almonds,83
+733,VG Spicy Vegetable Pakora,VG Vegetable Paella w/Almonds,83
+738,VG Steamed White Rice,VG Vegetable Paella w/Almonds,83
+743,VG Tarka Dal,VG Vegetable Paella w/Almonds,83
+745,Grande Vegetable Burrito (V),Thai Salmon w/Almonds,100
+746,Grande Vegetable Burrito (V),Salmon Cakes,100
+747,Grande Vegetable Burrito (V),Seared Salmon with Rice Noodles and Veg,100
+748,Grande Vegetable Burrito (V),VG Vegetable Paella w/Almonds,83
+753,VG Black Beans & Rice,VG Vegetable Paella w/Almonds,83
+758,VG Tex Mex  Casserole,VG Vegetable Paella w/Almonds,83
+763,VG Rigatoni Pasta,VG Vegetable Paella w/Almonds,83
+765,Butternut Squash w/Syrup,Thai Salmon w/Almonds,100
+766,Butternut Squash w/Syrup,Salmon Cakes,100
+767,Butternut Squash w/Syrup,Seared Salmon with Rice Noodles and Veg,100
+768,Butternut Squash w/Syrup,VG Vegetable Paella w/Almonds,83
+773,VG Mediterranean Pizza with Hummus and Chargrilled Veggies,VG Vegetable Paella w/Almonds,83
+778,VG Craisin Walnut Bar,VG Vegetable Paella w/Almonds,83
+780,Potato Puffs,Thai Salmon w/Almonds,100
+781,Potato Puffs,Salmon Cakes,100
+782,Potato Puffs,Seared Salmon with Rice Noodles and Veg,100
+783,Potato Puffs,VG Vegetable Paella w/Almonds,83
+785,Chocolate Chip Coffee Cake,Thai Salmon w/Almonds,100
+786,Chocolate Chip Coffee Cake,Salmon Cakes,100
+787,Chocolate Chip Coffee Cake,Seared Salmon with Rice Noodles and Veg,100
+788,Chocolate Chip Coffee Cake,VG Vegetable Paella w/Almonds,83
+790,Fresh Orange Sections,Thai Salmon w/Almonds,100
+791,Fresh Orange Sections,Salmon Cakes,100
+792,Fresh Orange Sections,Seared Salmon with Rice Noodles and Veg,100
+793,Fresh Orange Sections,VG Vegetable Paella w/Almonds,83
+798,VG Gluten-free Pancakes,VG Vegetable Paella w/Almonds,83
+800,Minestrone Soup (V),Thai Salmon w/Almonds,100
+801,Minestrone Soup (V),Salmon Cakes,100
+802,Minestrone Soup (V),Seared Salmon with Rice Noodles and Veg,100
+803,Minestrone Soup (V),VG Vegetable Paella w/Almonds,83
+813,VG Tofu Scramble,VG Vegetable Paella w/Almonds,83
+815,Sicilian Vegetables,Thai Salmon w/Almonds,100
+818,Sicilian Vegetables,VG Vegetable Paella w/Almonds,83
+820,German Cream Cheese Brownies,Thai Salmon w/Almonds,100
+821,German Cream Cheese Brownies,Salmon Cakes,100
+822,German Cream Cheese Brownies,Seared Salmon with Rice Noodles and Veg,100
+823,German Cream Cheese Brownies,VG Vegetable Paella w/Almonds,83
+825,Bourbon & Brown Sugar BBQ Chicken Thighs,Thai Salmon w/Almonds,100
+826,Bourbon & Brown Sugar BBQ Chicken Thighs,Salmon Cakes,100
+827,Bourbon & Brown Sugar BBQ Chicken Thighs,Seared Salmon with Rice Noodles and Veg,100
+828,Bourbon & Brown Sugar BBQ Chicken Thighs,VG Vegetable Paella w/Almonds,83
+830,Caramelized Onion and Blueberry Jam,Thai Salmon w/Almonds,100
+831,Caramelized Onion and Blueberry Jam,Salmon Cakes,100
+832,Caramelized Onion and Blueberry Jam,Seared Salmon with Rice Noodles and Veg,100
+833,Caramelized Onion and Blueberry Jam,VG Vegetable Paella w/Almonds,83
+835,Roasted Sweet Potatoes,Thai Salmon w/Almonds,100
+836,Roasted Sweet Potatoes,Salmon Cakes,100
+837,Roasted Sweet Potatoes,Seared Salmon with Rice Noodles and Veg,100
+838,Roasted Sweet Potatoes,VG Vegetable Paella w/Almonds,83
+843,VG Organic Edamame Soybeans,VG Vegetable Paella w/Almonds,83
+848,VG Samosa Stuffed Peppers w/Peanuts,VG Vegetable Paella w/Almonds,83
+853,VG Thai Sesame Noodles,VG Vegetable Paella w/Almonds,83
+858,VG Collard Greens w/Garlic,VG Vegetable Paella w/Almonds,83
+860,French Bread Pizza w/Cheese,Thai Salmon w/Almonds,100
+861,French Bread Pizza w/Cheese,Salmon Cakes,100
+862,French Bread Pizza w/Cheese,Seared Salmon with Rice Noodles and Veg,100
+863,French Bread Pizza w/Cheese,VG Vegetable Paella w/Almonds,83
+865,Green Chili Chicken,Thai Salmon w/Almonds,100
+866,Green Chili Chicken,Salmon Cakes,100
+867,Green Chili Chicken,Seared Salmon with Rice Noodles and Veg,100
+868,Green Chili Chicken,VG Vegetable Paella w/Almonds,83
+873,VG Mexican Chili,VG Vegetable Paella w/Almonds,83
+878,VG Quinoa & Spring Vegetable Pilaf,VG Vegetable Paella w/Almonds,83
+880,"Broccoli, Cauliflower & Carrots",Thai Salmon w/Almonds,100
+881,"Broccoli, Cauliflower & Carrots",Salmon Cakes,100
+882,"Broccoli, Cauliflower & Carrots",Seared Salmon with Rice Noodles and Veg,100
+883,"Broccoli, Cauliflower & Carrots",VG Vegetable Paella w/Almonds,83
+885,Buffalo Chicken Pizza,Thai Salmon w/Almonds,100
+886,Buffalo Chicken Pizza,Salmon Cakes,100
+887,Buffalo Chicken Pizza,Seared Salmon with Rice Noodles and Veg,100
+888,Buffalo Chicken Pizza,VG Vegetable Paella w/Almonds,83
+890,7 Layer Bar w/ Walnuts,Thai Salmon w/Almonds,100
+891,7 Layer Bar w/ Walnuts,Salmon Cakes,100
+892,7 Layer Bar w/ Walnuts,Seared Salmon with Rice Noodles and Veg,100
+893,7 Layer Bar w/ Walnuts,VG Vegetable Paella w/Almonds,83
+894,7 Layer Bar w/ Walnuts,Apple Almond Danish Ring,83
+895,Cuban Mojo Halal Chicken w/Warm Mango Avocado Salsa,Thai Salmon w/Almonds,100
+896,Cuban Mojo Halal Chicken w/Warm Mango Avocado Salsa,Salmon Cakes,100
+897,Cuban Mojo Halal Chicken w/Warm Mango Avocado Salsa,Seared Salmon with Rice Noodles and Veg,100
+898,Cuban Mojo Halal Chicken w/Warm Mango Avocado Salsa,VG Vegetable Paella w/Almonds,83
+903,VG Cuban Black Beans,VG Vegetable Paella w/Almonds,83
+905,Bow Tie Pasta (V),Thai Salmon w/Almonds,100
+906,Bow Tie Pasta (V),Salmon Cakes,100
+907,Bow Tie Pasta (V),Seared Salmon with Rice Noodles and Veg,100
+908,Bow Tie Pasta (V),VG Vegetable Paella w/Almonds,83
+913,VG Rainbow Chard w/Roasted Cauliflower,VG Vegetable Paella w/Almonds,83
+915,Apple Maple Chicken Sausage,Thai Salmon w/Almonds,100
+916,Apple Maple Chicken Sausage,Salmon Cakes,100
+917,Apple Maple Chicken Sausage,Seared Salmon with Rice Noodles and Veg,100
+918,Apple Maple Chicken Sausage,VG Vegetable Paella w/Almonds,83
+920,Thai Curried Chicken,Thai Salmon w/Almonds,100
+923,Thai Curried Chicken,VG Vegetable Paella w/Almonds,83
+928,V Pasta Puttanesca,VG Vegetable Paella w/Almonds,83
+930,Fresh Pico De Gallo Salsa,Thai Salmon w/Almonds,100
+931,Fresh Pico De Gallo Salsa,Salmon Cakes,100
+932,Fresh Pico De Gallo Salsa,Seared Salmon with Rice Noodles and Veg,100
+933,Fresh Pico De Gallo Salsa,VG Vegetable Paella w/Almonds,83
+938,VG Chik'n Fajita,VG Vegetable Paella w/Almonds,83
+945,Oatmeal Raisin Cookies,Thai Salmon w/Almonds,100
+946,Oatmeal Raisin Cookies,Salmon Cakes,100
+947,Oatmeal Raisin Cookies,Seared Salmon with Rice Noodles and Veg,100
+948,Oatmeal Raisin Cookies,VG Vegetable Paella w/Almonds,83
+950,Smoked Seafood & Bacon Chowder,Thai Salmon w/Almonds,100
+953,Smoked Seafood & Bacon Chowder,VG Vegetable Paella w/Almonds,83
+955,Chicken Adobo,Thai Salmon w/Almonds,100
+956,Chicken Adobo,Salmon Cakes,100
+957,Chicken Adobo,Seared Salmon with Rice Noodles and Veg,100
+958,Chicken Adobo,VG Vegetable Paella w/Almonds,83
+960,Korean BBQ Pork,Thai Salmon w/Almonds,100
+961,Korean BBQ Pork,Salmon Cakes,100
+962,Korean BBQ Pork,Seared Salmon with Rice Noodles and Veg,100
+963,Korean BBQ Pork,VG Vegetable Paella w/Almonds,83
+965,Rice Pilaf,Thai Salmon w/Almonds,100
+966,Rice Pilaf,Salmon Cakes,100
+967,Rice Pilaf,Seared Salmon with Rice Noodles and Veg,100
+968,Rice Pilaf,VG Vegetable Paella w/Almonds,83
+973,VG Cajun Grilled Tofu,VG Vegetable Paella w/Almonds,83
+978,VG Moroccan Couscous & Tofu,VG Vegetable Paella w/Almonds,83
+980,BBQ Brisket Pizza,Thai Salmon w/Almonds,100
+981,BBQ Brisket Pizza,Salmon Cakes,100
+982,BBQ Brisket Pizza,Seared Salmon with Rice Noodles and Veg,100
+983,BBQ Brisket Pizza,VG Vegetable Paella w/Almonds,83
+985,Broccoli w/Garlic & Oil,Thai Salmon w/Almonds,100
+986,Broccoli w/Garlic & Oil,Salmon Cakes,100
+987,Broccoli w/Garlic & Oil,Seared Salmon with Rice Noodles and Veg,100
+988,Broccoli w/Garlic & Oil,VG Vegetable Paella w/Almonds,83
+995,Multigrain Pancakes  w/Wild Blueberries,Thai Salmon w/Almonds,100
+996,Multigrain Pancakes  w/Wild Blueberries,Salmon Cakes,100
+997,Multigrain Pancakes  w/Wild Blueberries,Seared Salmon with Rice Noodles and Veg,100
+998,Multigrain Pancakes  w/Wild Blueberries,VG Vegetable Paella w/Almonds,83
+1000,Homestyle Potatoes,Thai Salmon w/Almonds,100
+1001,Homestyle Potatoes,Salmon Cakes,100
+1002,Homestyle Potatoes,Seared Salmon with Rice Noodles and Veg,100
+1003,Homestyle Potatoes,VG Vegetable Paella w/Almonds,83
+1005,Blueberry Scone,Thai Salmon w/Almonds,100
+1006,Blueberry Scone,Salmon Cakes,100
+1007,Blueberry Scone,Seared Salmon with Rice Noodles and Veg,100
+1008,Blueberry Scone,VG Vegetable Paella w/Almonds,83
+1010,Chicken Noodle Soup,Thai Salmon w/Almonds,100
+1011,Chicken Noodle Soup,Salmon Cakes,100
+1012,Chicken Noodle Soup,Seared Salmon with Rice Noodles and Veg,100
+1013,Chicken Noodle Soup,VG Vegetable Paella w/Almonds,83
+1015,Blackened Halal Chicken,Thai Salmon w/Almonds,100
+1016,Blackened Halal Chicken,Salmon Cakes,100
+1017,Blackened Halal Chicken,Seared Salmon with Rice Noodles and Veg,100
+1018,Blackened Halal Chicken,VG Vegetable Paella w/Almonds,83
+1020,Pappardelle Pasta w/ Shredded Chicken,Thai Salmon w/Almonds,100
+1021,Pappardelle Pasta w/ Shredded Chicken,Salmon Cakes,100
+1022,Pappardelle Pasta w/ Shredded Chicken,Seared Salmon with Rice Noodles and Veg,100
+1023,Pappardelle Pasta w/ Shredded Chicken,VG Vegetable Paella w/Almonds,83
+1025,Sour Cream,Thai Salmon w/Almonds,100
+1028,Sour Cream,VG Vegetable Paella w/Almonds,83
+1030,Fettucine con Almond (V),Thai Salmon w/Almonds,100
+1031,Fettucine con Almond (V),Salmon Cakes,100
+1032,Fettucine con Almond (V),Seared Salmon with Rice Noodles and Veg,100
+1033,Fettucine con Almond (V),VG Vegetable Paella w/Almonds,83
+1035,"Pasta Tomato, Basil & Mozzarella (V)",Thai Salmon w/Almonds,100
+1036,"Pasta Tomato, Basil & Mozzarella (V)",Salmon Cakes,100
+1037,"Pasta Tomato, Basil & Mozzarella (V)",Seared Salmon with Rice Noodles and Veg,100
+1038,"Pasta Tomato, Basil & Mozzarella (V)",VG Vegetable Paella w/Almonds,83
+1043,VG French Lentil w/Mushroom & Chard Casserole,VG Vegetable Paella w/Almonds,83
+1045,Peas & Corn w/Red Peppers,Thai Salmon w/Almonds,100
+1046,Peas & Corn w/Red Peppers,Salmon Cakes,100
+1047,Peas & Corn w/Red Peppers,Seared Salmon with Rice Noodles and Veg,100
+1048,Peas & Corn w/Red Peppers,VG Vegetable Paella w/Almonds,83
+1050,Pineapple & Ham Pizza,Thai Salmon w/Almonds,100
+1051,Pineapple & Ham Pizza,Salmon Cakes,100
+1052,Pineapple & Ham Pizza,Seared Salmon with Rice Noodles and Veg,100
+1053,Pineapple & Ham Pizza,VG Vegetable Paella w/Almonds,83
+1055,S'Mores Cereal Bar,Thai Salmon w/Almonds,100
+1056,S'Mores Cereal Bar,Salmon Cakes,100
+1057,S'Mores Cereal Bar,Seared Salmon with Rice Noodles and Veg,100
+1058,S'Mores Cereal Bar,VG Vegetable Paella w/Almonds,83
+1060,General Gau's Chicken,Thai Salmon w/Almonds,100
+1061,General Gau's Chicken,Salmon Cakes,100
+1062,General Gau's Chicken,Seared Salmon with Rice Noodles and Veg,100
+1063,General Gau's Chicken,VG Vegetable Paella w/Almonds,83
+1065,Seared Salmon with Rice Noodles and Veg,Thai Salmon w/Almonds,100
+1068,Seared Salmon with Rice Noodles and Veg,VG Vegetable Paella w/Almonds,83
+1073,VG Grilled Cauliflower Steak,VG Vegetable Paella w/Almonds,83
+1078,VG Vegetable Fried Rice,VG Vegetable Paella w/Almonds,83
+1080,Beef Onion Jalapeno Topping,Thai Salmon w/Almonds,100
+1081,Beef Onion Jalapeno Topping,Salmon Cakes,100
+1082,Beef Onion Jalapeno Topping,Seared Salmon with Rice Noodles and Veg,100
+1083,Beef Onion Jalapeno Topping,VG Vegetable Paella w/Almonds,83
+1085,Buffalo Chicken,Thai Salmon w/Almonds,100
+1086,Buffalo Chicken,Salmon Cakes,100
+1087,Buffalo Chicken,Seared Salmon with Rice Noodles and Veg,100
+1088,Buffalo Chicken,VG Vegetable Paella w/Almonds,83
+1090,Macaroni & Cheese (V),Thai Salmon w/Almonds,100
+1091,Macaroni & Cheese (V),Salmon Cakes,100
+1092,Macaroni & Cheese (V),Seared Salmon with Rice Noodles and Veg,100
+1093,Macaroni & Cheese (V),VG Vegetable Paella w/Almonds,83
+1095,Pulled Pork,Thai Salmon w/Almonds,100
+1096,Pulled Pork,Salmon Cakes,100
+1097,Pulled Pork,Seared Salmon with Rice Noodles and Veg,100
+1098,Pulled Pork,VG Vegetable Paella w/Almonds,83
+1100,Shrimp & Andouille Sausage,Thai Salmon w/Almonds,100
+1103,Shrimp & Andouille Sausage,VG Vegetable Paella w/Almonds,83
+1105,Spicy Fried Cauliflower (V),Thai Salmon w/Almonds,100
+1108,Spicy Fried Cauliflower (V),VG Vegetable Paella w/Almonds,83
+1115,Stir Fried Vegetables,Thai Salmon w/Almonds,100
+1118,Stir Fried Vegetables,VG Vegetable Paella w/Almonds,83
+1123,VG Herb Roasted Asparagus,VG Vegetable Paella w/Almonds,83
+1125,French Bread Pizza w/Pepperoni,Thai Salmon w/Almonds,100
+1126,French Bread Pizza w/Pepperoni,Salmon Cakes,100
+1127,French Bread Pizza w/Pepperoni,Seared Salmon with Rice Noodles and Veg,100
+1128,French Bread Pizza w/Pepperoni,VG Vegetable Paella w/Almonds,83
+1130,Chocolate Dipping Sauce,Thai Salmon w/Almonds,100
+1131,Chocolate Dipping Sauce,Salmon Cakes,100
+1132,Chocolate Dipping Sauce,Seared Salmon with Rice Noodles and Veg,100
+1133,Chocolate Dipping Sauce,VG Vegetable Paella w/Almonds,83
+1135,Churros,Thai Salmon w/Almonds,100
+1136,Churros,Salmon Cakes,100
+1137,Churros,Seared Salmon with Rice Noodles and Veg,100
+1138,Churros,VG Vegetable Paella w/Almonds,83
+1140,Fresh Whole Strawberries,Thai Salmon w/Almonds,100
+1141,Fresh Whole Strawberries,Salmon Cakes,100
+1142,Fresh Whole Strawberries,Seared Salmon with Rice Noodles and Veg,100
+1143,Fresh Whole Strawberries,VG Vegetable Paella w/Almonds,83
+1145,M&M's,Thai Salmon w/Almonds,100
+1146,M&M's,Salmon Cakes,100
+1147,M&M's,Seared Salmon with Rice Noodles and Veg,100
+1148,M&M's,VG Vegetable Paella w/Almonds,83
+1150,Oreo Cookie,Thai Salmon w/Almonds,100
+1151,Oreo Cookie,Salmon Cakes,100
+1152,Oreo Cookie,Seared Salmon with Rice Noodles and Veg,100
+1153,Oreo Cookie,VG Vegetable Paella w/Almonds,83
+1155,Reese's Pieces,Thai Salmon w/Almonds,100
+1156,Reese's Pieces,Salmon Cakes,100
+1157,Reese's Pieces,Seared Salmon with Rice Noodles and Veg,100
+1158,Reese's Pieces,VG Vegetable Paella w/Almonds,83
+1160,Almond Danish Ring,Thai Salmon w/Almonds,100
+1161,Almond Danish Ring,Salmon Cakes,100
+1162,Almond Danish Ring,Seared Salmon with Rice Noodles and Veg,100
+1163,Almond Danish Ring,VG Vegetable Paella w/Almonds,83
+1164,Almond Danish Ring,Apple Almond Danish Ring,83
+1165,Chicken Pozole,Thai Salmon w/Almonds,100
+1166,Chicken Pozole,Salmon Cakes,100
+1167,Chicken Pozole,Seared Salmon with Rice Noodles and Veg,100
+1168,Chicken Pozole,VG Vegetable Paella w/Almonds,83
+1170,Beef Fajita,Thai Salmon w/Almonds,100
+1171,Beef Fajita,Salmon Cakes,100
+1172,Beef Fajita,Seared Salmon with Rice Noodles and Veg,100
+1173,Beef Fajita,VG Vegetable Paella w/Almonds,83
+1175,Shrimp Taco w/Chipotle Sauce,Thai Salmon w/Almonds,100
+1178,Shrimp Taco w/Chipotle Sauce,VG Vegetable Paella w/Almonds,83
+1185,Salted Brown Butter Rice Krispie Treat,Thai Salmon w/Almonds,100
+1187,Salted Brown Butter Rice Krispie Treat,Seared Salmon with Rice Noodles and Veg,100
+1188,Salted Brown Butter Rice Krispie Treat,VG Vegetable Paella w/Almonds,83
+1190,Carved Aztec Rub Flank Steak,Thai Salmon w/Almonds,100
+1191,Carved Aztec Rub Flank Steak,Salmon Cakes,100
+1192,Carved Aztec Rub Flank Steak,Seared Salmon with Rice Noodles and Veg,100
+1193,Carved Aztec Rub Flank Steak,VG Vegetable Paella w/Almonds,83
+1195,Red Roasted Potatoes,Thai Salmon w/Almonds,100
+1196,Red Roasted Potatoes,Salmon Cakes,100
+1197,Red Roasted Potatoes,Seared Salmon with Rice Noodles and Veg,100
+1198,Red Roasted Potatoes,VG Vegetable Paella w/Almonds,83
+1203,Tofu Tikka Masala (V),VG Vegetable Paella w/Almonds,83
+1208,VG Quinoa w/Black Beans & Cilantro,VG Vegetable Paella w/Almonds,83
+1210,Penne Pasta (V),Thai Salmon w/Almonds,100
+1211,Penne Pasta (V),Salmon Cakes,100
+1212,Penne Pasta (V),Seared Salmon with Rice Noodles and Veg,100
+1213,Penne Pasta (V),VG Vegetable Paella w/Almonds,83
+1215,Roasted Carrots w/Dill,Thai Salmon w/Almonds,100
+1216,Roasted Carrots w/Dill,Salmon Cakes,100
+1217,Roasted Carrots w/Dill,Seared Salmon with Rice Noodles and Veg,100
+1218,Roasted Carrots w/Dill,VG Vegetable Paella w/Almonds,83
+1220,Grilled Vegetable Pizza,Thai Salmon w/Almonds,100
+1221,Grilled Vegetable Pizza,Salmon Cakes,100
+1222,Grilled Vegetable Pizza,Seared Salmon with Rice Noodles and Veg,100
+1223,Grilled Vegetable Pizza,VG Vegetable Paella w/Almonds,83
+1225,Mango Peach Orange Smoothie,Thai Salmon w/Almonds,100
+1226,Mango Peach Orange Smoothie,Salmon Cakes,100
+1227,Mango Peach Orange Smoothie,Seared Salmon with Rice Noodles and Veg,100
+1228,Mango Peach Orange Smoothie,VG Vegetable Paella w/Almonds,83
+1230,Golden Milk Latte Chia Pudding,Thai Salmon w/Almonds,100
+1231,Golden Milk Latte Chia Pudding,Salmon Cakes,100
+1232,Golden Milk Latte Chia Pudding,Seared Salmon with Rice Noodles and Veg,100
+1233,Golden Milk Latte Chia Pudding,VG Vegetable Paella w/Almonds,83
+1235,Raspberry Mocha Overnight Oats,Thai Salmon w/Almonds,100
+1236,Raspberry Mocha Overnight Oats,Salmon Cakes,100
+1237,Raspberry Mocha Overnight Oats,Seared Salmon with Rice Noodles and Veg,100
+1238,Raspberry Mocha Overnight Oats,VG Vegetable Paella w/Almonds,83
+1240,Sweet Potato Pancakes,Thai Salmon w/Almonds,100
+1243,Sweet Potato Pancakes,VG Vegetable Paella w/Almonds,83
+1250,Chicken Shawarma Style,Thai Salmon w/Almonds,100
+1251,Chicken Shawarma Style,Salmon Cakes,100
+1252,Chicken Shawarma Style,Seared Salmon with Rice Noodles and Veg,100
+1253,Chicken Shawarma Style,VG Vegetable Paella w/Almonds,83
+1255,Greek Pita,Thai Salmon w/Almonds,100
+1256,Greek Pita,Salmon Cakes,100
+1257,Greek Pita,Seared Salmon with Rice Noodles and Veg,100
+1258,Greek Pita,VG Vegetable Paella w/Almonds,83
+1260,Rigatoni w/ Wild Mushroom Ragu & Peas,Thai Salmon w/Almonds,100
+1261,Rigatoni w/ Wild Mushroom Ragu & Peas,Salmon Cakes,100
+1262,Rigatoni w/ Wild Mushroom Ragu & Peas,Seared Salmon with Rice Noodles and Veg,100
+1263,Rigatoni w/ Wild Mushroom Ragu & Peas,VG Vegetable Paella w/Almonds,83
+1268,VG Tahini Sauce,VG Vegetable Paella w/Almonds,83
+1270,Eggplant Lombardi (V),Thai Salmon w/Almonds,100
+1271,Eggplant Lombardi (V),Salmon Cakes,100
+1272,Eggplant Lombardi (V),Seared Salmon with Rice Noodles and Veg,100
+1273,Eggplant Lombardi (V),VG Vegetable Paella w/Almonds,83
+1275,Naan,Thai Salmon w/Almonds,100
+1276,Naan,Salmon Cakes,100
+1277,Naan,Seared Salmon with Rice Noodles and Veg,100
+1278,Naan,VG Vegetable Paella w/Almonds,83
+1283,VG Ground Crumbles w/VG Curry,VG Vegetable Paella w/Almonds,83
+1285,Cubano Sandwich,Thai Salmon w/Almonds,100
+1286,Cubano Sandwich,Salmon Cakes,100
+1287,Cubano Sandwich,Seared Salmon with Rice Noodles and Veg,100
+1288,Cubano Sandwich,VG Vegetable Paella w/Almonds,83
+1290,Eggplant Parmesan Sub,Thai Salmon w/Almonds,100
+1291,Eggplant Parmesan Sub,Salmon Cakes,100
+1292,Eggplant Parmesan Sub,Seared Salmon with Rice Noodles and Veg,100
+1293,Eggplant Parmesan Sub,VG Vegetable Paella w/Almonds,83
+1295,Garden Pattie Burger (V),Thai Salmon w/Almonds,100
+1296,Garden Pattie Burger (V),Salmon Cakes,100
+1297,Garden Pattie Burger (V),Seared Salmon with Rice Noodles and Veg,100
+1298,Garden Pattie Burger (V),VG Vegetable Paella w/Almonds,83
+1300,Beef for Stir Fry,Thai Salmon w/Almonds,100
+1301,Beef for Stir Fry,Salmon Cakes,100
+1302,Beef for Stir Fry,Seared Salmon with Rice Noodles and Veg,100
+1303,Beef for Stir Fry,VG Vegetable Paella w/Almonds,83
+1305,Chicken for Stir Fry,Thai Salmon w/Almonds,100
+1306,Chicken for Stir Fry,Salmon Cakes,100
+1307,Chicken for Stir Fry,Seared Salmon with Rice Noodles and Veg,100
+1308,Chicken for Stir Fry,VG Vegetable Paella w/Almonds,83
+1310,Diced Spanish Onions,Thai Salmon w/Almonds,100
+1311,Diced Spanish Onions,Salmon Cakes,100
+1312,Diced Spanish Onions,Seared Salmon with Rice Noodles and Veg,100
+1313,Diced Spanish Onions,VG Vegetable Paella w/Almonds,83
+1315,Diced Tomatoes,Thai Salmon w/Almonds,100
+1316,Diced Tomatoes,Salmon Cakes,100
+1317,Diced Tomatoes,Seared Salmon with Rice Noodles and Veg,100
+1318,Diced Tomatoes,VG Vegetable Paella w/Almonds,83
+1320,Flour Tortillas,Thai Salmon w/Almonds,100
+1321,Flour Tortillas,Salmon Cakes,100
+1322,Flour Tortillas,Seared Salmon with Rice Noodles and Veg,100
+1323,Flour Tortillas,VG Vegetable Paella w/Almonds,83
+1325,Picante Sauce,Thai Salmon w/Almonds,100
+1326,Picante Sauce,Salmon Cakes,100
+1327,Picante Sauce,Seared Salmon with Rice Noodles and Veg,100
+1328,Picante Sauce,VG Vegetable Paella w/Almonds,83
+1333,Tomatillo Salsa,VG Vegetable Paella w/Almonds,83
+1338,VG Baked Mexican Tofu,VG Vegetable Paella w/Almonds,83
+1343,VG Black beans,VG Vegetable Paella w/Almonds,83
+1348,VG Pinto Beans,VG Vegetable Paella w/Almonds,83
+1350,BBQ Chicken Pizza,Thai Salmon w/Almonds,100
+1351,BBQ Chicken Pizza,Salmon Cakes,100
+1352,BBQ Chicken Pizza,Seared Salmon with Rice Noodles and Veg,100
+1353,BBQ Chicken Pizza,VG Vegetable Paella w/Almonds,83
+1355,Chicken Pesto Grain Bowl,Thai Salmon w/Almonds,100
+1356,Chicken Pesto Grain Bowl,Salmon Cakes,100
+1357,Chicken Pesto Grain Bowl,Seared Salmon with Rice Noodles and Veg,100
+1358,Chicken Pesto Grain Bowl,VG Vegetable Paella w/Almonds,83
+1360,Kale Caesar Salad,Thai Salmon w/Almonds,100
+1361,Kale Caesar Salad,Salmon Cakes,100
+1362,Kale Caesar Salad,Seared Salmon with Rice Noodles and Veg,100
+1363,Kale Caesar Salad,VG Vegetable Paella w/Almonds,83
+1365,Brown Butter Blondie,Thai Salmon w/Almonds,100
+1366,Brown Butter Blondie,Salmon Cakes,100
+1367,Brown Butter Blondie,Seared Salmon with Rice Noodles and Veg,100
+1368,Brown Butter Blondie,VG Vegetable Paella w/Almonds,83
+1370,Chipotle Apricot Bbq Glazed Chicken Thighs,Thai Salmon w/Almonds,100
+1371,Chipotle Apricot Bbq Glazed Chicken Thighs,Salmon Cakes,100
+1372,Chipotle Apricot Bbq Glazed Chicken Thighs,Seared Salmon with Rice Noodles and Veg,100
+1373,Chipotle Apricot Bbq Glazed Chicken Thighs,VG Vegetable Paella w/Almonds,83
+1378,VG Seared Tofu w/Tomato Relish,VG Vegetable Paella w/Almonds,83
+1383,VG Three Bean Vegetable Chili,VG Vegetable Paella w/Almonds,83
+1385,Beef & Noodle Stir Fry w/Sesame Garlic Sauce,Thai Salmon w/Almonds,100
+1386,Beef & Noodle Stir Fry w/Sesame Garlic Sauce,Salmon Cakes,100
+1387,Beef & Noodle Stir Fry w/Sesame Garlic Sauce,Seared Salmon with Rice Noodles and Veg,100
+1388,Beef & Noodle Stir Fry w/Sesame Garlic Sauce,VG Vegetable Paella w/Almonds,83
+1393,Tofu & Noodle Stir Fry,VG Vegetable Paella w/Almonds,83
+1395,Peas & Mushrooms,Thai Salmon w/Almonds,100
+1396,Peas & Mushrooms,Salmon Cakes,100
+1397,Peas & Mushrooms,Seared Salmon with Rice Noodles and Veg,100
+1398,Peas & Mushrooms,VG Vegetable Paella w/Almonds,83
+1403,Ultimate Chocolate Cheese Cake,VG Vegetable Paella w/Almonds,83
+1405,Banana Pancakes (V),Thai Salmon w/Almonds,100
+1406,Banana Pancakes (V),Salmon Cakes,100
+1407,Banana Pancakes (V),Seared Salmon with Rice Noodles and Veg,100
+1408,Banana Pancakes (V),VG Vegetable Paella w/Almonds,83
+1410,Sliced Oval Ham,Thai Salmon w/Almonds,100
+1413,Sliced Oval Ham,VG Vegetable Paella w/Almonds,83
+1415,Beer Battered Onion Rings,Thai Salmon w/Almonds,100
+1416,Beer Battered Onion Rings,Salmon Cakes,100
+1417,Beer Battered Onion Rings,Seared Salmon with Rice Noodles and Veg,100
+1418,Beer Battered Onion Rings,VG Vegetable Paella w/Almonds,83
+1420,Buffalo Chicken Sandwich,Thai Salmon w/Almonds,100
+1421,Buffalo Chicken Sandwich,Salmon Cakes,100
+1422,Buffalo Chicken Sandwich,Seared Salmon with Rice Noodles and Veg,100
+1423,Buffalo Chicken Sandwich,VG Vegetable Paella w/Almonds,83
+1425,Farfalle w/ Vodka Sauce and Mushrooms,Thai Salmon w/Almonds,100
+1426,Farfalle w/ Vodka Sauce and Mushrooms,Salmon Cakes,100
+1427,Farfalle w/ Vodka Sauce and Mushrooms,Seared Salmon with Rice Noodles and Veg,100
+1428,Farfalle w/ Vodka Sauce and Mushrooms,VG Vegetable Paella w/Almonds,83
+1430,"Spiced Cauliflower, Cashew & Tofu w/Green Masala (V)",Thai Salmon w/Almonds,100
+1433,"Spiced Cauliflower, Cashew & Tofu w/Green Masala (V)",VG Vegetable Paella w/Almonds,83
+1435,Summer Squash,Thai Salmon w/Almonds,100
+1438,Summer Squash,VG Vegetable Paella w/Almonds,83
+1440,Sausage Pizza,Thai Salmon w/Almonds,100
+1442,Sausage Pizza,Seared Salmon with Rice Noodles and Veg,100
+1443,Sausage Pizza,VG Vegetable Paella w/Almonds,83
+1445,Funfetti Cookie Bar,Thai Salmon w/Almonds,100
+1446,Funfetti Cookie Bar,Salmon Cakes,100
+1447,Funfetti Cookie Bar,Seared Salmon with Rice Noodles and Veg,100
+1448,Funfetti Cookie Bar,VG Vegetable Paella w/Almonds,83
+1450,Corn Chowder (V),Thai Salmon w/Almonds,100
+1451,Corn Chowder (V),Salmon Cakes,100
+1452,Corn Chowder (V),Seared Salmon with Rice Noodles and Veg,100
+1453,Corn Chowder (V),VG Vegetable Paella w/Almonds,83
+1455,Falafel w. Tzatziki on Pita (V),Thai Salmon w/Almonds,100
+1456,Falafel w. Tzatziki on Pita (V),Salmon Cakes,100
+1457,Falafel w. Tzatziki on Pita (V),Seared Salmon with Rice Noodles and Veg,100
+1458,Falafel w. Tzatziki on Pita (V),VG Vegetable Paella w/Almonds,83
+1463,VG Chick'n Cacciatore,VG Vegetable Paella w/Almonds,83
+1468,VG Makhni Dal,VG Vegetable Paella w/Almonds,83
+1470,Steamed Baby Carrots,Thai Salmon w/Almonds,100
+1473,Steamed Baby Carrots,VG Vegetable Paella w/Almonds,83
+1475,Mini Ricotta Cannolis,Thai Salmon w/Almonds,100
+1476,Mini Ricotta Cannolis,Salmon Cakes,100
+1477,Mini Ricotta Cannolis,Seared Salmon with Rice Noodles and Veg,100
+1478,Mini Ricotta Cannolis,VG Vegetable Paella w/Almonds,83
+1480,Double Chocolate Zucchini Bread,Thai Salmon w/Almonds,100
+1481,Double Chocolate Zucchini Bread,Salmon Cakes,100
+1482,Double Chocolate Zucchini Bread,Seared Salmon with Rice Noodles and Veg,100
+1483,Double Chocolate Zucchini Bread,VG Vegetable Paella w/Almonds,83
+1485,Root Vegetable Hash,Thai Salmon w/Almonds,100
+1486,Root Vegetable Hash,Salmon Cakes,100
+1487,Root Vegetable Hash,Seared Salmon with Rice Noodles and Veg,100
+1488,Root Vegetable Hash,VG Vegetable Paella w/Almonds,83
+1490,Carved Roast Leg of Lamb,Thai Salmon w/Almonds,100
+1491,Carved Roast Leg of Lamb,Salmon Cakes,100
+1492,Carved Roast Leg of Lamb,Seared Salmon with Rice Noodles and Veg,100
+1493,Carved Roast Leg of Lamb,VG Vegetable Paella w/Almonds,83
+1495,Lemon Garlic & Rosemary Rubbed Chicken,Thai Salmon w/Almonds,100
+1496,Lemon Garlic & Rosemary Rubbed Chicken,Salmon Cakes,100
+1497,Lemon Garlic & Rosemary Rubbed Chicken,Seared Salmon with Rice Noodles and Veg,100
+1498,Lemon Garlic & Rosemary Rubbed Chicken,VG Vegetable Paella w/Almonds,83
+1500,Pastitsio (Vegan Crumbles w/Ziti) (V),Thai Salmon w/Almonds,100
+1501,Pastitsio (Vegan Crumbles w/Ziti) (V),Salmon Cakes,100
+1502,Pastitsio (Vegan Crumbles w/Ziti) (V),Seared Salmon with Rice Noodles and Veg,100
+1503,Pastitsio (Vegan Crumbles w/Ziti) (V),VG Vegetable Paella w/Almonds,83
+1505,Spanakopita,Thai Salmon w/Almonds,100
+1508,Spanakopita,VG Vegetable Paella w/Almonds,83
+1513,VG Fareekah Tabouleh Salad,VG Vegetable Paella w/Almonds,83
+1518,VG Rosemary & Garlic Roasted Potato,VG Vegetable Paella w/Almonds,83
+1520,Greek Salad,Thai Salmon w/Almonds,100
+1521,Greek Salad,Salmon Cakes,100
+1522,Greek Salad,Seared Salmon with Rice Noodles and Veg,100
+1523,Greek Salad,VG Vegetable Paella w/Almonds,83
+1525,Grilled Halal Chicken Breast,Thai Salmon w/Almonds,100
+1526,Grilled Halal Chicken Breast,Salmon Cakes,100
+1527,Grilled Halal Chicken Breast,Seared Salmon with Rice Noodles and Veg,100
+1528,Grilled Halal Chicken Breast,VG Vegetable Paella w/Almonds,83
+1530,Chocolate Chip Cookie,Thai Salmon w/Almonds,100
+1531,Chocolate Chip Cookie,Salmon Cakes,100
+1532,Chocolate Chip Cookie,Seared Salmon with Rice Noodles and Veg,100
+1533,Chocolate Chip Cookie,VG Vegetable Paella w/Almonds,83
+1535,Chicken Parmesan,Thai Salmon w/Almonds,100
+1536,Chicken Parmesan,Salmon Cakes,100
+1537,Chicken Parmesan,Seared Salmon with Rice Noodles and Veg,100
+1538,Chicken Parmesan,VG Vegetable Paella w/Almonds,83
+1540,Shrimp & Grits,Thai Salmon w/Almonds,100
+1543,Shrimp & Grits,VG Vegetable Paella w/Almonds,83
+1545,Farfalle Pasta w/Spicy Cream Sauce (V),Thai Salmon w/Almonds,100
+1546,Farfalle Pasta w/Spicy Cream Sauce (V),Salmon Cakes,100
+1547,Farfalle Pasta w/Spicy Cream Sauce (V),Seared Salmon with Rice Noodles and Veg,100
+1548,Farfalle Pasta w/Spicy Cream Sauce (V),VG Vegetable Paella w/Almonds,83
+1553,VG Spicy Vegetable Ragout,VG Vegetable Paella w/Almonds,83
+1555,Fresh Asparagus,Thai Salmon w/Almonds,100
+1556,Fresh Asparagus,Salmon Cakes,100
+1557,Fresh Asparagus,Seared Salmon with Rice Noodles and Veg,100
+1558,Fresh Asparagus,VG Vegetable Paella w/Almonds,83
+1560,Chicken Pesto Pizza,Thai Salmon w/Almonds,100
+1561,Chicken Pesto Pizza,Salmon Cakes,100
+1562,Chicken Pesto Pizza,Seared Salmon with Rice Noodles and Veg,100
+1563,Chicken Pesto Pizza,VG Vegetable Paella w/Almonds,83
+1565,Chocolate Cake w/White Frosting,Thai Salmon w/Almonds,100
+1566,Chocolate Cake w/White Frosting,Salmon Cakes,100
+1567,Chocolate Cake w/White Frosting,Seared Salmon with Rice Noodles and Veg,100
+1568,Chocolate Cake w/White Frosting,VG Vegetable Paella w/Almonds,83
+1570,Buffalo Chicken Wings,Thai Salmon w/Almonds,100
+1571,Buffalo Chicken Wings,Salmon Cakes,100
+1572,Buffalo Chicken Wings,Seared Salmon with Rice Noodles and Veg,100
+1573,Buffalo Chicken Wings,VG Vegetable Paella w/Almonds,83
+1575,Lo Mein Vegetables w/Ginger Sauce (V),Thai Salmon w/Almonds,100
+1576,Lo Mein Vegetables w/Ginger Sauce (V),Salmon Cakes,100
+1577,Lo Mein Vegetables w/Ginger Sauce (V),Seared Salmon with Rice Noodles and Veg,100
+1578,Lo Mein Vegetables w/Ginger Sauce (V),VG Vegetable Paella w/Almonds,83
+1583,VG Taco Filling,VG Vegetable Paella w/Almonds,83
+1585,Chocolate Frosted Brownie,Thai Salmon w/Almonds,100
+1586,Chocolate Frosted Brownie,Salmon Cakes,100
+1587,Chocolate Frosted Brownie,Seared Salmon with Rice Noodles and Veg,100
+1588,Chocolate Frosted Brownie,VG Vegetable Paella w/Almonds,83
+1593,VG Fire Roasted Tomato & Basil Soup,VG Vegetable Paella w/Almonds,83
+1595,Beef Vindaloo,Thai Salmon w/Almonds,100
+1596,Beef Vindaloo,Salmon Cakes,100
+1597,Beef Vindaloo,Seared Salmon with Rice Noodles and Veg,100
+1598,Beef Vindaloo,VG Vegetable Paella w/Almonds,83
+1600,Oven Browned Potatoes,Thai Salmon w/Almonds,100
+1601,Oven Browned Potatoes,Salmon Cakes,100
+1602,Oven Browned Potatoes,Seared Salmon with Rice Noodles and Veg,100
+1603,Oven Browned Potatoes,VG Vegetable Paella w/Almonds,83
+1605,Stuffed Shells w/Sauce (V),Thai Salmon w/Almonds,100
+1608,Stuffed Shells w/Sauce (V),VG Vegetable Paella w/Almonds,83
+1613,VG Chinese Orange Seitan,VG Vegetable Paella w/Almonds,83
+1615,Spinach w/Mushrooms,Thai Salmon w/Almonds,100
+1618,Spinach w/Mushrooms,VG Vegetable Paella w/Almonds,83
+1620,Coconut Crunch Cake,Thai Salmon w/Almonds,100
+1621,Coconut Crunch Cake,Salmon Cakes,100
+1622,Coconut Crunch Cake,Seared Salmon with Rice Noodles and Veg,100
+1623,Coconut Crunch Cake,VG Vegetable Paella w/Almonds,83
