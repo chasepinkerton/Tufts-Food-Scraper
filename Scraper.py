@@ -1,5 +1,6 @@
 import requests
 import os
+import sys
 from bs4 import BeautifulSoup
 from pprint import pprint
 from fuzzywuzzy import process, fuzz
@@ -8,17 +9,18 @@ import pandas as pd
 
 i = 0
 
-month = 7
+month = 8
 month = str(month)
-day = 22
+day = 1
 year = 2021
 year = str(year)
 column_names = ["Dish", "Meal", "Day"]
 df3 = pd.DataFrame(columns = column_names)
 
-while day < 23:
+while day < 9:
     url_date = month + '%2f' + str(day) + '%2f' + year
     date = month + '/' + str(day) + '/' + year
+    print("\tGetting Menu Data from " + date, flush=True)
 
     # Get data from menu
     URL = 'https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick2GO&naFlag=1' + url_date
@@ -89,5 +91,5 @@ while day < 23:
 
 cwd = os.getcwd()
 path = cwd + "/menu.csv"
-df3.to_csv(path)
+df3.to_csv(path, mode='a', header=False)
 

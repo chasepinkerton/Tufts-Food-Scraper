@@ -4,9 +4,10 @@ import numpy as np
 import pandas as pd
 import os
 
-
+# Convert Menu into Dataframe
 df = pd.read_csv(('menu.csv'), index_col=0)  
 
+# Get Unique list of all Dishes
 unique_dish = df['Dish'].unique().tolist()
 
 inp = input("What food are you looking for?\n")
@@ -23,11 +24,7 @@ high_score_sort = similarity_sort[(similarity_sort['score_sort'] >= 84)]
 # Convert to list
 matched_dishes_cutoff = list(high_score_sort.dish)
 
-# for dish in matched_dishes_cutoff:
-#     # print(df.loc[df['dish'] == dish.text])
-#     print(dish)
-#     # pprint(df.loc[df['Dish'] == dish])
-
+# Find matching rows in Menu CSV
 results = df[df['Dish'].isin(matched_dishes_cutoff)]
 
 pprint(results)
