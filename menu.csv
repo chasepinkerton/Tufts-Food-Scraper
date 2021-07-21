@@ -1,883 +1,1216 @@
 ,Dish,Meal,Day
-0,Chopped Walnuts,Breakfast,5/14/2021
-1,Organic Hot Oatmeal,Breakfast,5/14/2021
-2,Raisins,Breakfast,5/14/2021
-3,Biscuits and Gravy,Breakfast,5/14/2021
-4,Egg White Scramble (V),Breakfast,5/14/2021
-5,Fresh Spinach,Breakfast,5/14/2021
-6,Green Wheat Freekeh,Breakfast,5/14/2021
-7,Hard Cooked Eggs,Breakfast,5/14/2021
-8,Mild Yellow Shredded Cheddar,Breakfast,5/14/2021
-9,Sauteed Mushrooms,Breakfast,5/14/2021
-10,Sauteed Onions & Peppers,Breakfast,5/14/2021
-11,Scrambled Eggs (V),Breakfast,5/14/2021
-12,Silver Dollar Pancakes,Breakfast,5/14/2021
-13,Slow Roasted Tomatoes,Breakfast,5/14/2021
-14,Western Toppings,Breakfast,5/14/2021
-15,Chicken Sausage Patty,Breakfast,5/14/2021
-16,Roasted Breakfast Potatoes,Breakfast,5/14/2021
-17,Assorted Bagels,Breakfast,5/14/2021
-18,Assorted Toast,Breakfast,5/14/2021
-19,Mini Butter Croissant w/Nuts,Breakfast,5/14/2021
-20,Fresh Mixed Berries,Breakfast,5/14/2021
-21,Grapefruit Sections,Breakfast,5/14/2021
-22,Sliced Pears,Breakfast,5/14/2021
-0,Chicken Cacciatore,Lunch,5/14/2021
-1,Roasted Red Potato w/Rosemary,Lunch,5/14/2021
-2,Seafood Pasta w/SunDried Tomatoes & Artichokes,Lunch,5/14/2021
-3,Guacamole,Lunch,5/14/2021
-4,Spinach Artichoke Casserole (V),Lunch,5/14/2021
-5,VG Black Bean Hummus & Chipotle Quesadilla,Lunch,5/14/2021
-6,VG Red Beans & Rice,Lunch,5/14/2021
-7,Breaded Chicken Tenders,Lunch,5/14/2021
-8,Cheeseburger w. Bun,Lunch,5/14/2021
-9,Grilled Halal Chicken Sandwich,Lunch,5/14/2021
-10,Grilled Italian Vegetable Sandwich (V),Lunch,5/14/2021
-11,Hamburger w. Bun,Lunch,5/14/2021
-12,Hot Dog w. Bun,Lunch,5/14/2021
-13,Steak Fries,Lunch,5/14/2021
-14,VG Mediterranean Burger,Lunch,5/14/2021
-15,"Zucchini, Squash & Red Pepper",Lunch,5/14/2021
-16,Basil & Tomato Pizza,Lunch,5/14/2021
-17,Cheese Pizza,Lunch,5/14/2021
-18,Garden Salad,Lunch,5/14/2021
-19,Butterscotch Rice Krispie Treat,Lunch,5/14/2021
-0,Carved Herb & Garlic Pork,Dinner,5/14/2021
-1,Thai Salmon w/Almonds,Dinner,5/14/2021
-2,VG Basmati Rice,Dinner,5/14/2021
-3,Whipped Potatoes,Dinner,5/14/2021
-4,VG General Tso's Tofu,Dinner,5/14/2021
-5,VG Organic Brown Basmati Rice,Dinner,5/14/2021
-6,Ziti w/Broccoli & Sundried Tomatoes (V),Dinner,5/14/2021
-7,Grilled Italian Vegetable Sandwich (V),Dinner,5/14/2021
-8,Alfredo Sauce (V),Dinner,5/14/2021
-9,VG Fettuccini Pasta,Dinner,5/14/2021
-10,Spicy Green Beans,Dinner,5/14/2021
-11,Cheese Pizza,Dinner,5/14/2021
-12,Pizza Antipasto,Dinner,5/14/2021
-13,Garden Salad,Dinner,5/14/2021
-14,Peach & Raspberry Cobbler,Dinner,5/14/2021
-0,Chopped Walnuts,Breakfast,5/13/2021
-1,Craisins,Breakfast,5/13/2021
-2,Organic Hot Oatmeal,Breakfast,5/13/2021
-3,Apple Cinnamon Pancakes (V),Breakfast,5/13/2021
-4,Biscuits and Gravy,Breakfast,5/13/2021
-5,Egg White Scramble (V),Breakfast,5/13/2021
-6,Fresh Spinach,Breakfast,5/13/2021
-7,Green Wheat Freekeh,Breakfast,5/13/2021
-8,Hard Cooked Eggs,Breakfast,5/13/2021
-9,Mild Yellow Shredded Cheddar,Breakfast,5/13/2021
-10,Sauteed Mushrooms,Breakfast,5/13/2021
-11,Sauteed Onions & Peppers,Breakfast,5/13/2021
-12,Scrambled Eggs (V),Breakfast,5/13/2021
-13,Slow Roasted Tomatoes,Breakfast,5/13/2021
-14,Western Toppings,Breakfast,5/13/2021
-15,Sausage Links,Breakfast,5/13/2021
-16,VG Spicy Sweet Potato Homefries,Breakfast,5/13/2021
-17,Assorted Bagels,Breakfast,5/13/2021
-18,Assorted Toast,Breakfast,5/13/2021
-19,Mini Butter Croissant w/Nuts,Breakfast,5/13/2021
-20,Fresh Kiwi Halves,Breakfast,5/13/2021
-21,Fresh Mixed Berries,Breakfast,5/13/2021
-22,Peach Halves,Breakfast,5/13/2021
-0,Chicken Rice Soup,Lunch,5/13/2021
-1,Herb Crusted Cod,Lunch,5/13/2021
-2,Japanese Pork & Pasta,Lunch,5/13/2021
-3,VG Alu Chole,Lunch,5/13/2021
-4,VG Organic Brown Basmati Rice,Lunch,5/13/2021
-5,VG Vegetable Paella w/Almonds,Lunch,5/13/2021
-6,Beef Brisket Sandwich,Lunch,5/13/2021
-7,Breaded Chicken Tenders,Lunch,5/13/2021
-8,Cheeseburger w. Bun,Lunch,5/13/2021
-9,Grilled Halal Chicken Sandwich,Lunch,5/13/2021
-10,Grilled Italian Vegetable Sandwich (V),Lunch,5/13/2021
-11,Hamburger w. Bun,Lunch,5/13/2021
-12,Hot Dog w. Bun,Lunch,5/13/2021
-13,Steak Fries,Lunch,5/13/2021
-14,VG Mediterranean Burger,Lunch,5/13/2021
-15,Chuckwagon Corn,Lunch,5/13/2021
-16,Mushroom Pizza,Lunch,5/13/2021
-17,Pepperoni Pizza,Lunch,5/13/2021
-18,Garden Salad,Lunch,5/13/2021
-19,Double Chocolate Chip Cookie,Lunch,5/13/2021
-0,Baked Lasagna (V),Dinner,5/13/2021
-1,Steak Frites w/ Blackberry Compound Butter,Dinner,5/13/2021
-2,VG Fishless Fish,Dinner,5/13/2021
+0,Chicken Enchilada Casserole,Dinner,5/17/2021
+1,VG Hearty Vegetarian Stew,Dinner,5/17/2021
+2,Cooling Cucumber Soup (V),Dinner,5/17/2021
+3,VG Fire Roasted Tomato & Basil Soup,Dinner,5/17/2021
+4,Turkey Cuban,Dinner,5/17/2021
+5,"VG Shitake Tempeh ""Bacon"" Wrap",Dinner,5/17/2021
+6,Stuffed Shells w/Sauce (V),Dinner,5/17/2021
+7,VG Fried Brown Rice w/Tofu,Dinner,5/17/2021
+8,Beer Battered Fish and Chips w. Local Pollock,Dinner,5/17/2021
+9,Beer Battered Local Pollock Fish Sandwich on Potato Roll,Dinner,5/17/2021
+10,Cheeseburger on Potato Roll,Dinner,5/17/2021
+11,Hamburger on Potato Roll,Dinner,5/17/2021
+12,Lemon Pepper Chicken Sandwich on Potato Roll,Dinner,5/17/2021
+13,Two Hot Dogs w. Buns,Dinner,5/17/2021
+14,VG Mediterranean Quinoa Burger on a Potato Roll,Dinner,5/17/2021
+15,Corn on the Cob,Dinner,5/17/2021
+16,Breaded Chicken Tenders,Dinner,5/17/2021
+17,Fresh Mixed Berries,Dinner,5/17/2021
+18,Greek Style Pasta Salad,Dinner,5/17/2021
+19,Shoestring Fries,Dinner,5/17/2021
+20,Garden Salad,Dinner,5/17/2021
+21,Greek Salad,Dinner,5/17/2021
+22,Mediterranean Grain Bowl,Dinner,5/17/2021
+23,Assorted Cookies,Dinner,5/17/2021
+0,Biscuits and Gravy,Breakfast,5/14/2021
+1,Buttermilk Pancakes,Breakfast,5/14/2021
+2,Chocolate Banana Overnight Oats,Breakfast,5/14/2021
+3,White Scramble (V),Breakfast,5/14/2021
+4,Fresh Spinach,Breakfast,5/14/2021
+5,Green Wheat Freekeh,Breakfast,5/14/2021
+6,Hard Cooked Eggs,Breakfast,5/14/2021
+7,Sauteed Mushrooms,Breakfast,5/14/2021
+8,Scrambled Eggs (V),Breakfast,5/14/2021
+9,Slow Roasted Tomatoes,Breakfast,5/14/2021
+10,VG Coconut Chia Seed Pudding with Dukkah,Breakfast,5/14/2021
+11,Western Toppings,Breakfast,5/14/2021
+12,Sausage Links,Breakfast,5/14/2021
+13,Homestyle Potatoes,Breakfast,5/14/2021
+14,Assorted Bagels,Breakfast,5/14/2021
+15,Assorted Toast,Breakfast,5/14/2021
+16,Mini Butter Croissant w/Nuts,Breakfast,5/14/2021
+17,AF Apple Cinnamon Chia Pudding,Breakfast,5/14/2021
+18,AF BFree Multiseed Bagel,Breakfast,5/14/2021
+19,AF Fresh Fruit Salad,Breakfast,5/14/2021
+20,AF Fresh Kiwi Halves,Breakfast,5/14/2021
+21,AF Homestyle Potatoes,Breakfast,5/14/2021
+22,AF Pineapple Chunks,Breakfast,5/14/2021
+23,AF Sliced Peaches,Breakfast,5/14/2021
+24,AF VG French Toast,Breakfast,5/14/2021
+25,Brunch,Breakfast,5/14/2021
+26,AF Apple-Broccoli Kale Salad,Breakfast,5/14/2021
+27,AF Broccoli w/Garlic & Olive Oil,Breakfast,5/14/2021
+28,AF Halal Lemon Pepper Chicken Breast,Breakfast,5/14/2021
+29,AF Ratatouille,Breakfast,5/14/2021
+30,AF VG Toasted Quinoa Pilaf,Breakfast,5/14/2021
+31,Seafood Chowder,Breakfast,5/14/2021
+32,Rotini w/Chicken & Burgundy Wine,Breakfast,5/14/2021
+33,Salmon Fish Cakes,Breakfast,5/14/2021
+34,Polenta w/Creamed Mushrooms (V),Breakfast,5/14/2021
+35,VG Asian Vegetable Wrap w/Peanut Sauce,Breakfast,5/14/2021
+36,VG Organic Brown Basmati Rice,Breakfast,5/14/2021
+37,Breaded Chicken Tenders,Breakfast,5/14/2021
+38,Cheeseburger w. Bun,Breakfast,5/14/2021
+39,Grilled Halal Chicken Sandwich,Breakfast,5/14/2021
+40,Hamburger w. Bun,Breakfast,5/14/2021
+41,Hot Dog w. Bun,Breakfast,5/14/2021
+42,Steak Fries,Breakfast,5/14/2021
+43,VG Beet and Kale Burger,Breakfast,5/14/2021
+44,Stir Fry Vegetable Blend,Breakfast,5/14/2021
+45,Basil & Tomato Pizza,Breakfast,5/14/2021
+46,Cheese Pizza,Breakfast,5/14/2021
+47,Pizza Antipasto,Breakfast,5/14/2021
+48,Garden Salad,Breakfast,5/14/2021
+49,Grilled Halal Chicken Breast,Breakfast,5/14/2021
+50,Southwest Grain Bowl,Breakfast,5/14/2021
+51,VG Strawberry Balsamic Spinach Salad,Breakfast,5/14/2021
+52,Butterscotch Rice Krispie Treat,Breakfast,5/14/2021
+0,Seafood Chowder,Dinner,5/14/2021
+1,Mandarin Turkey Stir Fry,Dinner,5/14/2021
+2,Smoky Mexican Lasagna (V),Dinner,5/14/2021
+3,VG Steamed White Rice,Dinner,5/14/2021
+4,VG Couscous w/ Roast Shallots,Dinner,5/14/2021
+5,VG Moroccan Style Vegetable Stew,Dinner,5/14/2021
+6,VG Tempeh Tagine,Dinner,5/14/2021
+7,AF - Classic Lamb Shepherd's Pie,Dinner,5/14/2021
+8,AF Apple-Broccoli Kale Salad,Dinner,5/14/2021
+9,AF Greek Lemon Rice,Dinner,5/14/2021
+10,AF VG Portuguese Bean Stew,Dinner,5/14/2021
+11,AF Whole Green Beans,Dinner,5/14/2021
+12,Breaded Chicken Tenders,Dinner,5/14/2021
+13,Cheeseburger w. Bun,Dinner,5/14/2021
+14,Grilled Halal Chicken Sandwich,Dinner,5/14/2021
+15,Halal Spicy Grilled Chicken Chipotle,Dinner,5/14/2021
+16,Hamburger w. Bun,Dinner,5/14/2021
+17,Hot Dog w. Bun,Dinner,5/14/2021
+18,Steak Fries,Dinner,5/14/2021
+19,VG Marinara Sauce,Dinner,5/14/2021
+20,VG Rigatoni,Dinner,5/14/2021
+21,VG Whole Wheat Organic Spaghetti,Dinner,5/14/2021
+22,Fresh Zucchini,Dinner,5/14/2021
+23,Garden Salad,Dinner,5/14/2021
+24,Grilled Halal Chicken Breast,Dinner,5/14/2021
+25,Southwest Grain Bowl,Dinner,5/14/2021
+26,VG Strawberry Balsamic Spinach Salad,Dinner,5/14/2021
+27,Peach & Raspberry Cobbler,Dinner,5/14/2021
+28,Vegan Chocolate Cake w/Vanilla Frosting,Dinner,5/14/2021
+0,Biscuits and Gravy,Breakfast,5/13/2021
+1,Chocolate Banana Overnight Oats,Breakfast,5/13/2021
+2,White Scramble (V),Breakfast,5/13/2021
+3,French Toast Texas Style (V),Breakfast,5/13/2021
+4,Fresh Spinach,Breakfast,5/13/2021
+5,Fried Eggs (V),Breakfast,5/13/2021
+6,Green Wheat Freekeh,Breakfast,5/13/2021
+7,Hard Cooked Eggs,Breakfast,5/13/2021
+8,Sauteed Mushrooms,Breakfast,5/13/2021
+9,Slow Roasted Tomatoes,Breakfast,5/13/2021
+10,VG Coconut Chia Seed Pudding with Dukkah,Breakfast,5/13/2021
+11,Western Toppings,Breakfast,5/13/2021
+12,Crisp Bacon,Breakfast,5/13/2021
+13,Shredded Hash Browns,Breakfast,5/13/2021
+14,Assorted Bagels,Breakfast,5/13/2021
+15,Assorted Toast,Breakfast,5/13/2021
+16,Mini Butter Croissant w/Nuts,Breakfast,5/13/2021
+17,AF Apple Maple Chicken Sausage,Breakfast,5/13/2021
+18,AF BFree Multiseed Bagel,Breakfast,5/13/2021
+19,AF Pineapple Chunks,Breakfast,5/13/2021
+20,AF Shredded Hash Browns,Breakfast,5/13/2021
+21,AF Tropical Fruit Salad,Breakfast,5/13/2021
+22,Grapefruit Halves,Breakfast,5/13/2021
+23,VG Sweet Potato Flapjacks,Breakfast,5/13/2021
+24,Brunch,Breakfast,5/13/2021
+25,AF Greek Salad,Breakfast,5/13/2021
+26,AF Green Peas,Breakfast,5/13/2021
+27,AF Indian Chicken Vindaloo,Breakfast,5/13/2021
+28,AF VG Chickpea Vindaloo,Breakfast,5/13/2021
+29,AF VG Organic Brown Basmati Rice,Breakfast,5/13/2021
+30,VG Fire Roasted Tomato & Basil Soup,Breakfast,5/13/2021
+31,Corned Beef Ruben,Breakfast,5/13/2021
+32,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/13/2021
+33,Chipotle Chicken Pasta,Breakfast,5/13/2021
+34,Lemon Pepper Fish,Breakfast,5/13/2021
+35,Bean Burrito (V),Breakfast,5/13/2021
+36,Organic Pinto Beans,Breakfast,5/13/2021
+37,VG Alu Chole,Breakfast,5/13/2021
+38,VG Falafel,Breakfast,5/13/2021
+39,VG Organic Brown Basmati Rice,Breakfast,5/13/2021
+40,Breaded Chicken Tenders,Breakfast,5/13/2021
+41,Cheeseburger w. Bun,Breakfast,5/13/2021
+42,Grilled Halal Chicken Sandwich,Breakfast,5/13/2021
+43,Hamburger w. Bun,Breakfast,5/13/2021
+44,Hot Dog w. Bun,Breakfast,5/13/2021
+45,Steak Fries,Breakfast,5/13/2021
+46,VG Beet and Kale Burger,Breakfast,5/13/2021
+47,Green Peas,Breakfast,5/13/2021
+48,Cheese Pizza,Breakfast,5/13/2021
+49,Mushroom Pizza,Breakfast,5/13/2021
+50,Pepperoni Pizza,Breakfast,5/13/2021
+51,Garden Salad,Breakfast,5/13/2021
+52,Grilled Halal Chicken Breast,Breakfast,5/13/2021
+53,Southwest Grain Bowl,Breakfast,5/13/2021
+54,VG Strawberry Balsamic Spinach Salad,Breakfast,5/13/2021
+55,Double Chocolate Chip Cookie,Breakfast,5/13/2021
+0,VG Fire Roasted Tomato & Basil Soup,Dinner,5/13/2021
+1,Baked Pollock w/Lemon,Dinner,5/13/2021
+2,Broccoli & Cheese Stuffed Chicken,Dinner,5/13/2021
 3,VG Organic Brown Basmati Rice,Dinner,5/13/2021
-4,VG Seared Moroccan Tofu w/Olives,Dinner,5/13/2021
-5,Grilled Italian Vegetable Sandwich (V),Dinner,5/13/2021
-6,Alfredo Sauce (V),Dinner,5/13/2021
-7,VG Medium Shell Pasta,Dinner,5/13/2021
-8,"Sauteed Greens w/Leeks, Garlic & Sesame",Dinner,5/13/2021
-9,Mushroom Pizza,Dinner,5/13/2021
-10,Pepperoni Pizza,Dinner,5/13/2021
-11,Garden Salad,Dinner,5/13/2021
-12,VG Blueberry Oat Bar,Dinner,5/13/2021
-0,Chopped Walnuts,Breakfast,5/12/2021
-1,Organic Hot Oatmeal,Breakfast,5/12/2021
-2,Raisins,Breakfast,5/12/2021
-3,Biscuits and Gravy,Breakfast,5/12/2021
-4,Egg White Scramble (V),Breakfast,5/12/2021
-5,Fresh Spinach,Breakfast,5/12/2021
-6,Green Wheat Freekeh,Breakfast,5/12/2021
-7,Hard Cooked Eggs,Breakfast,5/12/2021
-8,Mild Yellow Shredded Cheddar,Breakfast,5/12/2021
-9,Pancakes,Breakfast,5/12/2021
-10,Sauteed Mushrooms,Breakfast,5/12/2021
-11,Sauteed Onions & Peppers,Breakfast,5/12/2021
-12,Scrambled Eggs (V),Breakfast,5/12/2021
-13,Slow Roasted Tomatoes,Breakfast,5/12/2021
-14,Western Toppings,Breakfast,5/12/2021
-15,Crisp Bacon,Breakfast,5/12/2021
-16,Fried Hash Browns,Breakfast,5/12/2021
-17,Apple Almond Danish Ring,Breakfast,5/12/2021
-18,Assorted Bagels,Breakfast,5/12/2021
-19,Assorted Toast,Breakfast,5/12/2021
-20,Fresh Mixed Berries,Breakfast,5/12/2021
-21,Grapefruit Sections,Breakfast,5/12/2021
-22,Sliced Pears,Breakfast,5/12/2021
-0,Orecchiette  Pasta w/ Sausage & Tomato,Lunch,5/12/2021
-1,Salmon Cakes,Lunch,5/12/2021
-2,Chickpeas & Vegetables (V),Lunch,5/12/2021
-3,VG Organic Brown Basmati Rice,Lunch,5/12/2021
-4,VG Sweet Potato Shepherds Pie,Lunch,5/12/2021
-5,Beef Brisket Sandwich,Lunch,5/12/2021
-6,Breaded Chicken Tenders,Lunch,5/12/2021
-7,Cheeseburger w. Bun,Lunch,5/12/2021
-8,Grilled Halal Chicken Sandwich,Lunch,5/12/2021
-9,Grilled Italian Vegetable Sandwich (V),Lunch,5/12/2021
-10,Hamburger w. Bun,Lunch,5/12/2021
-11,Hot Dog w. Bun,Lunch,5/12/2021
-12,Steak Fries,Lunch,5/12/2021
-13,VG Mediterranean Burger,Lunch,5/12/2021
-14,Carrots with Fresh Dill,Lunch,5/12/2021
-15,Cheese Pizza,Lunch,5/12/2021
-16,Santa Fe Chicken Pizza,Lunch,5/12/2021
-17,Garden Salad,Lunch,5/12/2021
-18,Oreo Brownie,Lunch,5/12/2021
-0,Braised Halal Lamb Leg,Dinner,5/12/2021
-1,Pad See Yew w/Shrimp & Peanuts,Dinner,5/12/2021
-2,VG Chinese Sticky Rice,Dinner,5/12/2021
-3,VG Kung Pao Lentils w/Cashews,Dinner,5/12/2021
-4,VG Organic Brown Basmati Rice,Dinner,5/12/2021
-5,VG Penne w/Garlicky Greens & Spicy Tomato,Dinner,5/12/2021
-6,Beef Brisket Sandwich,Dinner,5/12/2021
-7,Grilled Italian Vegetable Sandwich (V),Dinner,5/12/2021
-8,Alfredo Sauce (V),Dinner,5/12/2021
-9,VG Linguini Pasta,Dinner,5/12/2021
-10,Parslied Carrots,Dinner,5/12/2021
-11,Cheese Pizza,Dinner,5/12/2021
-12,Santa Fe Chicken Pizza,Dinner,5/12/2021
-13,Garden Salad,Dinner,5/12/2021
-14,VG Chocolate Brownie,Dinner,5/12/2021
-0,Chopped Walnuts,Breakfast,5/11/2021
-1,Craisins,Breakfast,5/11/2021
-2,Organic Hot Oatmeal,Breakfast,5/11/2021
-3,Berry Blast Smoothie,Breakfast,5/11/2021
-4,Biscuits and Gravy,Breakfast,5/11/2021
-5,Egg White Scramble (V),Breakfast,5/11/2021
-6,French Toast Texas Style (V),Breakfast,5/11/2021
-7,Fresh Spinach,Breakfast,5/11/2021
-8,Green Wheat Freekeh,Breakfast,5/11/2021
-9,Hard Cooked Eggs,Breakfast,5/11/2021
-10,Mild Yellow Shredded Cheddar,Breakfast,5/11/2021
-11,Sauteed Mushrooms,Breakfast,5/11/2021
-12,Sauteed Onions & Peppers,Breakfast,5/11/2021
-13,Scrambled Eggs (V),Breakfast,5/11/2021
-14,Slow Roasted Tomatoes,Breakfast,5/11/2021
-15,Western Toppings,Breakfast,5/11/2021
-16,Corned Beef Hash,Breakfast,5/11/2021
-17,Shredded Hash Browns,Breakfast,5/11/2021
-18,Assorted Bagels,Breakfast,5/11/2021
-19,Assorted Toast,Breakfast,5/11/2021
-20,Asst Mini Croissant w/Nuts,Breakfast,5/11/2021
-21,Fresh Mixed Berries,Breakfast,5/11/2021
-22,Fresh Mixed Fruit Sections,Breakfast,5/11/2021
+4,Whipped Potatoes,Dinner,5/13/2021
+5,Pasta w/Cream Sauce & Peas (V),Dinner,5/13/2021
+6,VG Vegetable Paella,Dinner,5/13/2021
+7,AF Chuckwagon Corn,Dinner,5/13/2021
+8,AF Greek Salad,Dinner,5/13/2021
+9,AF Halal Beef & Three Bean Chili,Dinner,5/13/2021
+10,AF VG Black Bean & Corn Chili,Dinner,5/13/2021
+11,AF VG Steamed White Rice,Dinner,5/13/2021
+12,Balsamic Grilled Halal Chicken,Dinner,5/13/2021
+13,Breaded Chicken Tenders,Dinner,5/13/2021
+14,Cheeseburger w. Bun,Dinner,5/13/2021
+15,Grilled Halal Chicken Sandwich,Dinner,5/13/2021
+16,Hamburger w. Bun,Dinner,5/13/2021
+17,Hot Dog w. Bun,Dinner,5/13/2021
+18,Steak Fries,Dinner,5/13/2021
+19,VG Chunky Marinara Sauce,Dinner,5/13/2021
+20,VG Marinara Sauce,Dinner,5/13/2021
+21,VG Rigatoni Pasta,Dinner,5/13/2021
+22,VG Whole Wheat Organic Fusili,Dinner,5/13/2021
+23,Summer Squash,Dinner,5/13/2021
+24,Cheese Pizza,Dinner,5/13/2021
+25,Mushroom Pizza,Dinner,5/13/2021
+26,Pepperoni Pizza,Dinner,5/13/2021
+27,Garden Salad,Dinner,5/13/2021
+28,Grilled Halal Chicken Breast,Dinner,5/13/2021
+29,Southwest Grain Bowl,Dinner,5/13/2021
+30,VG Strawberry Balsamic Spinach Salad,Dinner,5/13/2021
+31,Strawberry Poke Cake,Dinner,5/13/2021
+32,VG Blueberry Oat Bar,Dinner,5/13/2021
+0,Biscuits and Gravy,Breakfast,5/12/2021
+1,Chocolate Banana Overnight Oats,Breakfast,5/12/2021
+2,White Scramble (V),Breakfast,5/12/2021
+3,Fresh Spinach,Breakfast,5/12/2021
+4,Green Wheat Freekeh,Breakfast,5/12/2021
+5,Hard Cooked Eggs,Breakfast,5/12/2021
+6,Sauteed Mushrooms,Breakfast,5/12/2021
+7,Scrambled Eggs (V),Breakfast,5/12/2021
+8,Slow Roasted Tomatoes,Breakfast,5/12/2021
+9,VG Coconut Chia Seed Pudding with Dukkah,Breakfast,5/12/2021
+10,Western Toppings,Breakfast,5/12/2021
+11,Chicken Sausage Patty,Breakfast,5/12/2021
+12,Country Fried Potatoes,Breakfast,5/12/2021
+13,Apple Almond Danish Ring,Breakfast,5/12/2021
+14,Assorted Bagels,Breakfast,5/12/2021
+15,Assorted Toast,Breakfast,5/12/2021
+16,AF Apple Cinnamon Chia Pudding,Breakfast,5/12/2021
+17,AF BFree Multiseed Bagel,Breakfast,5/12/2021
+18,AF Country Fried Potatoes,Breakfast,5/12/2021
+19,AF Fresh Fruit Salad,Breakfast,5/12/2021
+20,AF Pineapple Chunks,Breakfast,5/12/2021
+21,AF Sliced Ham,Breakfast,5/12/2021
+22,AF Sliced Peaches,Breakfast,5/12/2021
+23,AF VG French Toast,Breakfast,5/12/2021
+24,Brunch,Breakfast,5/12/2021
+25,AF Bob's Panama Chicken,Breakfast,5/12/2021
+26,AF Broccoli Cauliflower Carrots,Breakfast,5/12/2021
+27,AF Garden Salad,Breakfast,5/12/2021
+28,AF VG Chunky Vegetable Chili,Breakfast,5/12/2021
+29,AF VG Steamed White Rice,Breakfast,5/12/2021
+30,Provencal Vegetable,Breakfast,5/12/2021
+31,Corned Beef Ruben,Breakfast,5/12/2021
+32,Moo Shu Chicken Wrap,Breakfast,5/12/2021
+33,Tempeh Reuben (V),Breakfast,5/12/2021
+34,VG Rainbow Tofu Wrap,Breakfast,5/12/2021
+35,"Ginger Shrimp, Sugar Snap Pea & Corn Stir Fry",Breakfast,5/12/2021
+36,Sun Dried Tomato Pesto w/Tortellini (V),Breakfast,5/12/2021
+37,VG Steamed White Rice,Breakfast,5/12/2021
+38,VG Black Bean Hummus & Chipotle Quesadilla,Breakfast,5/12/2021
+39,VG Organic Brown Basmati Rice,Breakfast,5/12/2021
+40,VG Quinoa Primavera,Breakfast,5/12/2021
+41,Breaded Chicken Tenders,Breakfast,5/12/2021
+42,Cheeseburger w. Bun,Breakfast,5/12/2021
+43,Grilled Halal Chicken Sandwich,Breakfast,5/12/2021
+44,Hamburger w. Bun,Breakfast,5/12/2021
+45,Hot Dog w. Bun,Breakfast,5/12/2021
+46,Steak Fries,Breakfast,5/12/2021
+47,VG Beet and Kale Burger,Breakfast,5/12/2021
+48,VG Linguini Pasta,Breakfast,5/12/2021
+49,VG Marinara Sauce,Breakfast,5/12/2021
+50,Steamed Baby Carrots,Breakfast,5/12/2021
+51,Cheese Pizza,Breakfast,5/12/2021
+52,Santa Fe Chicken Pizza,Breakfast,5/12/2021
+53,Vegetable Pizza,Breakfast,5/12/2021
+54,Garden Salad,Breakfast,5/12/2021
+55,Grilled Halal Chicken Breast,Breakfast,5/12/2021
+56,Southwest Grain Bowl,Breakfast,5/12/2021
+57,VG Strawberry Balsamic Spinach Salad,Breakfast,5/12/2021
+58,Chocolate Frosted Brownie,Breakfast,5/12/2021
+0,Provencal Vegetable,Dinner,5/12/2021
+1,Beef Curry,Dinner,5/12/2021
+2,Carved Roast Turkey,Dinner,5/12/2021
+3,Cornbread Stuffing,Dinner,5/12/2021
+4,Turkey Gravy,Dinner,5/12/2021
+5,VG Basmati Rice,Dinner,5/12/2021
+6,Whipped Potatoes w/Garlic (V),Dinner,5/12/2021
+7,Baked Manicotti (V),Dinner,5/12/2021
+8,VG Cutlet,Dinner,5/12/2021
+9,VG Mushroom & Vegetable Rice Pilaf,Dinner,5/12/2021
+10,AF Garden Salad,Dinner,5/12/2021
+11,AF Paella,Dinner,5/12/2021
+12,AF VG Roasted Beet & Kale Burger,Dinner,5/12/2021
+13,AF VG Spanish White Bean Stew,Dinner,5/12/2021
+14,AF Whole Green Beans,Dinner,5/12/2021
+15,Spanish Spice Rubbed Chicken w. Sofrito,Dinner,5/12/2021
+16,Breaded Chicken Tenders,Dinner,5/12/2021
+17,Cheeseburger w. Bun,Dinner,5/12/2021
+18,Grilled Halal Chicken Sandwich,Dinner,5/12/2021
+19,Grilled Rosemary Chicken,Dinner,5/12/2021
+20,Hamburger w. Bun,Dinner,5/12/2021
+21,Hot Dog w. Bun,Dinner,5/12/2021
+22,Steak Fries,Dinner,5/12/2021
+23,VG Linguini Pasta,Dinner,5/12/2021
+24,VG Marinara Sauce,Dinner,5/12/2021
+25,VG Tomato Mushroom Sauce,Dinner,5/12/2021
+26,VG Whole Wheat Organic Penne Pasta,Dinner,5/12/2021
+27,Whole Green Beans,Dinner,5/12/2021
+28,Garden Salad,Dinner,5/12/2021
+29,Grilled Halal Chicken Breast,Dinner,5/12/2021
+30,Southwest Grain Bowl,Dinner,5/12/2021
+31,VG Strawberry Balsamic Spinach Salad,Dinner,5/12/2021
+32,VG Chocolate Brownie,Dinner,5/12/2021
+33,Vanilla Cake w/Lemon Frosting,Dinner,5/12/2021
+0,Apple Cinnamon Overnight Oats,Breakfast,5/11/2021
+1,Biscuits and Gravy,Breakfast,5/11/2021
+2,White Scramble (V),Breakfast,5/11/2021
+3,Fresh Spinach,Breakfast,5/11/2021
+4,Green Wheat Freekeh,Breakfast,5/11/2021
+5,Hard Cooked Eggs,Breakfast,5/11/2021
+6,Multigrain Pancakes,Breakfast,5/11/2021
+7,Sauteed Mushrooms,Breakfast,5/11/2021
+8,Scrambled Eggs (V),Breakfast,5/11/2021
+9,Slow Roasted Tomatoes,Breakfast,5/11/2021
+10,VG Chocolate Almond Chia Seed Pudding,Breakfast,5/11/2021
+11,Western Toppings,Breakfast,5/11/2021
+12,Pork Sausage Patties,Breakfast,5/11/2021
+13,Fried Hash Browns,Breakfast,5/11/2021
+14,Assorted Bagels,Breakfast,5/11/2021
+15,Assorted Toast,Breakfast,5/11/2021
+16,Asst Mini Croissant w/Nuts,Breakfast,5/11/2021
+17,AF BFree Multiseed Bagel,Breakfast,5/11/2021
+18,AF Chicken Sausage Patty,Breakfast,5/11/2021
+19,AF Gluten-Free Pancakes,Breakfast,5/11/2021
+20,AF Homestyle Potatoes,Breakfast,5/11/2021
+21,AF Pineapple Chunks,Breakfast,5/11/2021
+22,AF Tropical Fruit Salad,Breakfast,5/11/2021
 23,Grapefruit Halves,Breakfast,5/11/2021
-0,Chicken Pad Thai w/Peanuts,Lunch,5/11/2021
-1,Tortellini Primavera w/Pesto Cream Sauce (V),Lunch,5/11/2021
-2,VG Green Beans in Sesame & Peanut Masala,Lunch,5/11/2021
-3,VG Organic Black Beans,Lunch,5/11/2021
-4,VG Organic Brown Basmati Rice,Lunch,5/11/2021
-5,VG Rajma Dal,Lunch,5/11/2021
-6,Breaded Chicken Tenders,Lunch,5/11/2021
-7,Cheeseburger w. Bun,Lunch,5/11/2021
-8,Grilled Halal Chicken Sandwich,Lunch,5/11/2021
-9,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/11/2021
-10,Grilled Pastrami Sandwich,Lunch,5/11/2021
-11,Hamburger w. Bun,Lunch,5/11/2021
-12,Hot Dog w. Bun,Lunch,5/11/2021
-13,Steak Fries,Lunch,5/11/2021
-14,VG Beet and Kale Burger,Lunch,5/11/2021
-15,Cauliflower,Lunch,5/11/2021
-16,Cheese Pizza,Lunch,5/11/2021
-17,Garden Salad,Lunch,5/11/2021
-18,Mexican Salad w/ Tortilla Strips,Lunch,5/11/2021
-19,Spring Grain Bowl,Lunch,5/11/2021
-20,Rainbow Blondie Brownie,Lunch,5/11/2021
-0,Chicken Tikka Masala,Dinner,5/11/2021
-1,Roasted Potatoes w/Lemon,Dinner,5/11/2021
-2,VG Steamed Basmati Rice w/Cilantro,Dinner,5/11/2021
-3,Roasted Butternut Squash& Red Onion Lasagna (V),Dinner,5/11/2021
-4,VG Organic Brown Basmati Rice,Dinner,5/11/2021
-5,VG Seitan Stir Fry,Dinner,5/11/2021
-6,Grilled Honey Chipotle Jack Fruit Sandwich (V),Dinner,5/11/2021
-7,Grilled Pastrami Sandwich,Dinner,5/11/2021
-8,Chicken & Noodle StirFry w/Thai Red Curry Sauce,Dinner,5/11/2021
-9,Tofu & Vegetable Stir Fry w/Sesame Garlic Sauce,Dinner,5/11/2021
-10,Alfredo Sauce (V),Dinner,5/11/2021
-11,VG Fettuccini Pasta,Dinner,5/11/2021
-12,Green Beans w/Garlic & Tomato,Dinner,5/11/2021
-13,Cheese Pizza,Dinner,5/11/2021
-14,Garden Salad,Dinner,5/11/2021
-15,Mexican Salad w/ Tortilla Strips,Dinner,5/11/2021
-16,Spring Grain Bowl,Dinner,5/11/2021
-17,VG Apple Spice Cake w/Maple Buttercream,Dinner,5/11/2021
-0,Chopped Walnuts,Breakfast,5/10/2021
-1,Organic Hot Oatmeal,Breakfast,5/10/2021
-2,Raisins,Breakfast,5/10/2021
-3,Biscuits and Gravy,Breakfast,5/10/2021
-4,Egg White Scramble (V),Breakfast,5/10/2021
-5,Fresh Spinach,Breakfast,5/10/2021
+24,Brunch,Breakfast,5/11/2021
+25,AF Barbacoa Beef,Breakfast,5/11/2021
+26,AF Black Bean & Poblano Tacos,Breakfast,5/11/2021
+27,AF Chopped Cilantro,Breakfast,5/11/2021
+28,AF Corn Tortilla,Breakfast,5/11/2021
+29,AF Greek Salad,Breakfast,5/11/2021
+30,AF Guacomole Dip,Breakfast,5/11/2021
+31,AF Organic Pinto Beans,Breakfast,5/11/2021
+32,AF Salsa Roja,Breakfast,5/11/2021
+33,AF Sliced Red Onions,Breakfast,5/11/2021
+34,AF VG Organic Brown Basmati Rice,Breakfast,5/11/2021
+35,AF Whole Kernel Corn,Breakfast,5/11/2021
+36,Chicken Vegetable Soup,Breakfast,5/11/2021
+37,Muffaletta,Breakfast,5/11/2021
+38,Spicy Roasted Cauliflower Wrap,Breakfast,5/11/2021
+39,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/11/2021
+40,Tuna Nicoise Wrap,Breakfast,5/11/2021
+41,Indian Chicken Curry,Breakfast,5/11/2021
+42,Salmon & Penne w/Cajun Cream,Breakfast,5/11/2021
+43,VG Basmati Rice,Breakfast,5/11/2021
+44,Charro Pasta w/Avocado (V),Breakfast,5/11/2021
+45,Tzatziki Sauce,Breakfast,5/11/2021
+46,VG Organic Brown Basmati Rice,Breakfast,5/11/2021
+47,VG Organic Edamame Soybeans,Breakfast,5/11/2021
+48,VG Samosa Cake,Breakfast,5/11/2021
+49,Breaded Chicken Tenders,Breakfast,5/11/2021
+50,Cheeseburger w. Bun,Breakfast,5/11/2021
+51,Garden Pattie Burger (V),Breakfast,5/11/2021
+52,Grilled Halal Chicken Sandwich,Breakfast,5/11/2021
+53,Hamburger w. Bun,Breakfast,5/11/2021
+54,Hot Dog w. Bun,Breakfast,5/11/2021
+55,Steak Fries,Breakfast,5/11/2021
+56,Broccoli Spears,Breakfast,5/11/2021
+57,"Broccoli, Onion & Mushroom Pizza",Breakfast,5/11/2021
+58,Cheese Pizza,Breakfast,5/11/2021
+59,Hamburg Pizza,Breakfast,5/11/2021
+60,Garden Salad,Breakfast,5/11/2021
+61,Grilled Halal Chicken Breast,Breakfast,5/11/2021
+62,Mexican Salad w/ Tortilla Strips,Breakfast,5/11/2021
+63,Spring Grain Bowl,Breakfast,5/11/2021
+64,Rainbow Blondie Brownie,Breakfast,5/11/2021
+0,Chicken Vegetable Soup,Dinner,5/11/2021
+1,Blackened Halal Chicken w. Avocado Crema,Dinner,5/11/2021
+2,VG Red Beans & Rice,Dinner,5/11/2021
+3,Enchilada Bake (V),Dinner,5/11/2021
+4,VG Mushroom Barley Casserole,Dinner,5/11/2021
+5,VG Organic Brown Basmati Rice,Dinner,5/11/2021
+6,AF Greek Salad,Dinner,5/11/2021
+7,AF Moroccan Lamb Stew,Dinner,5/11/2021
+8,"AF Roasted Vegetables w. ""Tahini"" Sauce",Dinner,5/11/2021
+9,AF VG Basmati Rice,Dinner,5/11/2021
+10,AF VG Chickpea Tagine,Dinner,5/11/2021
+11,Breaded Chicken Tenders,Dinner,5/11/2021
+12,Cheeseburger w. Bun,Dinner,5/11/2021
+13,Grilled Halal Chicken Sandwich,Dinner,5/11/2021
+14,Grilled Moroccan Chicken Thigh,Dinner,5/11/2021
+15,Hamburger w. Bun,Dinner,5/11/2021
+16,Hot Dog w. Bun,Dinner,5/11/2021
+17,Steak Fries,Dinner,5/11/2021
+18,VG Chunky Marinara Sauce,Dinner,5/11/2021
+19,VG Marinara Sauce,Dinner,5/11/2021
+20,VG Rotini Pasta,Dinner,5/11/2021
+21,VG Whole Wheat Organic Spaghetti,Dinner,5/11/2021
+22,Fresh Spinach,Dinner,5/11/2021
+23,"Broccoli, Onion & Mushroom Pizza",Dinner,5/11/2021
+24,Cheese Pizza,Dinner,5/11/2021
+25,Hamburg Pizza,Dinner,5/11/2021
+26,Garden Salad,Dinner,5/11/2021
+27,Grilled Halal Chicken Breast,Dinner,5/11/2021
+28,Mexican Salad w/ Tortilla Strips,Dinner,5/11/2021
+29,Spring Grain Bowl,Dinner,5/11/2021
+30,Hot Fudge Pudding Cake,Dinner,5/11/2021
+31,VG Apple Spice Cake w/Maple Buttercream,Dinner,5/11/2021
+0,Apple Cinnamon Overnight Oats,Breakfast,5/10/2021
+1,Biscuits and Gravy,Breakfast,5/10/2021
+2,White Scramble (V),Breakfast,5/10/2021
+3,French Toast Texas Style (V),Breakfast,5/10/2021
+4,Fresh Spinach,Breakfast,5/10/2021
+5,Fried Eggs (V),Breakfast,5/10/2021
 6,Green Wheat Freekeh,Breakfast,5/10/2021
 7,Hard Cooked Eggs,Breakfast,5/10/2021
-8,Mild Yellow Shredded Cheddar,Breakfast,5/10/2021
-9,Multigrain Pancakes,Breakfast,5/10/2021
-10,Sauteed Mushrooms,Breakfast,5/10/2021
-11,Sauteed Onions & Peppers,Breakfast,5/10/2021
-12,Scrambled Eggs (V),Breakfast,5/10/2021
-13,Slow Roasted Tomatoes,Breakfast,5/10/2021
-14,Western Toppings,Breakfast,5/10/2021
-15,Pork Sausage Patties,Breakfast,5/10/2021
-16,Country Fried Potatoes,Breakfast,5/10/2021
-17,Assorted Bagels,Breakfast,5/10/2021
-18,Assorted Mini Danish w/Nuts,Breakfast,5/10/2021
-19,Assorted Toast,Breakfast,5/10/2021
-20,Fresh Mixed Berries,Breakfast,5/10/2021
-21,Grapefruit Sections,Breakfast,5/10/2021
-22,Sliced Pears,Breakfast,5/10/2021
-0,Italian Style Meatballs for Sub,Lunch,5/10/2021
-1,Meatball Sub w/Cheese,Lunch,5/10/2021
-2,Parmesan Cheese,Lunch,5/10/2021
-3,"Pasta w/Pesto, Asparagus & Shrimp",Lunch,5/10/2021
-4,VG Marinara Sauce,Lunch,5/10/2021
-5,VG Spaghetti,Lunch,5/10/2021
-6,Pasta Frittata (V),Lunch,5/10/2021
-7,VG Caviar Medley Blend Rice,Lunch,5/10/2021
-8,VG Mushroom Stroganoff,Lunch,5/10/2021
-9,Breaded Chicken Tenders,Lunch,5/10/2021
-10,Cheeseburger w. Bun,Lunch,5/10/2021
-11,Grilled Halal Chicken Sandwich,Lunch,5/10/2021
-12,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/10/2021
-13,Grilled Pastrami Sandwich,Lunch,5/10/2021
-14,Hamburger w. Bun,Lunch,5/10/2021
-15,Hot Dog w. Bun,Lunch,5/10/2021
-16,Steak Fries,Lunch,5/10/2021
-17,VG Beet and Kale Burger,Lunch,5/10/2021
-18,Whole Kernel Corn,Lunch,5/10/2021
-19,Cheese Pizza,Lunch,5/10/2021
-20,Sausage & Pepperoni Pizza,Lunch,5/10/2021
-21,Garden Salad,Lunch,5/10/2021
-22,Mexican Salad w/ Tortilla Strips,Lunch,5/10/2021
-23,Spring Grain Bowl,Lunch,5/10/2021
-24,Butter Sugar Cookies,Lunch,5/10/2021
-0,Fried Green Tomatoes,Dinner,5/10/2021
-1,Remoulade Sauce,Dinner,5/10/2021
-2,Artichoke and Spinach stuffed Roasted Peppers,Dinner,5/10/2021
-3,Eggplant Parmesan (V),Dinner,5/10/2021
-4,Remoulade Sauce,Dinner,5/10/2021
-5,VG Chickpea Vindaloo,Dinner,5/10/2021
-6,VG Spicy Vegetable Pakora,Dinner,5/10/2021
-7,VG Steamed White Rice,Dinner,5/10/2021
-8,VG Tarka Dal,Dinner,5/10/2021
-9,Grande Vegetable Burrito (V),Dinner,5/10/2021
-10,VG Black Beans & Rice,Dinner,5/10/2021
-11,VG Organic Brown Basmati Rice,Dinner,5/10/2021
-12,VG Tex Mex  Casserole,Dinner,5/10/2021
-13,Grilled Honey Chipotle Jack Fruit Sandwich (V),Dinner,5/10/2021
-14,Alfredo Sauce (V),Dinner,5/10/2021
-15,VG Rigatoni Pasta,Dinner,5/10/2021
-16,Butternut Squash w/Syrup,Dinner,5/10/2021
-17,VG Mediterranean Pizza with Hummus and Chargrilled Veggies,Dinner,5/10/2021
-18,Garden Salad,Dinner,5/10/2021
-19,Mexican Salad w/ Tortilla Strips,Dinner,5/10/2021
-20,Spring Grain Bowl,Dinner,5/10/2021
-21,VG Craisin Walnut Bar,Dinner,5/10/2021
-0,Chopped Walnuts,Breakfast,5/9/2021
-1,Craisins,Breakfast,5/9/2021
-2,Organic Hot Oatmeal,Breakfast,5/9/2021
-3,Biscuits and Gravy,Breakfast,5/9/2021
-4,Egg White Scramble (V),Breakfast,5/9/2021
-5,Fresh Spinach,Breakfast,5/9/2021
-6,Green Wheat Freekeh,Breakfast,5/9/2021
-7,Hard Cooked Eggs,Breakfast,5/9/2021
-8,Mild Yellow Shredded Cheddar,Breakfast,5/9/2021
-9,Pancakes,Breakfast,5/9/2021
-10,Sauteed Mushrooms,Breakfast,5/9/2021
-11,Sauteed Onions & Peppers,Breakfast,5/9/2021
-12,Scrambled Eggs (V),Breakfast,5/9/2021
-13,Slow Roasted Tomatoes,Breakfast,5/9/2021
-14,Western Toppings,Breakfast,5/9/2021
-15,Crisp Bacon,Breakfast,5/9/2021
-16,Potato Puffs,Breakfast,5/9/2021
-17,Assorted Bagels,Breakfast,5/9/2021
-18,Assorted Toast,Breakfast,5/9/2021
-19,Chocolate Chip Coffee Cake,Breakfast,5/9/2021
-20,Fresh Mixed Berries,Breakfast,5/9/2021
-21,Fresh Orange Sections,Breakfast,5/9/2021
-22,Peach Halves,Breakfast,5/9/2021
-0,Egg White Scramble (V),Lunch,5/9/2021
-1,Hard Cooked Eggs,Lunch,5/9/2021
-2,Pancakes,Lunch,5/9/2021
-3,Scrambled Eggs (V),Lunch,5/9/2021
-4,VG Gluten-free Pancakes,Lunch,5/9/2021
-5,Crisp Bacon,Lunch,5/9/2021
-6,Potato Puffs,Lunch,5/9/2021
-7,Minestrone Soup (V),Lunch,5/9/2021
-8,Whole Green Beans,Lunch,5/9/2021
-9,VG Organic Brown Basmati Rice,Lunch,5/9/2021
-10,VG Tofu Scramble,Lunch,5/9/2021
-11,Cheeseburger w. Bun,Lunch,5/9/2021
-12,Grilled Halal Chicken Sandwich,Lunch,5/9/2021
-13,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/9/2021
-14,Grilled Pastrami Sandwich,Lunch,5/9/2021
-15,Hamburger w. Bun,Lunch,5/9/2021
-16,Hot Dog w. Bun,Lunch,5/9/2021
-17,Steak Fries,Lunch,5/9/2021
-18,VG Beet and Kale Burger,Lunch,5/9/2021
-19,Sicilian Vegetables,Lunch,5/9/2021
-20,Cheese Pizza,Lunch,5/9/2021
-21,Garden Salad,Lunch,5/9/2021
-22,Mexican Salad w/ Tortilla Strips,Lunch,5/9/2021
-23,Spring Grain Bowl,Lunch,5/9/2021
-24,German Cream Cheese Brownies,Lunch,5/9/2021
-0,Bourbon & Brown Sugar BBQ Chicken Thighs,Dinner,5/9/2021
-1,Caramelized Onion and Blueberry Jam,Dinner,5/9/2021
-2,Roasted Sweet Potatoes,Dinner,5/9/2021
-3,VG Chinese Sticky Rice,Dinner,5/9/2021
-4,VG Organic Brown Basmati Rice,Dinner,5/9/2021
-5,VG Organic Edamame Soybeans,Dinner,5/9/2021
-6,VG Samosa Stuffed Peppers w/Peanuts,Dinner,5/9/2021
-7,VG Thai Sesame Noodles,Dinner,5/9/2021
-8,Grilled Honey Chipotle Jack Fruit Sandwich (V),Dinner,5/9/2021
-9,Grilled Pastrami Sandwich,Dinner,5/9/2021
-10,Alfredo Sauce (V),Dinner,5/9/2021
-11,VG Fettuccini Pasta,Dinner,5/9/2021
-12,VG Collard Greens w/Garlic,Dinner,5/9/2021
-13,French Bread Pizza w/Cheese,Dinner,5/9/2021
-14,Garden Salad,Dinner,5/9/2021
-15,Mexican Salad w/ Tortilla Strips,Dinner,5/9/2021
-16,Spring Grain Bowl,Dinner,5/9/2021
-17,VG Chocolate Brownie,Dinner,5/9/2021
-0,Biscuits and Gravy,Lunch,5/8/2021
-1,Egg White Scramble (V),Lunch,5/8/2021
-2,Fresh Spinach,Lunch,5/8/2021
-3,Green Wheat Freekeh,Lunch,5/8/2021
-4,Hard Cooked Eggs,Lunch,5/8/2021
-5,Sauteed Mushrooms,Lunch,5/8/2021
-6,Sauteed Onions & Peppers,Lunch,5/8/2021
-7,Scrambled Eggs (V),Lunch,5/8/2021
-8,Slow Roasted Tomatoes,Lunch,5/8/2021
-9,Western Toppings,Lunch,5/8/2021
-10,Sausage Links,Lunch,5/8/2021
-11,Green Chili Chicken,Lunch,5/8/2021
-12,VG Steamed White Rice,Lunch,5/8/2021
-13,VG Chickpea Vindaloo,Lunch,5/8/2021
-14,VG Mexican Chili,Lunch,5/8/2021
-15,VG Organic Brown Basmati Rice,Lunch,5/8/2021
-16,VG Quinoa & Spring Vegetable Pilaf,Lunch,5/8/2021
-17,Breaded Chicken Tenders,Lunch,5/8/2021
-18,Cheeseburger w. Bun,Lunch,5/8/2021
-19,Grilled Halal Chicken Sandwich,Lunch,5/8/2021
-20,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/8/2021
-21,Grilled Pastrami Sandwich,Lunch,5/8/2021
-22,Hamburger w. Bun,Lunch,5/8/2021
-23,Hot Dog w. Bun,Lunch,5/8/2021
-24,Steak Fries,Lunch,5/8/2021
-25,VG Beet and Kale Burger,Lunch,5/8/2021
-26,"Broccoli, Cauliflower & Carrots",Lunch,5/8/2021
-27,Buffalo Chicken Pizza,Lunch,5/8/2021
-28,Pepperoni Pizza,Lunch,5/8/2021
-29,Garden Salad,Lunch,5/8/2021
-30,Mexican Salad w/ Tortilla Strips,Lunch,5/8/2021
-31,Spring Grain Bowl,Lunch,5/8/2021
-32,7 Layer Bar w/ Walnuts,Lunch,5/8/2021
-0,Cuban Mojo Halal Chicken w/Warm Mango Avocado Salsa,Dinner,5/8/2021
-1,VG Steamed White Rice,Dinner,5/8/2021
-2,VG Cuban Black Beans,Dinner,5/8/2021
-3,VG Organic Brown Basmati Rice,Dinner,5/8/2021
-4,Grilled Honey Chipotle Jack Fruit Sandwich (V),Dinner,5/8/2021
-5,Grilled Pastrami Sandwich,Dinner,5/8/2021
-6,Alfredo Sauce (V),Dinner,5/8/2021
-7,Bow Tie Pasta (V),Dinner,5/8/2021
-8,VG Rainbow Chard w/Roasted Cauliflower,Dinner,5/8/2021
-9,Garden Salad,Dinner,5/8/2021
-10,Mexican Salad w/ Tortilla Strips,Dinner,5/8/2021
-11,Spring Grain Bowl,Dinner,5/8/2021
-0,Chopped Walnuts,Breakfast,5/7/2021
-1,Craisins,Breakfast,5/7/2021
-2,Organic Hot Oatmeal,Breakfast,5/7/2021
-3,Biscuits and Gravy,Breakfast,5/7/2021
-4,Egg White Scramble (V),Breakfast,5/7/2021
-5,French Toast Texas Style (V),Breakfast,5/7/2021
-6,Fresh Spinach,Breakfast,5/7/2021
-7,Green Wheat Freekeh,Breakfast,5/7/2021
-8,Hard Cooked Eggs,Breakfast,5/7/2021
-9,Mild Yellow Shredded Cheddar,Breakfast,5/7/2021
-10,Sauteed Mushrooms,Breakfast,5/7/2021
-11,Sauteed Onions & Peppers,Breakfast,5/7/2021
-12,Scrambled Eggs (V),Breakfast,5/7/2021
-13,Slow Roasted Tomatoes,Breakfast,5/7/2021
-14,Western Toppings,Breakfast,5/7/2021
-15,Apple Maple Chicken Sausage,Breakfast,5/7/2021
-16,Roasted Breakfast Potatoes,Breakfast,5/7/2021
-17,Assorted Bagels,Breakfast,5/7/2021
-18,Assorted Toast,Breakfast,5/7/2021
-19,Mini Butter Croissant w/Nuts,Breakfast,5/7/2021
-20,Fresh Kiwi Halves,Breakfast,5/7/2021
-21,Fresh Mixed Berries,Breakfast,5/7/2021
-22,Fresh Mixed Fruit Sections,Breakfast,5/7/2021
-0,Thai Curried Chicken,Lunch,5/7/2021
-1,V Pasta Puttanesca,Lunch,5/7/2021
-2,VG Basmati Rice,Lunch,5/7/2021
-3,Eggplant Parmesan (V),Lunch,5/7/2021
-4,Fresh Pico De Gallo Salsa,Lunch,5/7/2021
-5,Guacamole,Lunch,5/7/2021
-6,VG Chik'n Fajita,Lunch,5/7/2021
-7,VG Organic Black Beans,Lunch,5/7/2021
-8,VG Organic Brown Basmati Rice,Lunch,5/7/2021
-9,VG Red Beans & Rice,Lunch,5/7/2021
-10,Whole Wheat Tortilla,Lunch,5/7/2021
-11,Breaded Chicken Tenders,Lunch,5/7/2021
-12,Cheeseburger w. Bun,Lunch,5/7/2021
-13,Grilled Halal Chicken Sandwich,Lunch,5/7/2021
-14,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/7/2021
-15,Grilled Pastrami Sandwich,Lunch,5/7/2021
-16,Hamburger w. Bun,Lunch,5/7/2021
-17,Hot Dog w. Bun,Lunch,5/7/2021
-18,Steak Fries,Lunch,5/7/2021
-19,VG Beet and Kale Burger,Lunch,5/7/2021
-20,Fresh Spinach,Lunch,5/7/2021
-21,Cheese Pizza,Lunch,5/7/2021
-22,Garden Salad,Lunch,5/7/2021
-23,Mexican Salad w/ Tortilla Strips,Lunch,5/7/2021
-24,Spring Grain Bowl,Lunch,5/7/2021
-25,Oatmeal Raisin Cookies,Lunch,5/7/2021
-0,Smoked Seafood & Bacon Chowder,Dinner,5/7/2021
-1,Chicken Adobo,Dinner,5/7/2021
-2,Korean BBQ Pork,Dinner,5/7/2021
-3,Rice Pilaf,Dinner,5/7/2021
-4,VG Cajun Grilled Tofu,Dinner,5/7/2021
-5,VG Moroccan Couscous & Tofu,Dinner,5/7/2021
-6,VG Organic Brown Basmati Rice,Dinner,5/7/2021
-7,Grilled Honey Chipotle Jack Fruit Sandwich (V),Dinner,5/7/2021
-8,Grilled Pastrami Sandwich,Dinner,5/7/2021
-9,Alfredo Sauce (V),Dinner,5/7/2021
-10,BBQ Brisket Pizza,Dinner,5/7/2021
-11,VG Marinara Sauce,Dinner,5/7/2021
-12,Broccoli w/Garlic & Oil,Dinner,5/7/2021
-13,Cheese Pizza,Dinner,5/7/2021
-14,Garden Salad,Dinner,5/7/2021
-15,Mexican Salad w/ Tortilla Strips,Dinner,5/7/2021
-16,Spring Grain Bowl,Dinner,5/7/2021
-17,Vegan Chocolate Cake w/Vanilla Frosting,Dinner,5/7/2021
-0,Chopped Walnuts,Breakfast,5/6/2021
-1,Craisins,Breakfast,5/6/2021
-2,Organic Hot Oatmeal,Breakfast,5/6/2021
-3,Biscuits and Gravy,Breakfast,5/6/2021
-4,Egg White Scramble (V),Breakfast,5/6/2021
-5,Fresh Spinach,Breakfast,5/6/2021
+8,Sauteed Mushrooms,Breakfast,5/10/2021
+9,Slow Roasted Tomatoes,Breakfast,5/10/2021
+10,VG Chocolate Almond Chia Seed Pudding,Breakfast,5/10/2021
+11,Western Toppings,Breakfast,5/10/2021
+12,Crisp Bacon,Breakfast,5/10/2021
+13,Homestyle Potatoes,Breakfast,5/10/2021
+14,Assorted Bagels,Breakfast,5/10/2021
+15,Assorted Mini Danish w/Nuts,Breakfast,5/10/2021
+16,Assorted Toast,Breakfast,5/10/2021
+17,AF Apple Cinnamon Chia Pudding,Breakfast,5/10/2021
+18,AF BFree Multiseed Bagel,Breakfast,5/10/2021
+19,AF Fresh Fruit Salad,Breakfast,5/10/2021
+20,AF Homestyle Potatoes,Breakfast,5/10/2021
+21,AF Pineapple Chunks,Breakfast,5/10/2021
+22,AF Pork Bacon,Breakfast,5/10/2021
+23,Grapefruit Halves,Breakfast,5/10/2021
+24,VG Sweet Potato Flapjacks,Breakfast,5/10/2021
+25,Brunch,Breakfast,5/10/2021
+26,AF Cape Cod Blend Vegetables,Breakfast,5/10/2021
+27,AF Herb Chicken Stew,Breakfast,5/10/2021
+28,AF Spinach Portabello Salad,Breakfast,5/10/2021
+29,AF VG Organic Brown Basmati Rice,Breakfast,5/10/2021
+30,AF VG Portuguese Bean Stew,Breakfast,5/10/2021
+31,AF VG Roasted Beet & Kale Burger,Breakfast,5/10/2021
+32,VM Minestrone Soup,Breakfast,5/10/2021
+33,Muffaletta,Breakfast,5/10/2021
+34,Spicy Roasted Cauliflower Wrap,Breakfast,5/10/2021
+35,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/10/2021
+36,Tuna Nicoise Wrap,Breakfast,5/10/2021
+37,Beef Stew,Breakfast,5/10/2021
+38,Noodles,Breakfast,5/10/2021
+39,Parmesan Herb Tilapia,Breakfast,5/10/2021
+40,Penne Del Sol w/Tomatoes & Artichokes (V),Breakfast,5/10/2021
+41,"VG Couscous w/Fennel, Chickpeas & Swiss Chard",Breakfast,5/10/2021
+42,VG Organic Brown Basmati Rice,Breakfast,5/10/2021
+43,Breaded Chicken Tenders,Breakfast,5/10/2021
+44,Cheeseburger w. Bun,Breakfast,5/10/2021
+45,Garden Pattie Burger (V),Breakfast,5/10/2021
+46,Grilled Halal Chicken Sandwich,Breakfast,5/10/2021
+47,Hamburger w. Bun,Breakfast,5/10/2021
+48,Hot Dog w. Bun,Breakfast,5/10/2021
+49,Steak Fries,Breakfast,5/10/2021
+50,Mixed Vegetables,Breakfast,5/10/2021
+51,Cheese Pizza,Breakfast,5/10/2021
+52,Fresh Tomato Pizza,Breakfast,5/10/2021
+53,Sausage & Pepperoni Pizza,Breakfast,5/10/2021
+54,Garden Salad,Breakfast,5/10/2021
+55,Grilled Halal Chicken Breast,Breakfast,5/10/2021
+56,Mexican Salad w/ Tortilla Strips,Breakfast,5/10/2021
+57,Spring Grain Bowl,Breakfast,5/10/2021
+58,Butter Sugar Cookies,Breakfast,5/10/2021
+0,VM Minestrone Soup,Dinner,5/10/2021
+1,Chicken Picatta,Dinner,5/10/2021
+2,Coconut & Chili Shrimp,Dinner,5/10/2021
+3,Roasted Red Potato w/Rosemary,Dinner,5/10/2021
+4,VG Basmati Rice,Dinner,5/10/2021
+5,Chick Peas & Vegetables (V),Dinner,5/10/2021
+6,VG Moroccan Eggplant & Garbanzo Bean Stew,Dinner,5/10/2021
+7,VG Organic Brown Basmati Rice,Dinner,5/10/2021
+8,AF Spinach Portabello Salad,Dinner,5/10/2021
+9,AF VG Quinoa Harvest Bake,Dinner,5/10/2021
+10,AF VG Rosemary & Garlic Roasted Potato,Dinner,5/10/2021
+11,AF VG Spaghetti Squash w/Mushroom,Dinner,5/10/2021
+12,AF West Indies Spice Rubbed Chicken Thighs,Dinner,5/10/2021
+13,Baked BBQ Chicken,Dinner,5/10/2021
+14,Breaded Chicken Tenders,Dinner,5/10/2021
+15,Cheeseburger w. Bun,Dinner,5/10/2021
+16,Grilled Halal Chicken Sandwich,Dinner,5/10/2021
+17,Hamburger w. Bun,Dinner,5/10/2021
+18,Hot Dog w. Bun,Dinner,5/10/2021
+19,Steak Fries,Dinner,5/10/2021
+20,Alfredo Sauce (V),Dinner,5/10/2021
+21,VG Marinara Sauce,Dinner,5/10/2021
+22,VG Rigatoni Pasta,Dinner,5/10/2021
+23,VG Whole Wheat Organic Fusili,Dinner,5/10/2021
+24,Green Peas,Dinner,5/10/2021
+25,Cheese Pizza,Dinner,5/10/2021
+26,Fresh Tomato Pizza,Dinner,5/10/2021
+27,Sausage & Pepperoni Pizza,Dinner,5/10/2021
+28,Garden Salad,Dinner,5/10/2021
+29,Grilled Halal Chicken Breast,Dinner,5/10/2021
+30,Mexican Salad w/ Tortilla Strips,Dinner,5/10/2021
+31,Spring Grain Bowl,Dinner,5/10/2021
+32,Raspberry Lemonade Bar,Dinner,5/10/2021
+33,VG Craisin Walnut Bar,Dinner,5/10/2021
+0,Chicken Noodle Soup,Dinner,5/9/2021
+1,Mexican Painted Rice (V),Dinner,5/9/2021
+2,Mushroom Ravioli (V),Dinner,5/9/2021
+3,VG Organic Brown Basmati Rice,Dinner,5/9/2021
+4,VG Pepper Stuffed w/Vegetables &Tofu,Dinner,5/9/2021
+5,VG Tomato Mushroom Artichoke Sauce,Dinner,5/9/2021
+6,AF Spinach Portabello Salad,Dinner,5/9/2021
+7,AF VG - Vegan Dirty Rice,Dinner,5/9/2021
+8,AF VG Tarka Dal,Dinner,5/9/2021
+9,AF Whole Roasted Spiced Cauliflower,Dinner,5/9/2021
+10,Breaded Chicken Tenders,Dinner,5/9/2021
+11,Cheeseburger w. Bun,Dinner,5/9/2021
+12,Grilled Halal Chicken Buffalo,Dinner,5/9/2021
+13,Grilled Halal Chicken Sandwich,Dinner,5/9/2021
+14,Hamburger w. Bun,Dinner,5/9/2021
+15,Hot Dog w. Bun,Dinner,5/9/2021
+16,Steak Fries,Dinner,5/9/2021
+17,VG Eggplant Pasta Sauce,Dinner,5/9/2021
+18,VG Marinara Sauce,Dinner,5/9/2021
+19,VG Spaghetti,Dinner,5/9/2021
+20,VG Whole Wheat Organic Penne Pasta,Dinner,5/9/2021
+21,Broccoli w/Garlic & Oil,Dinner,5/9/2021
+22,Bacon Lettuce Tomato Pizza,Dinner,5/9/2021
+23,"Broccoli, Feta & Mushroom Pizza",Dinner,5/9/2021
+24,Cheese Pizza,Dinner,5/9/2021
+25,Garden Salad,Dinner,5/9/2021
+26,Grilled Halal Chicken Breast,Dinner,5/9/2021
+27,Mexican Salad w/ Tortilla Strips,Dinner,5/9/2021
+28,Spring Grain Bowl,Dinner,5/9/2021
+29,Frosted Carrot Cake with Walnuts,Dinner,5/9/2021
+30,VG Chocolate Brownie,Dinner,5/9/2021
+0,Apple Cinnamon Overnight Oats,Breakfast,5/8/2021
+1,Banana Multigrain Pancakes (V),Breakfast,5/8/2021
+2,Biscuits and Gravy,Breakfast,5/8/2021
+3,White Scramble (V),Breakfast,5/8/2021
+4,Fresh Spinach,Breakfast,5/8/2021
+5,Green Wheat Freekeh,Breakfast,5/8/2021
+6,Hard Cooked Eggs,Breakfast,5/8/2021
+7,Sauteed Mushrooms,Breakfast,5/8/2021
+8,Scrambled Eggs (V),Breakfast,5/8/2021
+9,Slow Roasted Tomatoes,Breakfast,5/8/2021
+10,VG Chocolate Almond Chia Seed Pudding,Breakfast,5/8/2021
+11,Western Toppings,Breakfast,5/8/2021
+12,Green Smoothie,Breakfast,5/8/2021
+13,Apple Maple Chicken Sausage,Breakfast,5/8/2021
+14,Fried Hash Browns,Breakfast,5/8/2021
+15,Assorted Bagels,Breakfast,5/8/2021
+16,Assorted Toast,Breakfast,5/8/2021
+17,VG Banana Bread,Breakfast,5/8/2021
+18,AF Apple Maple Chicken Sausage,Breakfast,5/8/2021
+19,AF BFree Multiseed Bagel,Breakfast,5/8/2021
+20,AF GF Chocolate Sunbutter Pancakes,Breakfast,5/8/2021
+21,AF Pineapple Chunks,Breakfast,5/8/2021
+22,AF Shredded Hash Browns,Breakfast,5/8/2021
+23,AF Sliced Peaches,Breakfast,5/8/2021
+24,"Vegan Potato & Kale ""Quiche""",Breakfast,5/8/2021
+25,Brunch,Breakfast,5/8/2021
+26,Scrambled Eggs (V),Breakfast,5/8/2021
+27,Apple Maple Chicken Sausage,Breakfast,5/8/2021
+28,Fried Hash Browns,Breakfast,5/8/2021
+29,Assorted Bagels,Breakfast,5/8/2021
+30,Assorted Toast,Breakfast,5/8/2021
+31,AF Apple-Broccoli Kale Salad,Breakfast,5/8/2021
+32,AF Curried Chicken Noodle Salad,Breakfast,5/8/2021
+33,AF Fresh Spinach,Breakfast,5/8/2021
+34,AF Sweet Potato Fries,Breakfast,5/8/2021
+35,AF VG Black Bean Chili w/Butternut Squash & Chard,Breakfast,5/8/2021
+36,AF VG Organic Brown Basmati Rice,Breakfast,5/8/2021
+37,Butternut Mulligatawny Soup,Breakfast,5/8/2021
+38,Muffaletta,Breakfast,5/8/2021
+39,Spicy Roasted Cauliflower Wrap,Breakfast,5/8/2021
+40,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/8/2021
+41,Tuna Nicoise Wrap,Breakfast,5/8/2021
+42,Chipotle Macaroni & Cheese (V),Breakfast,5/8/2021
+43,Halal Chicken Shawarma Style,Breakfast,5/8/2021
+44,VG Basmati Rice,Breakfast,5/8/2021
+45,Smoky Chickpeas w/Spinach & Eggplant (V),Breakfast,5/8/2021
+46,VG Coconut Brown Rice w/Tofu,Breakfast,5/8/2021
+47,Breaded Chicken Tenders,Breakfast,5/8/2021
+48,Cheeseburger w. Bun,Breakfast,5/8/2021
+49,Garden Pattie Burger (V),Breakfast,5/8/2021
+50,Grilled Halal Chicken Sandwich,Breakfast,5/8/2021
+51,Hamburger w. Bun,Breakfast,5/8/2021
+52,Hot Dog w. Bun,Breakfast,5/8/2021
+53,Steak Fries,Breakfast,5/8/2021
+54,VG Marinara Sauce,Breakfast,5/8/2021
+55,VG Medium Shell Pasta,Breakfast,5/8/2021
+56,Caribbean Blend Vegetables,Breakfast,5/8/2021
+57,Cheese Pizza,Breakfast,5/8/2021
+58,Mushroom Pizza,Breakfast,5/8/2021
+59,Pepperoni Pizza,Breakfast,5/8/2021
+60,Garden Salad,Breakfast,5/8/2021
+61,Grilled Halal Chicken Breast,Breakfast,5/8/2021
+62,Mexican Salad w/ Tortilla Strips,Breakfast,5/8/2021
+63,Spring Grain Bowl,Breakfast,5/8/2021
+64,7 Layer Bar w/ Walnuts,Breakfast,5/8/2021
+0,Butternut Mulligatawny Soup,Dinner,5/8/2021
+1,Red Curry Beef w/Thai Vegetables,Dinner,5/8/2021
+2,Sausage & Mushroom Lasagna,Dinner,5/8/2021
+3,VG Basmati Rice,Dinner,5/8/2021
+4,VG Organic Brown Basmati Rice,Dinner,5/8/2021
+5,VG Thai Tofu Curry,Dinner,5/8/2021
+6,Vegetable Ravioli w/Primavera Sauce (V),Dinner,5/8/2021
+7,AF Apple-Broccoli Kale Salad,Dinner,5/8/2021
+8,AF Asian Vegetable Blend,Dinner,5/8/2021
+9,AF Orange Beef Stir Fry,Dinner,5/8/2021
+10,AF VG Mujadara w/Leeks & Swiss Chard,Dinner,5/8/2021
+11,AF VG Sticky Rice,Dinner,5/8/2021
+12,Breaded Chicken Tenders,Dinner,5/8/2021
+13,Cheeseburger w. Bun,Dinner,5/8/2021
+14,Grilled Halal Chicken Sandwich,Dinner,5/8/2021
+15,Hamburger w. Bun,Dinner,5/8/2021
+16,Hot Dog w. Bun,Dinner,5/8/2021
+17,Lemon Herb Marinated Chicken,Dinner,5/8/2021
+18,Steak Fries,Dinner,5/8/2021
+19,Pesto Cream Sauce,Dinner,5/8/2021
+20,VG Marinara Sauce,Dinner,5/8/2021
+21,VG Medium Shell Pasta,Dinner,5/8/2021
+22,VG Whole Wheat Organic Spaghetti,Dinner,5/8/2021
+23,Green Beans w/Mushrooms,Dinner,5/8/2021
+24,Cheese Pizza,Dinner,5/8/2021
+25,Mushroom Pizza,Dinner,5/8/2021
+26,Pepperoni Pizza,Dinner,5/8/2021
+27,Garden Salad,Dinner,5/8/2021
+28,Grilled Halal Chicken Breast,Dinner,5/8/2021
+29,Mexican Salad w/ Tortilla Strips,Dinner,5/8/2021
+30,Spring Grain Bowl,Dinner,5/8/2021
+31,Marble Cake w/Chocolate Frosting,Dinner,5/8/2021
+32,Vegan Vanilla Cookie Bar,Dinner,5/8/2021
+0,Apple Cinnamon Overnight Oats,Breakfast,5/7/2021
+1,Biscuits and Gravy,Breakfast,5/7/2021
+2,Buttermilk Pancakes,Breakfast,5/7/2021
+3,White Scramble (V),Breakfast,5/7/2021
+4,Fresh Spinach,Breakfast,5/7/2021
+5,Green Wheat Freekeh,Breakfast,5/7/2021
+6,Hard Cooked Eggs,Breakfast,5/7/2021
+7,Sauteed Mushrooms,Breakfast,5/7/2021
+8,Scrambled Eggs (V),Breakfast,5/7/2021
+9,Slow Roasted Tomatoes,Breakfast,5/7/2021
+10,VG Chocolate Almond Chia Seed Pudding,Breakfast,5/7/2021
+11,Western Toppings,Breakfast,5/7/2021
+12,Orange-Creamsicle Granola Parfait,Breakfast,5/7/2021
+13,Crisp Bacon,Breakfast,5/7/2021
+14,Country Fried Potatoes,Breakfast,5/7/2021
+15,Assorted Bagels,Breakfast,5/7/2021
+16,Assorted Toast,Breakfast,5/7/2021
+17,Mini Butter Croissant w/Nuts,Breakfast,5/7/2021
+18,AF Apple Cinnamon Chia Pudding,Breakfast,5/7/2021
+19,AF BFree Multiseed Bagel,Breakfast,5/7/2021
+20,AF Fresh Fruit Salad,Breakfast,5/7/2021
+21,AF Fresh Kiwi Halves,Breakfast,5/7/2021
+22,AF Pineapple Chunks,Breakfast,5/7/2021
+23,AF Roasted Breakfast Potatoes,Breakfast,5/7/2021
+24,AF Sliced Ham,Breakfast,5/7/2021
+25,AF VG French Toast,Breakfast,5/7/2021
+26,Brunch,Breakfast,5/7/2021
+27,AF Halal Lemon Pepper Chicken Breast,Breakfast,5/7/2021
+28,AF Sauteed Kale,Breakfast,5/7/2021
+29,AF VG Quinoa Chili,Breakfast,5/7/2021
+30,AF VG Spring Vegetable Pilaf w/Artichokes,Breakfast,5/7/2021
+31,Southwest Salad,Breakfast,5/7/2021
+32,Creamy Corn Chowder (V),Breakfast,5/7/2021
+33,Muffaletta,Breakfast,5/7/2021
+34,Spicy Roasted Cauliflower Wrap,Breakfast,5/7/2021
+35,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/7/2021
+36,Tuna Nicoise Wrap,Breakfast,5/7/2021
+37,Garden Chicken Pasta,Breakfast,5/7/2021
+38,Potato Crusted Alaskan Pollock,Breakfast,5/7/2021
+39,Broccoli Quesadilla (V),Breakfast,5/7/2021
+40,VG Mujadara w/Leeks & Swiss Chard,Breakfast,5/7/2021
+41,VG Organic Brown Basmati Rice,Breakfast,5/7/2021
+42,VG Red Beans & Rice,Breakfast,5/7/2021
+43,Breaded Chicken Tenders,Breakfast,5/7/2021
+44,Cheeseburger w. Bun,Breakfast,5/7/2021
+45,Garden Pattie Burger (V),Breakfast,5/7/2021
+46,Grilled Halal Chicken Sandwich,Breakfast,5/7/2021
+47,Hamburger w. Bun,Breakfast,5/7/2021
+48,Hot Dog w. Bun,Breakfast,5/7/2021
+49,Steak Fries,Breakfast,5/7/2021
+50,Cut Green Beans,Breakfast,5/7/2021
+51,Cheese Pizza,Breakfast,5/7/2021
+52,Chicken Pesto Pizza,Breakfast,5/7/2021
+53,Mexican Pizza,Breakfast,5/7/2021
+54,Garden Salad,Breakfast,5/7/2021
+55,Grilled Halal Chicken Breast,Breakfast,5/7/2021
+56,Mexican Salad w/ Tortilla Strips,Breakfast,5/7/2021
+57,Spring Grain Bowl,Breakfast,5/7/2021
+58,Oatmeal Raisin Cookies,Breakfast,5/7/2021
+0,Creamy Corn Chowder (V),Dinner,5/7/2021
+1,Asian Scallop & Shrimp,Dinner,5/7/2021
+2,Chicken Cutlet w/No Sauce,Dinner,5/7/2021
+3,Smashed Red Potatoes (V),Dinner,5/7/2021
+4,Turkey Gravy,Dinner,5/7/2021
+5,VG Chinese Sticky Rice,Dinner,5/7/2021
+6,VG Fishless Fish,Dinner,5/7/2021
+7,VG Pad Thai w/Peanuts,Dinner,5/7/2021
+8,AF Grilled Halal Jerk Chicken Breast,Dinner,5/7/2021
+9,AF Quinoa Stuffed Acorn Squash,Dinner,5/7/2021
+10,AF Succotash Corn,Dinner,5/7/2021
+11,AF VG Steamed White Rice,Dinner,5/7/2021
+12,Southwest Salad,Dinner,5/7/2021
+13,Breaded Chicken Tenders,Dinner,5/7/2021
+14,Cheeseburger w. Bun,Dinner,5/7/2021
+15,Grilled Halal Chicken Sandwich,Dinner,5/7/2021
+16,Grilled Italian Turkey Steak,Dinner,5/7/2021
+17,Hamburger w. Bun,Dinner,5/7/2021
+18,Hot Dog w. Bun,Dinner,5/7/2021
+19,Steak Fries,Dinner,5/7/2021
+20,Basil Cream Sauce (V),Dinner,5/7/2021
+21,VG Fettuccini Pasta,Dinner,5/7/2021
+22,VG Marinara Sauce,Dinner,5/7/2021
+23,VG Whole Wheat Organic Penne Pasta,Dinner,5/7/2021
+24,Fresh Asparagus,Dinner,5/7/2021
+25,Cheese Pizza,Dinner,5/7/2021
+26,Chicken Pesto Pizza,Dinner,5/7/2021
+27,Mexican Pizza,Dinner,5/7/2021
+28,Garden Salad,Dinner,5/7/2021
+29,Grilled Halal Chicken Breast,Dinner,5/7/2021
+30,Mexican Salad w/ Tortilla Strips,Dinner,5/7/2021
+31,Spring Grain Bowl,Dinner,5/7/2021
+32,Frosted Eclairs with Chocolate Filling,Dinner,5/7/2021
+33,Vegan Chocolate Cake w/Vanilla Frosting,Dinner,5/7/2021
+0,Apple Cinnamon Overnight Oats,Breakfast,5/6/2021
+1,Biscuits and Gravy,Breakfast,5/6/2021
+2,White Scramble (V),Breakfast,5/6/2021
+3,French Toast Texas Style (V),Breakfast,5/6/2021
+4,Fresh Spinach,Breakfast,5/6/2021
+5,Fried Eggs (V),Breakfast,5/6/2021
 6,Green Wheat Freekeh,Breakfast,5/6/2021
 7,Hard Cooked Eggs,Breakfast,5/6/2021
-8,Mild Yellow Shredded Cheddar,Breakfast,5/6/2021
-9,Multigrain Pancakes  w/Wild Blueberries,Breakfast,5/6/2021
-10,Sauteed Mushrooms,Breakfast,5/6/2021
-11,Sauteed Onions & Peppers,Breakfast,5/6/2021
-12,Scrambled Eggs (V),Breakfast,5/6/2021
-13,Slow Roasted Tomatoes,Breakfast,5/6/2021
-14,Western Toppings,Breakfast,5/6/2021
-15,Crisp Bacon,Breakfast,5/6/2021
-16,Homestyle Potatoes,Breakfast,5/6/2021
-17,Assorted Bagels,Breakfast,5/6/2021
-18,Assorted Toast,Breakfast,5/6/2021
-19,Blueberry Scone,Breakfast,5/6/2021
-20,Fresh Kiwi Halves,Breakfast,5/6/2021
-21,Fresh Mixed Berries,Breakfast,5/6/2021
-22,Sliced Pears,Breakfast,5/6/2021
-0,Chicken Noodle Soup,Lunch,5/6/2021
-1,Blackened Halal Chicken,Lunch,5/6/2021
-2,Guacamole,Lunch,5/6/2021
-3,Pappardelle Pasta w/ Shredded Chicken,Lunch,5/6/2021
-4,Sour Cream,Lunch,5/6/2021
-5,VG Red Beans & Rice,Lunch,5/6/2021
-6,Whole Wheat Tortilla,Lunch,5/6/2021
-7,Fettucine con Almond (V),Lunch,5/6/2021
-8,"Pasta Tomato, Basil & Mozzarella (V)",Lunch,5/6/2021
-9,VG French Lentil w/Mushroom & Chard Casserole,Lunch,5/6/2021
-10,Breaded Chicken Tenders,Lunch,5/6/2021
-11,Cheeseburger w. Bun,Lunch,5/6/2021
-12,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/6/2021
-13,Grilled Pastrami Sandwich,Lunch,5/6/2021
-14,Hamburger w. Bun,Lunch,5/6/2021
-15,Hot Dog w. Bun,Lunch,5/6/2021
-16,Steak Fries,Lunch,5/6/2021
-17,VG Beet and Kale Burger,Lunch,5/6/2021
-18,Peas & Corn w/Red Peppers,Lunch,5/6/2021
-19,Cheese Pizza,Lunch,5/6/2021
-20,Pineapple & Ham Pizza,Lunch,5/6/2021
-21,Garden Salad,Lunch,5/6/2021
-22,Mexican Salad w/ Tortilla Strips,Lunch,5/6/2021
-23,Spring Grain Bowl,Lunch,5/6/2021
-24,S'Mores Cereal Bar,Lunch,5/6/2021
-0,Smoked Seafood & Bacon Chowder,Dinner,5/6/2021
+8,Sauteed Mushrooms,Breakfast,5/6/2021
+9,Slow Roasted Tomatoes,Breakfast,5/6/2021
+10,VG Chocolate Almond Chia Seed Pudding,Breakfast,5/6/2021
+11,Western Toppings,Breakfast,5/6/2021
+12,Corned Beef Hash,Breakfast,5/6/2021
+13,Shredded Hash Browns,Breakfast,5/6/2021
+14,Assorted Bagels,Breakfast,5/6/2021
+15,Assorted Toast,Breakfast,5/6/2021
+16,Blueberry Scone,Breakfast,5/6/2021
+17,AF BFree Multiseed Bagel,Breakfast,5/6/2021
+18,AF Pork Sausage Patties,Breakfast,5/6/2021
+19,AF Sliced Pears,Breakfast,5/6/2021
+20,AF Tropical Fruit Salad,Breakfast,5/6/2021
+21,AF VG Spicy Sweet Potato Homefries,Breakfast,5/6/2021
+22,Grapefruit Halves,Breakfast,5/6/2021
+23,VG Gluten Free Blueberry Pancakes,Breakfast,5/6/2021
+24,Brunch,Breakfast,5/6/2021
+25,"AF ""Tahini"" Sauce",Breakfast,5/6/2021
+26,AF Chopped Cilantro,Breakfast,5/6/2021
+27,AF Diced Tomatoes,Breakfast,5/6/2021
+28,AF Fresh Mint,Breakfast,5/6/2021
+29,AF Greek Lemon Rice,Breakfast,5/6/2021
+30,AF Greek Salad,Breakfast,5/6/2021
+31,AF Mediterranean Lamb,Breakfast,5/6/2021
+32,AF Sliced Cucumber,Breakfast,5/6/2021
+33,AF Sliced Red Onions,Breakfast,5/6/2021
+34,AF Toum Garlic Sauce,Breakfast,5/6/2021
+35,AF VG Baba Ganoush,Breakfast,5/6/2021
+36,AF VG Hummus,Breakfast,5/6/2021
+37,AF VG Quinoa Tabbouleh,Breakfast,5/6/2021
+38,AF VG Spicy Fried Chickpeas,Breakfast,5/6/2021
+39,Miso Vegetable and Tofu,Breakfast,5/6/2021
+40,Muffaletta,Breakfast,5/6/2021
+41,Spicy Roasted Cauliflower Wrap,Breakfast,5/6/2021
+42,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/6/2021
+43,Tuna Nicoise Wrap,Breakfast,5/6/2021
+44,Macaroni & Cheese (V),Breakfast,5/6/2021
+45,Meatball Sub w/Cheese,Breakfast,5/6/2021
+46,VG Black Beans w/Roasted Tomatoes,Breakfast,5/6/2021
+47,VG Cajun Grilled Tofu,Breakfast,5/6/2021
+48,VG Organic Brown Basmati Rice,Breakfast,5/6/2021
+49,VG Penne w/Sausage & Tomato Sauce,Breakfast,5/6/2021
+50,Breaded Chicken Tenders,Breakfast,5/6/2021
+51,Cheeseburger w. Bun,Breakfast,5/6/2021
+52,Garden Pattie Burger (V),Breakfast,5/6/2021
+53,Grilled Halal Chicken Sandwich,Breakfast,5/6/2021
+54,Hamburger w. Bun,Breakfast,5/6/2021
+55,Hot Dog w. Bun,Breakfast,5/6/2021
+56,Steak Fries,Breakfast,5/6/2021
+57,Cauliflower,Breakfast,5/6/2021
+58,"Broccoli, Onion & Mushroom Pizza",Breakfast,5/6/2021
+59,Cheese Pizza,Breakfast,5/6/2021
+60,Pineapple & Ham Pizza,Breakfast,5/6/2021
+61,Garden Salad,Breakfast,5/6/2021
+62,Grilled Halal Chicken Breast,Breakfast,5/6/2021
+63,Mexican Salad w/ Tortilla Strips,Breakfast,5/6/2021
+64,Spring Grain Bowl,Breakfast,5/6/2021
+65,S'Mores Cereal Bar,Breakfast,5/6/2021
+0,Local Butternut Bisque w/Ginger (V),Dinner,5/6/2021
 1,General Gau's Chicken,Dinner,5/6/2021
-2,Seared Salmon with Rice Noodles and Veg,Dinner,5/6/2021
-3,VG General Tso's Tofu,Dinner,5/6/2021
-4,VG Grilled Cauliflower Steak,Dinner,5/6/2021
-5,VG Vegetable Fried Rice,Dinner,5/6/2021
-6,Beef Onion Jalapeno Topping,Dinner,5/6/2021
-7,Buffalo Chicken,Dinner,5/6/2021
-8,Crisp Bacon,Dinner,5/6/2021
-9,Macaroni & Cheese (V),Dinner,5/6/2021
-10,Pulled Pork,Dinner,5/6/2021
-11,Shrimp & Andouille Sausage,Dinner,5/6/2021
-12,Spicy Fried Cauliflower (V),Dinner,5/6/2021
-13,Wild Mushroom & Truffle Medley,Dinner,5/6/2021
-14,VG Chinese Sticky Rice,Dinner,5/6/2021
-15,Stir Fried Vegetables,Dinner,5/6/2021
-16,VG Herb Roasted Asparagus,Dinner,5/6/2021
-17,French Bread Pizza w/Cheese,Dinner,5/6/2021
-18,French Bread Pizza w/Pepperoni,Dinner,5/6/2021
-19,Chocolate Dipping Sauce,Dinner,5/6/2021
-20,Churros,Dinner,5/6/2021
-21,Fresh Whole Strawberries,Dinner,5/6/2021
-22,M&M's,Dinner,5/6/2021
-23,Oreo Cookie,Dinner,5/6/2021
-24,Reese's Pieces,Dinner,5/6/2021
-0,Chopped Walnuts,Breakfast,5/5/2021
-1,Organic Hot Oatmeal,Breakfast,5/5/2021
-2,Raisins,Breakfast,5/5/2021
-3,Biscuits and Gravy,Breakfast,5/5/2021
-4,Egg White Scramble (V),Breakfast,5/5/2021
-5,French Toast Texas Style (V),Breakfast,5/5/2021
-6,Fresh Spinach,Breakfast,5/5/2021
-7,Green Wheat Freekeh,Breakfast,5/5/2021
-8,Mild Yellow Shredded Cheddar,Breakfast,5/5/2021
-9,Sauteed Mushrooms,Breakfast,5/5/2021
-10,Sauteed Onions & Peppers,Breakfast,5/5/2021
-11,Scrambled Eggs (V),Breakfast,5/5/2021
-12,Slow Roasted Tomatoes,Breakfast,5/5/2021
-13,Western Toppings,Breakfast,5/5/2021
-14,Sausage Links,Breakfast,5/5/2021
-15,Fried Hash Browns,Breakfast,5/5/2021
-16,Almond Danish Ring,Breakfast,5/5/2021
-17,Assorted Bagels,Breakfast,5/5/2021
-18,Assorted Toast,Breakfast,5/5/2021
-19,Fresh Mixed Berries,Breakfast,5/5/2021
-20,Fresh Orange Sections,Breakfast,5/5/2021
-21,Peach Halves,Breakfast,5/5/2021
-0,Chicken Pozole,Lunch,5/5/2021
-1,Beef Fajita,Lunch,5/5/2021
-2,Shrimp Taco w/Chipotle Sauce,Lunch,5/5/2021
-3,"Pasta Tomato, Basil & Mozzarella (V)",Lunch,5/5/2021
-4,VG Caviar Medley Blend Rice,Lunch,5/5/2021
-5,VG French Lentil w/Mushroom & Chard Casserole,Lunch,5/5/2021
-6,Breaded Chicken Tenders,Lunch,5/5/2021
-7,Cheeseburger w. Bun,Lunch,5/5/2021
-8,Grilled Halal Chicken Sandwich,Lunch,5/5/2021
-9,Grilled Honey Chipotle Jack Fruit Sandwich (V),Lunch,5/5/2021
-10,Grilled Pastrami Sandwich,Lunch,5/5/2021
-11,Hamburger w. Bun,Lunch,5/5/2021
-12,Hot Dog w. Bun,Lunch,5/5/2021
-13,Steak Fries,Lunch,5/5/2021
-14,VG Beet and Kale Burger,Lunch,5/5/2021
-15,Zucchini w/Summer Squash & Basil,Lunch,5/5/2021
-16,Cheese Pizza,Lunch,5/5/2021
-17,Garden Salad,Lunch,5/5/2021
-18,Mexican Salad w/ Tortilla Strips,Lunch,5/5/2021
-19,Spring Grain Bowl,Lunch,5/5/2021
-20,Salted Brown Butter Rice Krispie Treat,Lunch,5/5/2021
-0,Chicken Pozole,Dinner,5/5/2021
-1,Carved Aztec Rub Flank Steak,Dinner,5/5/2021
-2,Orecchiette  Pasta w/ Sausage & Tomato,Dinner,5/5/2021
-3,Red Roasted Potatoes,Dinner,5/5/2021
-4,Tofu Tikka Masala (V),Dinner,5/5/2021
-5,VG Organic Brown Basmati Rice,Dinner,5/5/2021
-6,VG Quinoa w/Black Beans & Cilantro,Dinner,5/5/2021
-7,Grilled Honey Chipotle Jack Fruit Sandwich (V),Dinner,5/5/2021
-8,Grilled Pastrami Sandwich,Dinner,5/5/2021
-9,Alfredo Sauce (V),Dinner,5/5/2021
-10,Penne Pasta (V),Dinner,5/5/2021
-11,VG Chinese Sticky Rice,Dinner,5/5/2021
-12,Roasted Carrots w/Dill,Dinner,5/5/2021
-13,Cheese Pizza,Dinner,5/5/2021
-14,Grilled Vegetable Pizza,Dinner,5/5/2021
-15,Garden Salad,Dinner,5/5/2021
-16,Mexican Salad w/ Tortilla Strips,Dinner,5/5/2021
-17,Spring Grain Bowl,Dinner,5/5/2021
-18,VG Chocolate Brownie,Dinner,5/5/2021
-0,Chopped Walnuts,Breakfast,5/4/2021
-1,Craisins,Breakfast,5/4/2021
-2,Organic Hot Oatmeal,Breakfast,5/4/2021
-3,Mango Peach Orange Smoothie,Breakfast,5/4/2021
-4,Biscuits and Gravy,Breakfast,5/4/2021
-5,Egg White Scramble (V),Breakfast,5/4/2021
-6,Fresh Spinach,Breakfast,5/4/2021
-7,Golden Milk Latte Chia Pudding,Breakfast,5/4/2021
-8,Green Wheat Freekeh,Breakfast,5/4/2021
-9,Hard Cooked Eggs,Breakfast,5/4/2021
-10,Mild Yellow Shredded Cheddar,Breakfast,5/4/2021
-11,Raspberry Mocha Overnight Oats,Breakfast,5/4/2021
-12,Sauteed Mushrooms,Breakfast,5/4/2021
-13,Sauteed Onions & Peppers,Breakfast,5/4/2021
-14,Scrambled Eggs (V),Breakfast,5/4/2021
-15,Slow Roasted Tomatoes,Breakfast,5/4/2021
-16,Sweet Potato Pancakes,Breakfast,5/4/2021
-17,Western Toppings,Breakfast,5/4/2021
-18,Corned Beef Hash,Breakfast,5/4/2021
-19,Country Fried Potatoes,Breakfast,5/4/2021
-20,Assorted Bagels,Breakfast,5/4/2021
-21,Assorted Toast,Breakfast,5/4/2021
-22,Whole Grain Blueberry Muffin,Breakfast,5/4/2021
-23,Fresh Mixed Berries,Breakfast,5/4/2021
-24,Grapefruit Sections,Breakfast,5/4/2021
-25,Sliced Pears,Breakfast,5/4/2021
-0,Chicken Shawarma Style,Lunch,5/4/2021
-1,Greek Pita,Lunch,5/4/2021
-2,Rigatoni w/ Wild Mushroom Ragu & Peas,Lunch,5/4/2021
-3,VG Basmati Rice,Lunch,5/4/2021
-4,VG Tahini Sauce,Lunch,5/4/2021
-5,Eggplant Lombardi (V),Lunch,5/4/2021
-6,Naan,Lunch,5/4/2021
-7,VG Ground Crumbles w/VG Curry,Lunch,5/4/2021
-8,VG Organic Black Beans,Lunch,5/4/2021
-9,VG Organic Brown Basmati Rice,Lunch,5/4/2021
-10,Breaded Chicken Tenders,Lunch,5/4/2021
-11,Cheeseburger w. Bun,Lunch,5/4/2021
-12,Cubano Sandwich,Lunch,5/4/2021
-13,Eggplant Parmesan Sub,Lunch,5/4/2021
-14,Garden Pattie Burger (V),Lunch,5/4/2021
-15,Grilled Halal Chicken Sandwich,Lunch,5/4/2021
-16,Hamburger w. Bun,Lunch,5/4/2021
-17,Hot Dog w. Bun,Lunch,5/4/2021
-18,Steak Fries,Lunch,5/4/2021
-19,Beef for Stir Fry,Lunch,5/4/2021
-20,Chicken for Stir Fry,Lunch,5/4/2021
-21,Diced Spanish Onions,Lunch,5/4/2021
-22,Diced Tomatoes,Lunch,5/4/2021
-23,Flour Tortillas,Lunch,5/4/2021
-24,Guacamole,Lunch,5/4/2021
-25,Picante Sauce,Lunch,5/4/2021
-26,Sauteed Onions & Peppers,Lunch,5/4/2021
-27,Sour Cream,Lunch,5/4/2021
-28,Tomatillo Salsa,Lunch,5/4/2021
-29,VG Baked Mexican Tofu,Lunch,5/4/2021
-30,VG Black beans,Lunch,5/4/2021
-31,VG Pinto Beans,Lunch,5/4/2021
-32,VG Steamed White Rice,Lunch,5/4/2021
-33,Fresh Spinach,Lunch,5/4/2021
-34,BBQ Chicken Pizza,Lunch,5/4/2021
-35,Cheese Pizza,Lunch,5/4/2021
-36,Chicken Pesto Grain Bowl,Lunch,5/4/2021
-37,Garden Salad,Lunch,5/4/2021
-38,Kale Caesar Salad,Lunch,5/4/2021
-39,Brown Butter Blondie,Lunch,5/4/2021
-0,Carved Herb & Garlic Pork,Dinner,5/4/2021
-1,Chipotle Apricot Bbq Glazed Chicken Thighs,Dinner,5/4/2021
-2,Whipped Potatoes,Dinner,5/4/2021
-3,VG Organic Brown Basmati Rice,Dinner,5/4/2021
-4,VG Seared Tofu w/Tomato Relish,Dinner,5/4/2021
-5,VG Three Bean Vegetable Chili,Dinner,5/4/2021
-6,Cubano Sandwich,Dinner,5/4/2021
-7,Eggplant Parmesan Sub,Dinner,5/4/2021
-8,Beef & Noodle Stir Fry w/Sesame Garlic Sauce,Dinner,5/4/2021
-9,Tofu & Noodle Stir Fry,Dinner,5/4/2021
-10,Alfredo Sauce (V),Dinner,5/4/2021
-11,Bow Tie Pasta (V),Dinner,5/4/2021
-12,VG Marinara Sauce,Dinner,5/4/2021
-13,Peas & Mushrooms,Dinner,5/4/2021
-14,BBQ Chicken Pizza,Dinner,5/4/2021
-15,Cheese Pizza,Dinner,5/4/2021
-16,Chicken Pesto Grain Bowl,Dinner,5/4/2021
-17,Garden Salad,Dinner,5/4/2021
-18,Kale Caesar Salad,Dinner,5/4/2021
-19,Ultimate Chocolate Cheese Cake,Dinner,5/4/2021
-20,VG Apple Spice Cake w/Maple Buttercream,Dinner,5/4/2021
-0,Chopped Walnuts,Breakfast,5/3/2021
-1,Organic Hot Oatmeal,Breakfast,5/3/2021
-2,Raisins,Breakfast,5/3/2021
-3,Banana Pancakes (V),Breakfast,5/3/2021
-4,Biscuits and Gravy,Breakfast,5/3/2021
-5,Egg White Scramble (V),Breakfast,5/3/2021
-6,Fresh Spinach,Breakfast,5/3/2021
-7,Golden Milk Latte Chia Pudding,Breakfast,5/3/2021
-8,Green Wheat Freekeh,Breakfast,5/3/2021
-9,Hard Cooked Eggs,Breakfast,5/3/2021
-10,Mild Yellow Shredded Cheddar,Breakfast,5/3/2021
-11,Raspberry Mocha Overnight Oats,Breakfast,5/3/2021
-12,Sauteed Mushrooms,Breakfast,5/3/2021
-13,Sauteed Onions & Peppers,Breakfast,5/3/2021
-14,Scrambled Eggs (V),Breakfast,5/3/2021
-15,Slow Roasted Tomatoes,Breakfast,5/3/2021
-16,Western Toppings,Breakfast,5/3/2021
-17,Sliced Oval Ham,Breakfast,5/3/2021
-18,Homestyle Potatoes,Breakfast,5/3/2021
-19,Assorted Bagels,Breakfast,5/3/2021
-20,Assorted Mini Danish w/Nuts,Breakfast,5/3/2021
-21,Assorted Toast,Breakfast,5/3/2021
-22,Fresh Mixed Fruit Sections,Breakfast,5/3/2021
-23,Grapefruit Halves,Breakfast,5/3/2021
-0,Beer Battered Onion Rings,Lunch,5/3/2021
-1,Buffalo Chicken Sandwich,Lunch,5/3/2021
-2,Farfalle w/ Vodka Sauce and Mushrooms,Lunch,5/3/2021
-3,"Spiced Cauliflower, Cashew & Tofu w/Green Masala (V)",Lunch,5/3/2021
-4,VG Organic Brown Basmati Rice,Lunch,5/3/2021
-5,Breaded Chicken Tenders,Lunch,5/3/2021
-6,Cheeseburger w. Bun,Lunch,5/3/2021
-7,Cubano Sandwich,Lunch,5/3/2021
-8,Eggplant Parmesan Sub,Lunch,5/3/2021
-9,Garden Pattie Burger (V),Lunch,5/3/2021
-10,Grilled Halal Chicken Sandwich,Lunch,5/3/2021
-11,Hamburger w. Bun,Lunch,5/3/2021
-12,Hot Dog w. Bun,Lunch,5/3/2021
-13,Steak Fries,Lunch,5/3/2021
-14,Summer Squash,Lunch,5/3/2021
-15,Cheese Pizza,Lunch,5/3/2021
-16,Sausage Pizza,Lunch,5/3/2021
-17,Chicken Pesto Grain Bowl,Lunch,5/3/2021
-18,Garden Salad,Lunch,5/3/2021
-19,Kale Caesar Salad,Lunch,5/3/2021
-20,Funfetti Cookie Bar,Lunch,5/3/2021
-0,Corn Chowder (V),Dinner,5/3/2021
-1,Falafel w. Tzatziki on Pita (V),Dinner,5/3/2021
-2,Red Roasted Potatoes,Dinner,5/3/2021
-3,VG Chick'n Cacciatore,Dinner,5/3/2021
-4,VG Makhni Dal,Dinner,5/3/2021
-5,VG Organic Brown Basmati Rice,Dinner,5/3/2021
-6,VG Quinoa & Spring Vegetable Pilaf,Dinner,5/3/2021
-7,VG Spicy Vegetable Pakora,Dinner,5/3/2021
-8,Ziti w/Broccoli & Sundried Tomatoes (V),Dinner,5/3/2021
-9,Eggplant Parmesan Sub,Dinner,5/3/2021
-10,Alfredo Sauce (V),Dinner,5/3/2021
-11,Penne Pasta (V),Dinner,5/3/2021
-12,VG Marinara Sauce,Dinner,5/3/2021
-13,Steamed Baby Carrots,Dinner,5/3/2021
-14,Cheese Pizza,Dinner,5/3/2021
-15,Garden Salad,Dinner,5/3/2021
-16,Kale Caesar Salad,Dinner,5/3/2021
-17,Mini Ricotta Cannolis,Dinner,5/3/2021
-18,VG Craisin Walnut Bar,Dinner,5/3/2021
-0,Chopped Walnuts,Breakfast,5/2/2021
-1,Organic Hot Oatmeal,Breakfast,5/2/2021
-2,Raisins,Breakfast,5/2/2021
-3,Biscuits and Gravy,Breakfast,5/2/2021
-4,Egg White Scramble (V),Breakfast,5/2/2021
-5,French Toast Texas Style (V),Breakfast,5/2/2021
-6,Fresh Spinach,Breakfast,5/2/2021
-7,Golden Milk Latte Chia Pudding,Breakfast,5/2/2021
-8,Green Wheat Freekeh,Breakfast,5/2/2021
-9,Hard Cooked Eggs,Breakfast,5/2/2021
-10,Mild Yellow Shredded Cheddar,Breakfast,5/2/2021
-11,Raspberry Mocha Overnight Oats,Breakfast,5/2/2021
-12,Sauteed Mushrooms,Breakfast,5/2/2021
-13,Sauteed Onions & Peppers,Breakfast,5/2/2021
-14,Scrambled Eggs (V),Breakfast,5/2/2021
-15,Slow Roasted Tomatoes,Breakfast,5/2/2021
-16,Western Toppings,Breakfast,5/2/2021
-17,Corned Beef Hash,Breakfast,5/2/2021
-18,Shredded Hash Browns,Breakfast,5/2/2021
-19,Assorted Bagels,Breakfast,5/2/2021
-20,Assorted Toast,Breakfast,5/2/2021
-21,Double Chocolate Zucchini Bread,Breakfast,5/2/2021
-22,Fresh Mixed Berries,Breakfast,5/2/2021
-23,Grapefruit Sections,Breakfast,5/2/2021
-0,Egg White Scramble (V),Lunch,5/2/2021
-1,French Toast Texas Style (V),Lunch,5/2/2021
-2,Scrambled Eggs (V),Lunch,5/2/2021
-3,VG Gluten-free Pancakes,Lunch,5/2/2021
-4,Sausage Links,Lunch,5/2/2021
-5,Fried Hash Browns,Lunch,5/2/2021
-6,Root Vegetable Hash,Lunch,5/2/2021
-7,Carved Roast Leg of Lamb,Lunch,5/2/2021
-8,Lemon Garlic & Rosemary Rubbed Chicken,Lunch,5/2/2021
-9,Pastitsio (Vegan Crumbles w/Ziti) (V),Lunch,5/2/2021
-10,Spanakopita,Lunch,5/2/2021
-11,VG Fareekah Tabouleh Salad,Lunch,5/2/2021
-12,VG Quinoa & Spring Vegetable Pilaf,Lunch,5/2/2021
-13,VG Rosemary & Garlic Roasted Potato,Lunch,5/2/2021
-14,Cheese Pizza,Lunch,5/2/2021
-15,Pineapple & Ham Pizza,Lunch,5/2/2021
-16,Greek Salad,Lunch,5/2/2021
-17,Grilled Halal Chicken Breast,Lunch,5/2/2021
-18,Chocolate Chip Cookie,Lunch,5/2/2021
-0,Chicken Parmesan,Dinner,5/2/2021
-1,Shrimp & Grits,Dinner,5/2/2021
-2,Farfalle Pasta w/Spicy Cream Sauce (V),Dinner,5/2/2021
-3,VG Organic Brown Basmati Rice,Dinner,5/2/2021
-4,VG Spicy Vegetable Ragout,Dinner,5/2/2021
-5,Alfredo Sauce (V),Dinner,5/2/2021
-6,VG Marinara Sauce,Dinner,5/2/2021
-7,VG Medium Shell Pasta,Dinner,5/2/2021
-8,Fresh Asparagus,Dinner,5/2/2021
-9,Cheese Pizza,Dinner,5/2/2021
-10,Chicken Pesto Pizza,Dinner,5/2/2021
-11,Chicken Pesto Grain Bowl,Dinner,5/2/2021
-12,Garden Salad,Dinner,5/2/2021
-13,Kale Caesar Salad,Dinner,5/2/2021
-14,Chocolate Cake w/White Frosting,Dinner,5/2/2021
-15,VG Chocolate Brownie,Dinner,5/2/2021
-0,Biscuits and Gravy,Lunch,5/1/2021
-1,Egg White Scramble (V),Lunch,5/1/2021
-2,Fresh Spinach,Lunch,5/1/2021
-3,Golden Milk Latte Chia Pudding,Lunch,5/1/2021
-4,Green Wheat Freekeh,Lunch,5/1/2021
-5,Hard Cooked Eggs,Lunch,5/1/2021
-6,Raspberry Mocha Overnight Oats,Lunch,5/1/2021
-7,Sauteed Mushrooms,Lunch,5/1/2021
-8,Sauteed Onions & Peppers,Lunch,5/1/2021
-9,Scrambled Eggs (V),Lunch,5/1/2021
-10,Slow Roasted Tomatoes,Lunch,5/1/2021
-11,Western Toppings,Lunch,5/1/2021
-12,Buffalo Chicken Wings,Lunch,5/1/2021
-13,Lo Mein Vegetables w/Ginger Sauce (V),Lunch,5/1/2021
-14,Chickpeas & Vegetables (V),Lunch,5/1/2021
-15,Guacamole,Lunch,5/1/2021
-16,Lo Mein Vegetables w/Ginger Sauce (V),Lunch,5/1/2021
-17,VG Red Beans & Rice,Lunch,5/1/2021
-18,VG Taco Filling,Lunch,5/1/2021
-19,Whole Wheat Tortilla,Lunch,5/1/2021
-20,Cheeseburger w. Bun,Lunch,5/1/2021
-21,Cubano Sandwich,Lunch,5/1/2021
-22,Eggplant Parmesan Sub,Lunch,5/1/2021
-23,Garden Pattie Burger (V),Lunch,5/1/2021
-24,Grilled Halal Chicken Sandwich,Lunch,5/1/2021
-25,Hamburger w. Bun,Lunch,5/1/2021
-26,Hot Dog w. Bun,Lunch,5/1/2021
-27,Broccoli w/Garlic & Oil,Lunch,5/1/2021
-28,Cheese Pizza,Lunch,5/1/2021
-29,Pineapple & Ham Pizza,Lunch,5/1/2021
-30,Chicken Pesto Grain Bowl,Lunch,5/1/2021
-31,Garden Salad,Lunch,5/1/2021
-32,Kale Caesar Salad,Lunch,5/1/2021
-33,Chocolate Frosted Brownie,Lunch,5/1/2021
-0,VG Fire Roasted Tomato & Basil Soup,Dinner,5/1/2021
-1,Beef Vindaloo,Dinner,5/1/2021
-2,Oven Browned Potatoes,Dinner,5/1/2021
-3,VG Chinese Sticky Rice,Dinner,5/1/2021
-4,Stuffed Shells w/Sauce (V),Dinner,5/1/2021
-5,VG Chinese Orange Seitan,Dinner,5/1/2021
-6,VG Organic Brown Basmati Rice,Dinner,5/1/2021
-7,VG Organic Edamame Soybeans,Dinner,5/1/2021
-8,Cubano Sandwich,Dinner,5/1/2021
-9,Eggplant Parmesan Sub,Dinner,5/1/2021
-10,Alfredo Sauce (V),Dinner,5/1/2021
-11,VG Marinara Sauce,Dinner,5/1/2021
-12,VG Spaghetti,Dinner,5/1/2021
-13,Spinach w/Mushrooms,Dinner,5/1/2021
-14,Cheese Pizza,Dinner,5/1/2021
-15,Pineapple & Ham Pizza,Dinner,5/1/2021
-16,Chicken Pesto Grain Bowl,Dinner,5/1/2021
-17,Garden Salad,Dinner,5/1/2021
-18,Kale Caesar Salad,Dinner,5/1/2021
-19,Coconut Crunch Cake,Dinner,5/1/2021
-20,Vegan Vanilla Cookie Bar,Dinner,5/1/2021
+2,Salmon w/Red Peppers & Peas,Dinner,5/6/2021
+3,Tortellini w/SunDried Tomatoes (V),Dinner,5/6/2021
+4,Tex Mex Squash Casserole (V),Dinner,5/6/2021
+5,VG Sweet & Sour Tofu,Dinner,5/6/2021
+6,AF Broccoli w/Garlic & Olive Oil,Dinner,5/6/2021
+7,AF VG Quinoa Harvest Bake,Dinner,5/6/2021
+8,AF VG Sticky Rice,Dinner,5/6/2021
+9,General Gau's Chicken Thighs,Dinner,5/6/2021
+10,Cheeseburger w. Bun,Dinner,5/6/2021
+11,Grilled Beef Tips Citrus Chipotle BBQ,Dinner,5/6/2021
+12,Grilled Halal Chicken Sandwich,Dinner,5/6/2021
+13,Hamburger w. Bun,Dinner,5/6/2021
+14,Hot Dog w. Bun,Dinner,5/6/2021
+15,Pesto Cream Sauce,Dinner,5/6/2021
+16,VG Linguini Pasta,Dinner,5/6/2021
+17,VG Marinara Sauce,Dinner,5/6/2021
+18,VG Whole Wheat Organic Fusili,Dinner,5/6/2021
+19,VG Chinese Sticky Rice,Dinner,5/6/2021
+20,Whipped Potatoes w/Garlic (V),Dinner,5/6/2021
+21,Fresh Asparagus,Dinner,5/6/2021
+22,Garden Salad,Dinner,5/6/2021
+23,Grilled Halal Chicken Breast,Dinner,5/6/2021
+24,Mexican Salad w/ Tortilla Strips,Dinner,5/6/2021
+25,Spring Grain Bowl,Dinner,5/6/2021
+26,Ultimate Chocolate Cheese Cake,Dinner,5/6/2021
+27,VG Raspberry Oat Bar,Dinner,5/6/2021
+0,Apple Cinnamon Overnight Oats,Breakfast,5/5/2021
+1,Biscuits and Gravy,Breakfast,5/5/2021
+2,White Scramble (V),Breakfast,5/5/2021
+3,Fresh Spinach,Breakfast,5/5/2021
+4,Green Wheat Freekeh,Breakfast,5/5/2021
+5,Hard Cooked Eggs,Breakfast,5/5/2021
+6,Multigrain Pancake w/Wild Blueberries,Breakfast,5/5/2021
+7,Sauteed Mushrooms,Breakfast,5/5/2021
+8,Scrambled Eggs (V),Breakfast,5/5/2021
+9,Slow Roasted Tomatoes,Breakfast,5/5/2021
+10,VG Chocolate Almond Chia Seed Pudding,Breakfast,5/5/2021
+11,Western Toppings,Breakfast,5/5/2021
+12,Chicken Sausage Patty,Breakfast,5/5/2021
+13,Country Fried Potatoes,Breakfast,5/5/2021
+14,Almond Danish Ring,Breakfast,5/5/2021
+15,Assorted Bagels,Breakfast,5/5/2021
+16,Assorted Toast,Breakfast,5/5/2021
+17,AF Apple Cinnamon Chia Pudding,Breakfast,5/5/2021
+18,AF BFree Multiseed Bagel,Breakfast,5/5/2021
+19,AF Gluten-Free Pancakes,Breakfast,5/5/2021
+20,AF Pineapple Chunks,Breakfast,5/5/2021
+21,AF Pork Bacon,Breakfast,5/5/2021
+22,AF Shredded Hash Browns,Breakfast,5/5/2021
+23,AF Sliced Peaches,Breakfast,5/5/2021
+24,Grapefruit Halves,Breakfast,5/5/2021
+25,"Vegan Potato & Kale ""Quiche""",Breakfast,5/5/2021
+26,Brunch,Breakfast,5/5/2021
+27,AF  Berbere Stew,Breakfast,5/5/2021
+28,AF Apple-Broccoli Kale Salad,Breakfast,5/5/2021
+29,AF Sweet Potato Puffs,Breakfast,5/5/2021
+30,AF Swiss Chard w/ Ginger,Breakfast,5/5/2021
+31,AF Wild Willy's Halal Chicken Breast,Breakfast,5/5/2021
+32,Beef Vegetable Soup,Breakfast,5/5/2021
+33,Muffaletta,Breakfast,5/5/2021
+34,Spicy Roasted Cauliflower Wrap,Breakfast,5/5/2021
+35,Three Cheese Grilled Sandwich w/ Tomatoes (V),Breakfast,5/5/2021
+36,Tuna Nicoise Wrap,Breakfast,5/5/2021
+37,Seasoned Chicken Thigh,Breakfast,5/5/2021
+38,Spaghetti all' Amatriciana,Breakfast,5/5/2021
+39,Garden Vegetable Primavera (V),Breakfast,5/5/2021
+40,Organic Pinto Beans,Breakfast,5/5/2021
+41,VG Organic Brown Basmati Rice,Breakfast,5/5/2021
+42,VG Rajma Dal,Breakfast,5/5/2021
+43,Breaded Chicken Tenders,Breakfast,5/5/2021
+44,Cheeseburger w. Bun,Breakfast,5/5/2021
+45,Garden Pattie Burger (V),Breakfast,5/5/2021
+46,Grilled Halal Chicken Sandwich,Breakfast,5/5/2021
+47,Hamburger w. Bun,Breakfast,5/5/2021
+48,Hot Dog w. Bun,Breakfast,5/5/2021
+49,Steak Fries,Breakfast,5/5/2021
+50,New Brunswick Blend Vegetables,Breakfast,5/5/2021
+51,Cheese Pizza,Breakfast,5/5/2021
+52,Grilled Vegetable Pizza,Breakfast,5/5/2021
+53,Santa Fe Chicken Pizza,Breakfast,5/5/2021
+54,Garden Salad,Breakfast,5/5/2021
+55,Grilled Halal Chicken Breast,Breakfast,5/5/2021
+56,Mexican Salad w/ Tortilla Strips,Breakfast,5/5/2021
+57,Spring Grain Bowl,Breakfast,5/5/2021
+58,Salted Brown Butter Rice Krispie Treat,Breakfast,5/5/2021
+0,Beef Vegetable Soup,Dinner,5/5/2021
+1,Au Jus,Dinner,5/5/2021
+2,Carved Roast Beef,Dinner,5/5/2021
+3,Chicken Vindaloo,Dinner,5/5/2021
+4,Red Bliss Potatoes,Dinner,5/5/2021
+5,VG Basmati Rice,Dinner,5/5/2021
+6,VG Alu Chole,Dinner,5/5/2021
+7,VG Organic Brown Basmati Rice,Dinner,5/5/2021
+8,VG Organic Edamame Soybeans,Dinner,5/5/2021
+9,VG Seitan Stir Fry,Dinner,5/5/2021
+10,VG Spicy Vegetable Pakora,Dinner,5/5/2021
+11,AF Apple-Broccoli Kale Salad,Dinner,5/5/2021
+12,AF BBQ Chicken Quarter,Dinner,5/5/2021
+13,AF VG Alu Chole w/Potato & Garbanzo,Dinner,5/5/2021
+14,AF VG Organic Brown Basmati Rice,Dinner,5/5/2021
+15,AF Whipped Potato w/Chives,Dinner,5/5/2021
+16,AF Whole Green Beans,Dinner,5/5/2021
+17,Breaded Chicken Tenders,Dinner,5/5/2021
+18,Cheeseburger w. Bun,Dinner,5/5/2021
+19,Grilled BBQ Rubbed Chicken,Dinner,5/5/2021
+20,Grilled Halal Chicken Sandwich,Dinner,5/5/2021
+21,Hamburger w. Bun,Dinner,5/5/2021
+22,Hot Dog w. Bun,Dinner,5/5/2021
+23,Steak Fries,Dinner,5/5/2021
+24,Bow Tie Pasta (V),Dinner,5/5/2021
+25,VG Marinara Sauce,Dinner,5/5/2021
+26,VG Tomato Mushroom Sauce,Dinner,5/5/2021
+27,VG Whole Wheat Organic Spaghetti,Dinner,5/5/2021
+28,Broccoli & Cauliflower w/Fresh Lemon,Dinner,5/5/2021
+29,Cheese Pizza,Dinner,5/5/2021
+30,Grilled Vegetable Pizza,Dinner,5/5/2021
+31,Santa Fe Chicken Pizza,Dinner,5/5/2021
+32,Garden Salad,Dinner,5/5/2021
+33,Grilled Halal Chicken Breast,Dinner,5/5/2021
+34,Mexican Salad w/ Tortilla Strips,Dinner,5/5/2021
+35,Spring Grain Bowl,Dinner,5/5/2021
+36,Apple Crisp,Dinner,5/5/2021
+37,VG Chocolate Brownie,Dinner,5/5/2021
+0,Biscuits and Gravy,Breakfast,5/4/2021
+1,White Scramble (V),Breakfast,5/4/2021
+2,Fresh Spinach,Breakfast,5/4/2021
+3,Golden Milk Latte Chia Pudding,Breakfast,5/4/2021
+4,Green Wheat Freekeh,Breakfast,5/4/2021
+5,Hard Cooked Eggs,Breakfast,5/4/2021
+6,Raspberry Mocha Overnight Oats,Breakfast,5/4/2021
+7,Sauteed Mushrooms,Breakfast,5/4/2021
+8,Scrambled Eggs (V),Breakfast,5/4/2021
+9,Slow Roasted Tomatoes,Breakfast,5/4/2021
+10,Vanilla Cinnamon French Toast,Breakfast,5/4/2021
+11,Western Toppings,Breakfast,5/4/2021
+12,Sausage Links,Breakfast,5/4/2021
+13,Fried Hash Browns,Breakfast,5/4/2021
+14,Assorted Bagels,Breakfast,5/4/2021
+15,Assorted Toast,Breakfast,5/4/2021
+16,Whole Grain Blueberry Muffin,Breakfast,5/4/2021
+17,AF Fresh Kiwi Halves,Breakfast,5/4/2021
+18,AF Pineapple Chunks,Breakfast,5/4/2021
+19,AF Sausage Links,Breakfast,5/4/2021
+20,AF Shredded Hash Browns,Breakfast,5/4/2021
+21,AF Tropical Fruit Salad,Breakfast,5/4/2021
+22,Cornmeal Pancakes,Breakfast,5/4/2021
+23,Grapefruit Halves,Breakfast,5/4/2021
+24,Brunch,Breakfast,5/4/2021
+25,AF Barbacoa Lamb,Breakfast,5/4/2021
+26,AF Black Bean & Poblano Tacos,Breakfast,5/4/2021
+27,AF Chopped Cilantro,Breakfast,5/4/2021
+28,AF Corn & Black Bean Salsa,Breakfast,5/4/2021
+29,AF Corn Tortilla,Breakfast,5/4/2021
+30,AF Greek Salad,Breakfast,5/4/2021
+31,AF Guacomole Dip,Breakfast,5/4/2021
+32,AF Halal BBQ Rubbed Chicken,Breakfast,5/4/2021
+33,AF Organic Pinto Beans,Breakfast,5/4/2021
+34,AF Salsa Verde,Breakfast,5/4/2021
+35,AF Sliced Red Onions,Breakfast,5/4/2021
+36,AF VG Organic Brown Basmati Rice,Breakfast,5/4/2021
+37,AF Whole Kernel Corn,Breakfast,5/4/2021
+38,Creole Veggie and Rice,Breakfast,5/4/2021
+39,Crispy Eggplant Mushroom Panini,Breakfast,5/4/2021
+40,Porchetta Sandwich,Breakfast,5/4/2021
+41,"Shitake Tempeh ""Bacon"" Wrap",Breakfast,5/4/2021
+42,Turkey Provencal Wrap,Breakfast,5/4/2021
+43,"Pasta w/Sun Dried Tomato, Artichoke & Red Pepper (V)",Breakfast,5/4/2021
+44,Teriyaki Chicken Drumsticks,Breakfast,5/4/2021
+45,VG Chickpea Vindaloo,Breakfast,5/4/2021
+46,VG Gardein Meatballs in Fresh Local Marinara Sauce,Breakfast,5/4/2021
+47,VG Organic Brown Basmati Rice,Breakfast,5/4/2021
+48,VG Whole Wheat Organic Spaghetti,Breakfast,5/4/2021
+49,Breaded Chicken Tenders,Breakfast,5/4/2021
+50,Cheeseburger w. Bun,Breakfast,5/4/2021
+51,Grilled Halal Chicken Sandwich,Breakfast,5/4/2021
+52,Hamburger w. Bun,Breakfast,5/4/2021
+53,Hot Dog w. Bun,Breakfast,5/4/2021
+54,Steak Fries,Breakfast,5/4/2021
+55,VEG Ten Vegetable Burger,Breakfast,5/4/2021
+56,Whole Kernel Corn,Breakfast,5/4/2021
+57,BBQ Chicken Pizza,Breakfast,5/4/2021
+58,Cheese Pizza,Breakfast,5/4/2021
+59,Grilled Vegetable Pizza,Breakfast,5/4/2021
+60,Chicken Pesto Grain Bowl,Breakfast,5/4/2021
+61,Garden Salad,Breakfast,5/4/2021
+62,Grilled Halal Chicken Breast,Breakfast,5/4/2021
+63,Kale Caesar Salad,Breakfast,5/4/2021
+64,Brown Butter Blondie,Breakfast,5/4/2021
+0,Creole Veggie and Rice,Dinner,5/4/2021
+1,Bamboo Beef,Dinner,5/4/2021
+2,Fried Chicken,Dinner,5/4/2021
+3,Whipped Potato w/Chives,Dinner,5/4/2021
+4,Rainbow Tortellini Primavera (V),Dinner,5/4/2021
+5,VG Organic Brown Basmati Rice,Dinner,5/4/2021
+6,VG Tofu Stir Fry,Dinner,5/4/2021
+7,AF Greek Salad,Dinner,5/4/2021
+8,AF Lemon Pepper Chicken Thighs,Dinner,5/4/2021
+9,AF Maple Roasted Butternut,Dinner,5/4/2021
+10,AF Red Bliss Potatoes,Dinner,5/4/2021
+11,AF VG Quinoa Harvest Bake,Dinner,5/4/2021
+12,AF Whipped Potato w/Chives,Dinner,5/4/2021
+13,Breaded Chicken Tenders,Dinner,5/4/2021
+14,Cheeseburger w. Bun,Dinner,5/4/2021
+15,Grilled Halal Chicken Sandwich,Dinner,5/4/2021
+16,Grilled Lemon Rosemary Turkey Steak,Dinner,5/4/2021
+17,Hamburger w. Bun,Dinner,5/4/2021
+18,Hot Dog w. Bun,Dinner,5/4/2021
+19,Steak Fries,Dinner,5/4/2021
+20,Meat Sauce,Dinner,5/4/2021
+21,VG Marinara Sauce,Dinner,5/4/2021
+22,VG Rotini Pasta,Dinner,5/4/2021
+23,VG Whole Wheat Organic Fusili,Dinner,5/4/2021
+24,Steamed Baby Carrots,Dinner,5/4/2021
+25,BBQ Chicken Pizza,Dinner,5/4/2021
+26,Cheese Pizza,Dinner,5/4/2021
+27,Grilled Vegetable Pizza,Dinner,5/4/2021
+28,Chicken Pesto Grain Bowl,Dinner,5/4/2021
+29,Garden Salad,Dinner,5/4/2021
+30,Grilled Halal Chicken Breast,Dinner,5/4/2021
+31,Kale Caesar Salad,Dinner,5/4/2021
+32,Ultimate Chocolate Cheese Cake,Dinner,5/4/2021
+33,VG Apple Spice Cake w/Maple Buttercream,Dinner,5/4/2021
+0,Biscuits and Gravy,Breakfast,5/3/2021
+1,Blueberry Pancake (V),Breakfast,5/3/2021
+2,White Scramble (V),Breakfast,5/3/2021
+3,Fresh Spinach,Breakfast,5/3/2021
+4,Fried Eggs (V),Breakfast,5/3/2021
+5,Golden Milk Latte Chia Pudding,Breakfast,5/3/2021
+6,Green Wheat Freekeh,Breakfast,5/3/2021
+7,Hard Cooked Eggs,Breakfast,5/3/2021
+8,Raspberry Mocha Overnight Oats,Breakfast,5/3/2021
+9,Sauteed Mushrooms,Breakfast,5/3/2021
+10,Slow Roasted Tomatoes,Breakfast,5/3/2021
+11,Western Toppings,Breakfast,5/3/2021
+12,Mango Pineapple Smoothie,Breakfast,5/3/2021
+13,Crisp Bacon,Breakfast,5/3/2021
+14,Shredded Hash Browns,Breakfast,5/3/2021
+15,Assorted Bagels,Breakfast,5/3/2021
+16,Assorted Mini Danish w/Nuts,Breakfast,5/3/2021
+17,Assorted Toast,Breakfast,5/3/2021
+18,AF Country Fried Potatoes,Breakfast,5/3/2021
+19,AF Orange Creamsicle Chia Pudding,Breakfast,5/3/2021
+20,AF Pineapple Chunks,Breakfast,5/3/2021
+21,AF Pork Sausage Patties,Breakfast,5/3/2021
+22,AF Sliced Peaches,Breakfast,5/3/2021
+23,VG Sweet Potato Flapjacks,Breakfast,5/3/2021
+24,Brunch,Breakfast,5/3/2021
+25,AF Chicken & Vegetable Stir Fry,Breakfast,5/3/2021
+26,AF Fresh Broccoli Florets,Breakfast,5/3/2021
+27,AF Garden Salad,Breakfast,5/3/2021
+28,AF Teriyaki Stir Fry w. Garbanzo Beans,Breakfast,5/3/2021
+29,AF VG Sticky Rice,Breakfast,5/3/2021
+30,VG French Lentil and Greens,Breakfast,5/3/2021
+31,Crispy Eggplant Mushroom Panini,Breakfast,5/3/2021
+32,Porchetta Sandwich,Breakfast,5/3/2021
+33,"Shitake Tempeh ""Bacon"" Wrap",Breakfast,5/3/2021
+34,Turkey Provencal Wrap,Breakfast,5/3/2021
+35,Chicken Pad Thai w/Peanuts,Breakfast,5/3/2021
+36,Lemon Pepper Fish,Breakfast,5/3/2021
+37,Potato Gnocchi w/Mushroom & Tomatoes (V),Breakfast,5/3/2021
+38,VG Mexican Chili w/Bulgar Wheat,Breakfast,5/3/2021
+39,VG Organic Brown Basmati Rice,Breakfast,5/3/2021
+40,Breaded Chicken Tenders,Breakfast,5/3/2021
+41,Cheeseburger w. Bun,Breakfast,5/3/2021
+42,Grilled Halal Chicken Sandwich,Breakfast,5/3/2021
+43,Hamburger w. Bun,Breakfast,5/3/2021
+44,Hot Dog w. Bun,Breakfast,5/3/2021
+45,Steak Fries,Breakfast,5/3/2021
+46,VEG Ten Vegetable Burger,Breakfast,5/3/2021
+47,Peas & Carrots,Breakfast,5/3/2021
+48,Cheese Pizza,Breakfast,5/3/2021
+49,Sausage Pizza,Breakfast,5/3/2021
+50,Vegetable Pizza,Breakfast,5/3/2021
+51,Chicken Pesto Grain Bowl,Breakfast,5/3/2021
+52,Garden Salad,Breakfast,5/3/2021
+53,Grilled Halal Chicken Breast,Breakfast,5/3/2021
+54,Kale Caesar Salad,Breakfast,5/3/2021
+55,Funfetti Cookie Bar,Breakfast,5/3/2021
+0,VG French Lentil and Greens,Dinner,5/3/2021
+1,Chicken Cutlet w/No Sauce,Dinner,5/3/2021
+2,Chicken Gravy,Dinner,5/3/2021
+3,Garlic Mashed Potato,Dinner,5/3/2021
+4,Tomatillo Shrimp,Dinner,5/3/2021
+5,Pasta w/SunDried Tomatoes & Artichoke Hearts (V),Dinner,5/3/2021
+6,VG Organic Brown Basmati Rice,Dinner,5/3/2021
+7,VG Quinoa Harvest Bake,Dinner,5/3/2021
+8,AF Carrots w/Cilantro,Dinner,5/3/2021
+9,AF Chipotle Marinated Flank  Steak,Dinner,5/3/2021
+10,AF Garden Salad,Dinner,5/3/2021
+11,AF Spanish Rice and Cauliflower,Dinner,5/3/2021
+12,AF VG Feijoada,Dinner,5/3/2021
+13,Brazilian Halal Chicken Breast,Dinner,5/3/2021
+14,Breaded Chicken Tenders,Dinner,5/3/2021
+15,Cheeseburger w. Bun,Dinner,5/3/2021
+16,Grilled Halal Chicken Sandwich,Dinner,5/3/2021
+17,Hamburger w. Bun,Dinner,5/3/2021
+18,Hot Dog w. Bun,Dinner,5/3/2021
+19,Steak Fries,Dinner,5/3/2021
+20,Pesto Cream Sauce,Dinner,5/3/2021
+21,VG Linguini Pasta,Dinner,5/3/2021
+22,VG Marinara Sauce,Dinner,5/3/2021
+23,VG Whole Wheat Organic Penne Pasta,Dinner,5/3/2021
+24,Cauliflower,Dinner,5/3/2021
+25,Cheese Pizza,Dinner,5/3/2021
+26,Sausage Pizza,Dinner,5/3/2021
+27,Vegetable Pizza,Dinner,5/3/2021
+28,Chicken Pesto Grain Bowl,Dinner,5/3/2021
+29,Garden Salad,Dinner,5/3/2021
+30,Grilled Halal Chicken Breast,Dinner,5/3/2021
+31,Kale Caesar Salad,Dinner,5/3/2021
+32,Mini Ricotta Cannolis,Dinner,5/3/2021
+33,VG Craisin Walnut Bar,Dinner,5/3/2021
+0,VG Cellar Vegetable and Wild Rice,Dinner,5/2/2021
+1,Carved Roast Turkey,Dinner,5/2/2021
+2,Chicken Cordon Bleu,Dinner,5/2/2021
+3,Cornbread Stuffing,Dinner,5/2/2021
+4,Turkey Gravy,Dinner,5/2/2021
+5,Whipped Potatoes w/Garlic (V),Dinner,5/2/2021
+6,Mexican Casserole (V),Dinner,5/2/2021
+7,Organic Pinto Beans,Dinner,5/2/2021
+8,VG Cutlet,Dinner,5/2/2021
+9,VG Organic Brown Basmati Rice,Dinner,5/2/2021
+10,"AF ""Tahini"" Sauce",Dinner,5/2/2021
+11,AF Baked Sweet Potato,Dinner,5/2/2021
+12,AF Carved Roast Leg of Lamb,Dinner,5/2/2021
+13,AF Greek Salad,Dinner,5/2/2021
+14,AF Toum Garlic Sauce,Dinner,5/2/2021
+15,AF VG Quinoa w/Moroccan Squash & Carrots,Dinner,5/2/2021
+16,AF Zucchini w/Corn Saute,Dinner,5/2/2021
+17,Breaded Chicken Tenders,Dinner,5/2/2021
+18,Cheeseburger w. Bun,Dinner,5/2/2021
+19,Grilled Halal Chicken Sandwich,Dinner,5/2/2021
+20,Hamburger w. Bun,Dinner,5/2/2021
+21,Hot Dog w. Bun,Dinner,5/2/2021
+22,Sausage Sub w/o Roll,Dinner,5/2/2021
+23,Sauteed Onions & Peppers,Dinner,5/2/2021
+24,Steak Fries,Dinner,5/2/2021
+25,Submarine Roll,Dinner,5/2/2021
+26,Penne Pasta (V),Dinner,5/2/2021
+27,Tomato Alfredo Primavera Sauce (V),Dinner,5/2/2021
+28,VG Marinara Sauce,Dinner,5/2/2021
+29,VG Whole Wheat Organic Fusili,Dinner,5/2/2021
+30,VG Green Beans w/Thyme,Dinner,5/2/2021
+31,Cheese Pizza,Dinner,5/2/2021
+32,Chicken Pesto Pizza,Dinner,5/2/2021
+33,Mushroom Pizza,Dinner,5/2/2021
+34,Chicken Pesto Grain Bowl,Dinner,5/2/2021
+35,Garden Salad,Dinner,5/2/2021
+36,Grilled Halal Chicken Breast,Dinner,5/2/2021
+37,Kale Caesar Salad,Dinner,5/2/2021
+38,Chocolate Cake w/White Frosting,Dinner,5/2/2021
+39,VG Chocolate Brownie,Dinner,5/2/2021
+0,Biscuits and Gravy,Breakfast,5/1/2021
+1,White Scramble (V),Breakfast,5/1/2021
+2,Fresh Spinach,Breakfast,5/1/2021
+3,Golden Milk Latte Chia Pudding,Breakfast,5/1/2021
+4,Green Wheat Freekeh,Breakfast,5/1/2021
+5,Hard Cooked Eggs,Breakfast,5/1/2021
+6,Multigrain Pancakes,Breakfast,5/1/2021
+7,Raspberry Mocha Overnight Oats,Breakfast,5/1/2021
+8,Sauteed Mushrooms,Breakfast,5/1/2021
+9,Scrambled Eggs (V),Breakfast,5/1/2021
+10,Slow Roasted Tomatoes,Breakfast,5/1/2021
+11,Western Toppings,Breakfast,5/1/2021
+12,Apple Maple Chicken Sausage,Breakfast,5/1/2021
+13,Fried Hash Browns,Breakfast,5/1/2021
+14,Assorted Bagels,Breakfast,5/1/2021
+15,Assorted Toast,Breakfast,5/1/2021
+16,Cinnamon Sour Cream Coffee Cake,Breakfast,5/1/2021
+17,AF Pineapple Chunks,Breakfast,5/1/2021
+18,AF Pork Bacon,Breakfast,5/1/2021
+19,AF Shredded Hash Browns,Breakfast,5/1/2021
+20,AF Sliced Peaches,Breakfast,5/1/2021
+21,Grapefruit Halves,Breakfast,5/1/2021
+22,VG Gluten Free Blueberry Pancakes,Breakfast,5/1/2021
+23,"Vegan Potato & Kale ""Quiche""",Breakfast,5/1/2021
+24,Brunch,Breakfast,5/1/2021
+25,Scrambled Eggs (V),Breakfast,5/1/2021
+26,Sweet Potato Puffs,Breakfast,5/1/2021
+27,Assorted Bagels,Breakfast,5/1/2021
+28,Assorted Toast,Breakfast,5/1/2021
+29,AF Chicken Shawarma Style,Breakfast,5/1/2021
+30,AF Greek Salad,Breakfast,5/1/2021
+31,AF Mixed Grilled Vegetables,Breakfast,5/1/2021
+32,AF VG Curried Cauliflower & Chickpeas,Breakfast,5/1/2021
+33,AF VG Toasted Quinoa Pilaf,Breakfast,5/1/2021
+34,Beef Barley Soup,Breakfast,5/1/2021
+35,Crispy Eggplant Mushroom Panini,Breakfast,5/1/2021
+36,Porchetta Sandwich,Breakfast,5/1/2021
+37,"Shitake Tempeh ""Bacon"" Wrap",Breakfast,5/1/2021
+38,Turkey Provencal Wrap,Breakfast,5/1/2021
+39,Mongolian Pulled Pork,Breakfast,5/1/2021
+40,Vegetable Macaroni & Cheese (V),Breakfast,5/1/2021
+41,Spinach Artichoke Casserole (V),Breakfast,5/1/2021
+42,VG Fried Vegetarian Rice,Breakfast,5/1/2021
+43,Breaded Chicken Tenders,Breakfast,5/1/2021
+44,Cheeseburger w. Bun,Breakfast,5/1/2021
+45,Grilled Halal Chicken Sandwich,Breakfast,5/1/2021
+46,Hamburger w. Bun,Breakfast,5/1/2021
+47,Hot Dog w. Bun,Breakfast,5/1/2021
+48,Steak Fries,Breakfast,5/1/2021
+49,VEG Ten Vegetable Burger,Breakfast,5/1/2021
+50,VG Marinara Sauce,Breakfast,5/1/2021
+51,VG Rigatoni Pasta,Breakfast,5/1/2021
+52,Cut Green Beans,Breakfast,5/1/2021
+53,Cheese Pizza,Breakfast,5/1/2021
+54,Pineapple & Ham Pizza,Breakfast,5/1/2021
+55,Tomato Pesto Pizza,Breakfast,5/1/2021
+56,Chicken Pesto Grain Bowl,Breakfast,5/1/2021
+57,Garden Salad,Breakfast,5/1/2021
+58,Grilled Halal Chicken Breast,Breakfast,5/1/2021
+59,Kale Caesar Salad,Breakfast,5/1/2021
+60,Chocolate Frosted Brownie,Breakfast,5/1/2021
+0,Beef Barley Soup,Dinner,5/1/2021
+1,Beef & Shrimp Stir Fry,Dinner,5/1/2021
+2,Lemon Chicken,Dinner,5/1/2021
+3,Roasted Potato Medley w/Sage,Dinner,5/1/2021
+4,VG Chinese Sticky Rice,Dinner,5/1/2021
+5,Baked Manicotti (V),Dinner,5/1/2021
+6,VG Braised Spinach w/Chickpeas & Coconut,Dinner,5/1/2021
+7,VG Organic Brown Basmati Rice,Dinner,5/1/2021
+8,AF Broccoli w/Garlic & Olive Oil,Dinner,5/1/2021
+9,AF Greek Salad,Dinner,5/1/2021
+10,AF Grilled Moroccan Chicken Thigh,Dinner,5/1/2021
+11,AF VG Indian Spiced Rice with Peas,Dinner,5/1/2021
+12,AF VG Vegetable Paella,Dinner,5/1/2021
+13,Breaded Chicken Tenders,Dinner,5/1/2021
+14,Cheeseburger w. Bun,Dinner,5/1/2021
+15,Grilled Halal Chicken Sandwich,Dinner,5/1/2021
+16,Hamburger w. Bun,Dinner,5/1/2021
+17,Hot Dog w. Bun,Dinner,5/1/2021
+18,Jerk Chicken Thighs,Dinner,5/1/2021
+19,Steak Fries,Dinner,5/1/2021
+20,VG Marinara Sauce,Dinner,5/1/2021
+21,VG Rigatoni Pasta,Dinner,5/1/2021
+22,VG Tomato Mushroom Artichoke Sauce,Dinner,5/1/2021
+23,VG Whole Wheat Organic Spaghetti,Dinner,5/1/2021
+24,Summer Squash Saute,Dinner,5/1/2021
+25,Cheese Pizza,Dinner,5/1/2021
+26,Pineapple & Ham Pizza,Dinner,5/1/2021
+27,Tomato Pesto Pizza,Dinner,5/1/2021
+28,Chicken Pesto Grain Bowl,Dinner,5/1/2021
+29,Garden Salad,Dinner,5/1/2021
+30,Grilled Halal Chicken Breast,Dinner,5/1/2021
+31,Kale Caesar Salad,Dinner,5/1/2021
+32,Coconut Crunch Cake,Dinner,5/1/2021
+33,Vegan Vanilla Cookie Bar,Dinner,5/1/2021

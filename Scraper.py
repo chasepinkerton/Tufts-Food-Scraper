@@ -16,12 +16,12 @@ year = str(year)
 column_names = ["Dish", "Meal", "Day"]
 df3 = pd.DataFrame(columns = column_names)
 
-while day < 15:
+while day < 18:
     url_date = month + '%2f' + str(day) + '%2f' + year
     date = month + '/' + str(day) + '/' + year
 
     # Get data from menu
-    URL = 'http://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=09&locationName=Carmichael+Dining+Center&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=' + url_date
+    URL = 'http://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick+Dining+Center&naFlag=1&WeeksMenus=This+Week%27s+Menus&myaction=read&dtdate=' + url_date
     page = requests.get(URL)
 
     # Convert to parsed html in Soup format
