@@ -4,21 +4,29 @@ import sys
 from bs4 import BeautifulSoup
 from pprint import pprint
 from fuzzywuzzy import process, fuzz
-import numpy as np
+# import numpy as np
 import pandas as pd
+from datetime import datetime, timedelta
 
-month = 8
-month = str(month)
-day = 1
-year = 2021
-year = str(year)
-column_names = ["Dish", "Meal", "Day"]
-df3 = pd.DataFrame(columns = column_names)
 
-while day < 19:
-    url_date = month + '%2f' + str(day) + '%2f' + year
-    date = month + '/' + str(day) + '/' + year
-    print("\tGetting Menu Data from " + date, flush=True)
+def scrape():
+    date_1 = datetime.strptime(datetime.today().strftime("%m/%d/%Y"), "%m/%d/%Y")
+    end_date = date_1 + timedelta(days=19)
+    # print(end_date)
+
+    url_date = end_date.strftime('%m%%2f%d%%2f%Y')
+
+    # month = datetime.today().strftime('%m')
+    # day = datetime.today().strftime('%d')
+    # year = datetime.today().strftime('%Y')
+    # month = str(8)
+    # day = str(10)
+    # year = str(2021)
+    # url_date = month + '%2f' + day + '%2f' + year 
+    # print(url_date)
+    # date = month + '/' + str(day) + '/' + year
+
+    print("\tGetting Menu Data from " + str(end_date), flush=True)
 
     # Get data from menu
     URL = 'https://menus.tufts.edu/FoodPro%203.1.NET/shortmenu.aspx?sName=TUFTS+DINING&locationNum=11&locationName=Dewick2GO&naFlag=1' + url_date
@@ -72,22 +80,21 @@ while day < 19:
     df_dinner = pd.DataFrame()
     df_dinner['Dish']  = dinner
     df_dinner = df_dinner.assign(Meal='Dinner')
-    
+
     df_brunch = pd.DataFrame()
     df_brunch['Dish']  = brunch
     df_brunch = df_brunch.assign(Meal='Brunch')
+
+    df3 = pd.concat([df_breakfast, df_brunch, df_lunch, df_dinner])
+    df3 = df3.assign(Day=end_date.strftime('%Y-%m-%d'))    
+    # df3.columns = ["Dish", "Meal", "Date"]
+
+    cwd = os.getcwd()
+    path = cwd + "/menu_daily.csv"
+    df3.to_csv(path, mode='a', header=False)
     
-    day = day + 1
-    if (day != 1):
-        df2 = pd.concat([df_breakfast, df_brunch, df_lunch, df_dinner])
-        df2 = df2.assign(Day=date)
-        df3 = pd.concat([df2, df3])
-    else:
-        df3 = pd.concat([df_breakfast, df_brunch, df_lunch, df_dinner])
-        df3 = df1.assign(Day=date)    
-
-
-cwd = os.getcwd()
-path = cwd + "/menu_daily.csv"
-df3.to_csv(path, mode='a', header=False)
-
+def lambda_function():   
+    print("Running Main\n")
+    scrape()
+if __name__ == "__main__":   
+    lambda_function()
