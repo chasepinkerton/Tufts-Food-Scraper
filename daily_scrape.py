@@ -1,3 +1,7 @@
+#
+#   daily_scrape.py
+#   by Chase Pinkerton
+#
 import requests
 import os
 import sys
@@ -5,26 +9,30 @@ import io
 from bs4 import BeautifulSoup
 from pprint import pprint
 from fuzzywuzzy import process, fuzz
-# import numpy as np
 import pandas as pd
 from datetime import datetime, timedelta
 import boto3
 import s3fs
+from io import StringIO
 
+
+# Connect to S3
 s3_client = boto3.client(
     "s3",
-    aws_access_key_id="ASIAVL4ZJ7NGEPO7GWDO",
-    aws_secret_access_key="2UOVRxFGDBvbijQzvIgfkk92U4FThh8xcFDlCFMr",
-    aws_session_token="IQoJb3JpZ2luX2VjEHUaCXVzLWVhc3QtMSJHMEUCIBcUcl5+KNUryiIJJhUGG/SFripEk/u2oz/E3YwvXNoYAiEA7g1LiNuoQ/SW6Nfun452nbqqwixriKb92a1kZiUwa0Mq6wEIfhAAGgwzNjkxNTE4MzQ5NTYiDPZmo+dYt8q7gIm2ASrIAWwXLBTVM6bSIqMm1MPAIl1S7PfoS/0B6L6AGc/DD2DjWwpbjWh8qVXtn8tEKYEO/iGsRQuAbWitjK9wF5M7JGcBbjc0rKG38lGBIIGuRmvClm9y7/j3bq2Xei4iU+GOOG/hHghDpFtXJrqsKndL695Xh7rne7yXLMGl9RPNUt+qX065A+2DHoB1TSeXw1Ip6ot8qfMuShlOrdSXtMLruSQu3HN6JmTmWEdFDvs2k0oS1N4yu6pEwQOsS/K98vZusGXwhw65Hv3BMO6Kh4gGOpgBrTa8C2ay8jkl3qg+nrAZvi12eG3gW3yPWxRj2SR4gQbcbD61ZH+YMxF3Qh+xp5yyDWP3uSYBli+INyxbIeKrECK9szH0Zh9c9VmdOTxfz+GIce1SyPg8rfWCKSO34sYTuxk+vZ5GxiudajyF9GedjylkM1b6nrHEmXcHzhOgXE1C1mVZbg9/T1ZaIM4SDmKjGebqNAveqI0=",
+    aws_access_key_id="aws_access_key_id",
+    aws_secret_access_key="aws_secret_access_key",
+    aws_session_token="aws_session_token",
 )
 
+# Function to Scrape Data
 def scrape():
+    
+    # Get day 19 days from now (Newest menu released by Tufts)
     date_1 = datetime.strptime(datetime.today().strftime("%m/%d/%Y"), "%m/%d/%Y")
     end_date = date_1 + timedelta(days=19)
-    # print(end_date)
 
+    # Convert to correct format for URL
     url_date = end_date.strftime('%m%%2f%d%%2f%Y')
-
 
     print("\tGetting Menu Data from " + str(end_date), flush=True)
 
@@ -45,9 +53,11 @@ def scrape():
 
     # Loop through menu data and store in correct list
     for item in menu:
-        # print(item.text)
+
+        # Data cleaning
         dish = item.text.replace('\xa0','')
-        # print(dish)
+
+        # Sorting to correct meal type
         if (dish == "Breakfast"):
             meal = 1
             continue
@@ -69,6 +79,8 @@ def scrape():
         if (meal == 4):
             brunch.append(dish)
 
+    # Create dataframes for each meal type
+
     df_breakfast = pd.DataFrame()
     df_breakfast['Dish']  = breakfast
     df_breakfast = df_breakfast.assign(Meal='Breakfast')
@@ -85,32 +97,34 @@ def scrape():
     df_brunch['Dish']  = brunch
     df_brunch = df_brunch.assign(Meal='Brunch')
 
+    # Combine Dataframes and append correct date
     df3 = pd.concat([df_breakfast, df_brunch, df_lunch, df_dinner])
     df3 = df3.assign(Day=end_date.strftime('%Y-%m-%d'))    
-    # df3.columns = ["Dish", "Meal", "Date"]
-
-
-    with io.StringIO() as csv_buffer:
-        df3.to_csv(csv_buffer, index=False)
-
-        response = s3_client.put_object(
-            Bucket="tufts-scraped-menu", Key="data/test.csv", Body=csv_buffer.getvalue()
-        )
-
-        status = response.get("ResponseMetadata", {}).get("HTTPStatusCode")
-
-        if status == 200:
-            print(f"Successful S3 put_object response. Status - {status}")
-        else:
-            print(f"Unsuccessful S3 put_object response. Status - {status}")
-
-
-    # cwd = os.getcwd()
-    # path = cwd + "/menu_daily.csv"
-    # df3.to_csv(path, mode='a', header=False)
     
-def lambda_function():   
+    # Retrieve data from bucket and rewrite it
+    with io.StringIO() as csv_buffer:
+        
+        bucket_name = 'tufts-scraped-menu'
+        object_key = 'data/menu_daily.csv'
+        csv_obj = s3_client.get_object(Bucket=bucket_name, Key=object_key)
+        body = csv_obj['Body']
+        csv_string = body.read().decode('utf-8')
+        
+        # Read old menu data 
+        df = pd.read_csv(StringIO(csv_string))
+        
+        # Add new menu data
+        df3 = df.append(df3, ignore_index=True)
+
+        # Write to s3 bucket
+        df3.to_csv(csv_buffer, index=False)
+        response = s3_client.put_object(
+            Bucket="tufts-scraped-menu", Key="data/menu_daily.csv", Body=csv_buffer.getvalue()
+        )
+    
+
+def lambda_handler(event, context):   
     print("Running Main\n")
     scrape()
 if __name__ == "__main__":   
-    lambda_function()
+    lambda_handler()

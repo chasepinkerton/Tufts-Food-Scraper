@@ -1,4 +1,0 @@
-pandas
-numpy
-bs4
-fuzzywuzzy
