@@ -11,25 +11,13 @@ from pprint import pprint
 from fuzzywuzzy import process, fuzz
 import pandas as pd
 from datetime import datetime, timedelta
-import boto3
-import s3fs
-from io import StringIO
-
-
-# Connect to S3
-s3_client = boto3.client(
-    "s3",
-    aws_access_key_id="aws_access_key_id",
-    aws_secret_access_key="aws_secret_access_key",
-    aws_session_token="aws_session_token",
-)
 
 # Function to Scrape Data
 def scrape():
     
     # Get day 19 days from now (Newest menu released by Tufts)
     date_1 = datetime.strptime(datetime.today().strftime("%m/%d/%Y"), "%m/%d/%Y")
-    end_date = date_1 + timedelta(days=19)
+    end_date = date_1 + timedelta(days=1)
 
     # Convert to correct format for URL
     url_date = end_date.strftime('%m%%2f%d%%2f%Y')
@@ -101,29 +89,12 @@ def scrape():
     df3 = pd.concat([df_breakfast, df_brunch, df_lunch, df_dinner])
     df3 = df3.assign(Day=end_date.strftime('%Y-%m-%d'))    
     
-    # Retrieve data from bucket and rewrite it
-    with io.StringIO() as csv_buffer:
-        
-        bucket_name = 'tufts-scraped-menu'
-        object_key = 'data/menu_daily.csv'
-        csv_obj = s3_client.get_object(Bucket=bucket_name, Key=object_key)
-        body = csv_obj['Body']
-        csv_string = body.read().decode('utf-8')
-        
-        # Read old menu data 
-        df = pd.read_csv(StringIO(csv_string))
-        
-        # Add new menu data
-        df3 = df.append(df3, ignore_index=True)
-
-        # Write to s3 bucket
-        df3.to_csv(csv_buffer, index=False)
-        response = s3_client.put_object(
-            Bucket="tufts-scraped-menu", Key="data/menu_daily.csv", Body=csv_buffer.getvalue()
-        )
+    cwd = os.getcwd()
+    path = cwd + "/menu.csv"
+    df3.to_csv(path, mode='a', header=False)
     
 
-def lambda_handler(event, context):   
+def lambda_handler():   
     print("Running Main\n")
     scrape()
 if __name__ == "__main__":   
