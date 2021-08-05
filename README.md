@@ -2,7 +2,6 @@
 - By Chase Pinkerton
 
 # Summary
-
 This repository contains two files: daily_scrape.py and search_menu.py. This allows the user to search for a food item and any matching food is returned. The data returned includes dish, meal type, and day. 
 
 # daily_scrape.py
