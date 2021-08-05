@@ -17,11 +17,11 @@ from io import StringIO
 
 
 # Connect to S3
-s3_client = boto3.client(
-    "s3",
-    aws_access_key_id="aws_access_key_id",
-    aws_secret_access_key="aws_secret_access_key",
-    aws_session_token="aws_session_token",
+s3_client = boto3.resource(
+    service_name='s3',
+    region_name='us-east-1',
+    aws_access_key_id='AKIAVL4ZJ7NGDICR65VG',
+    aws_secret_access_key='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'
 )
 
 # Function to Scrape Data
@@ -50,10 +50,11 @@ def scrape():
     lunch = []
     dinner = []
     meal = 0
+    valid_menu = False
 
     # Loop through menu data and store in correct list
     for item in menu:
-
+        valid_menu = True
         # Data cleaning
         dish = item.text.replace('\xa0','')
 
@@ -78,7 +79,9 @@ def scrape():
             dinner.append(dish)
         if (meal == 4):
             brunch.append(dish)
-
+    if (valid_menu == False):
+        print("Website Down")
+        quit()
     # Create dataframes for each meal type
 
     df_breakfast = pd.DataFrame()
@@ -116,14 +119,11 @@ def scrape():
         # Add new menu data
         df3 = df.append(df3, ignore_index=True)
 
-        # Write to s3 bucket
-        df3.to_csv(csv_buffer, index=False)
-        response = s3_client.put_object(
-            Bucket="tufts-scraped-menu", Key="data/menu_daily.csv", Body=csv_buffer.getvalue()
-        )
+        # Write to local csv
+        df3.to_csv("local_menu", index=False)
     
 
-def lambda_handler(event, context):   
+def lambda_handler():   
     print("Running Main\n")
     scrape()
 if __name__ == "__main__":   
