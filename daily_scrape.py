@@ -98,7 +98,7 @@ def scrape():
     df3 = create_df(breakfast, brunch, lunch, dinner, end_date)
 
     cwd = os.getcwd()
-    path = cwd + "/menu_test.csv"
+    path = cwd + "/menu.csv"
     df3.to_csv(path, mode='a', header=False)
     
 
