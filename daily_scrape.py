@@ -28,7 +28,7 @@ def create_df(breakfast, brunch, lunch, dinner, end_date):
     df_breakfast = pd.DataFrame()
     df_breakfast['Dish']  = breakfast
     df_breakfast = df_breakfast.assign(Meal='Breakfast')
-
+    
     df_lunch = pd.DataFrame()
     df_lunch['Dish']  = lunch
     df_lunch = df_lunch.assign(Meal='Lunch')
@@ -67,12 +67,13 @@ def scrape():
 
     # Filter by class name "shortmenurecipes" and "shortmenumeals" for item/meal
     menu = soup.find_all("div", {"class":["shortmenurecipes", "shortmenumeals"]})
-    
     breakfast, brunch, lunch, dinner = ([] for i in range(4))
+
+    valid_menu = False
 
     # Loop through menu data and store in correct list
     for item in menu:
-
+        valid_menu = True
         # Data cleaning
         dish = item.text.replace('\xa0','')
 
@@ -90,6 +91,9 @@ def scrape():
         if (meal == 4):
             brunch.append(dish)
 
+    if (valid_menu == False):
+        print("Website Down")
+        quit()
     # Create dataframe from lists
     df3 = create_df(breakfast, brunch, lunch, dinner, end_date)
 
@@ -98,7 +102,7 @@ def scrape():
     df3.to_csv(path, mode='a', header=False)
     
 
-def main():   
+def main():     
     scrape()
 if __name__ == "__main__":
     main()
